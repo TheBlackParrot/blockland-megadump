@@ -1,0 +1,4 @@
+$EnvGuiServer::SimpleMode 1
+$EnvGuiServer::SkyFile Add-Ons/Sky_Spooky1/Spooky1.dml
+$EnvGuiServer::WaterFile Add-Ons/Water_Brick/brick.water
+$EnvGuiServer::GroundFile Add-Ons/Ground_TT/gravelly-walk.ground

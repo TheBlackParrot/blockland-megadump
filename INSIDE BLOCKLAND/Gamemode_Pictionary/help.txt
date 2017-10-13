@@ -1,0 +1,17 @@
+<color:00ff00>--= <color:ffffff>GENERAL COMMANDS <color:00ff00>=--
+<color:00ffff>/queue<color:999999> -- <color:ffffff>Enter the drawer queue.
+<color:00ffff>/unqueue<color:999999> -- <color:ffffff>Leave the drawer queue.
+<color:00ffff>/viewQueue<color:999999> -- <color:ffffff>View the drawer queue.
+<color:00ffff>/autoQueue<color:999999> -- <color:ffffff>Automatically requeue at the end of rounds.
+<color:00ffff>/like<color:999999> -- <color:ffffff>Like the current drawing. Both /like and /dislike function as a toggle.
+<color:00ffff>/dislike<color:999999> -- <color:ffffff>Dislike the current drawing.
+<color:00ff00>--= <color:ffffff>DRAWING COMMANDS <color:00ff00>=--
+<color:00ffff>/fill<color:999999> -- <color:ffffff>Fill the board with the active color.
+<color:00ffff>/clear<color:999999> -- <color:ffffff>Reset the board to white.
+<color:00ffff>/newWord<color:999999> -- <color:ffffff>Request a new word. You can only use this command during the start of the round.
+**A<color:ff0000>--= <color:ffffff>ADMIN COMMANDS <color:ff0000>=--
+**A<color:00ffff>/skip <color:999999>-- <color:ffffff>Skip the current drawer.
+**A<color:00ffff>/word <color:999999>-- <color:ffffff>See the word currently in play.
+**A<color:00ffff>/saveDrawing <color:999999>-- <color:ffffff>Save the drawing to a file.
+**S<color:ff0000>--= <color:ffffff>SUPER ADMIN COMMANDS <color:ff0000>=--
+**S<color:00ffff>/startgame <color:999999>-- <color:ffffff>Manually starts the game, in case of things.

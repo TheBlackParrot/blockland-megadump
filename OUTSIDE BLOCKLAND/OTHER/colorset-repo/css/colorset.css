@@ -1,0 +1,39 @@
+.colorset .col {
+	margin-top: 8px;
+	margin-bottom: 8px;
+	float: left;
+}
+.colorset .col:nth-child(2) {
+	/* what */
+	margin-left: 8px;
+}
+.colorset .col:last-child {
+	margin-right: 8px;
+}
+
+.preview .cell {
+	width: 24px;
+	height: 24px;
+	margin: 1px;
+	margin-left: 0px;
+}
+
+.preview {
+	background-color: #fff;
+	display: inline-block;
+	border-radius: 4px;
+	box-shadow: 0px 6px 8px -3px rgba(0, 0, 0, 0.5);
+	margin-right: 24px;
+	margin-bottom: 24px;
+	transition: .25s;
+}
+
+.preview:hover {
+	background-color: #000;
+	transition: .25s;
+}
+.preview:hover .card_head {
+	background-color: #2196F3;
+	color: #fff;
+	transition: .25s;
+}

@@ -1,0 +1,12 @@
+{
+	"Freeze": "Do not move, crouch, or jump. You may look around, punch, type, emote, etc.",
+	"AFK Freeze": "You cannot move at all. All you are allowed to do is type. \"Do not move\" and all variations thereof are considered commands to AFK Freeze.",
+	"Stack": "Stand in a single spot with your team mates.",
+	"Last Reaction (LR)": "The last person to do the command following this is killed. The Warden is automatically the Designated Shooter of Last Reaction unless he designates somebody else.",
+	"First Reaction (FR)": "The first person to do the command following this is killed. The Warden is automatically the Designated Shooter of Fast Reaction unless he designates somebody else.",
+	"Auto-Rebel (AR)": "Doing things considered auto-rebel can get you killed. See Game Guidelines.",
+	"Simon Says": "You must do all commands prefixed with \"Simon says.\" This game must be started with \"We are now playing Simon Says\" and ended with \"We are no longer playing Simon Says\". Variations of this phrase are allowed but it should always be clear. Unless said otherwise, the Warden is always Simon.",
+	"Death Roll": "Each or all prisoners are given one or more numbers. If /roll lands on your number, you die. Successfully surviving the death roll grants you an opt out of an opinionated game, with conditions specifiable by the Warden.",
+	"Opinionated Games": "Games that depend on the personal opinion of the Warden and/or the guards are considered opinionated. Prisoners must be given an option to refuse to participate, before the opinionated game is started. These prisoners can be death rolled or given some other challenge, as long as this challenge is fair. If a majority of the prisoners refuse to play the opinionated game, it cannot be played and the refusing prisoners cannot be death rolled.",
+	"Designated Shooter": "The Warden may assign a designated shooter, who becomes the only person allowed to decide who should die in a Warden's game. Shooting while you are not the designated shooter can potentially get you guardbanned."
+}

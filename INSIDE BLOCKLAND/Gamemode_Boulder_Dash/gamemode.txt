@@ -1,0 +1,159 @@
+ADDON Bot_Blockhead
+ADDON Bot_Hole
+ADDON Bot_Horse
+ADDON Bot_Shark
+ADDON Bot_Zombie
+
+ADDON Brick_Arch
+ADDON Brick_Checkpoint
+ADDON Brick_Christmas_Tree
+ADDON Brick_Doors
+ADDON Brick_Halloween
+ADDON Brick_Large_Cubes
+ADDON Brick_ModTer_BasicPack
+ADDON Brick_ModTer_InvertedPack
+ADDON Brick_Poster_8x
+ADDON Brick_Teledoor
+ADDON Brick_Treasure_Chest
+ADDON Brick_V15
+
+ADDON Emote_Alarm
+ADDON Emote_Confusion
+ADDON Emote_Hate
+ADDON Emote_Love
+
+
+ADDON Item_Key
+ADDON Item_Skis
+ADDON Item_Sports
+
+ADDON Light_Animated
+ADDON Light_Basic
+
+ADDON Particle_Basic
+ADDON Particle_FX_Cans
+ADDON Particle_Grass
+ADDON Particle_Player
+ADDON Particle_Tools
+
+ADDON Player_Fuel_Jet
+ADDON Player_Jump_Jet
+ADDON Player_Leap_Jet
+ADDON Player_No_Jet
+
+
+
+ADDON Print_1x2f_BLPRemote
+ADDON Print_1x2f_Default
+ADDON Print_2x2f_Default
+ADDON Print_2x2r_Default
+ADDON Print_2x2r_Monitor3
+
+ADDON Print_Letters_Default
+ADDON Print_ModTer_Default
+
+ADDON Projectile_GravityRocket
+ADDON Projectile_Pinball
+ADDON Projectile_Pong
+ADDON Projectile_Radio_Wave
+
+//ADDON Script_Player_Persistence
+//ADDON Server_VehicleGore
+
+ADDON Sound_Beeps
+ADDON Sound_Phone
+ADDON Sound_Synth4
+
+ADDON Support_Doors
+//ADDON Support_LegacyDoors
+ADDON Support_Player_Persistence
+
+ADDON Vehicle_Ball
+ADDON Vehicle_Flying_Wheeled_Jeep
+ADDON Vehicle_Horse
+ADDON Vehicle_Jeep
+ADDON Vehicle_Magic_Carpet
+ADDON Vehicle_Pirate_Cannon
+ADDON Vehicle_Rowboat
+ADDON Vehicle_Tank
+
+ADDON Weapon_Bow
+ADDON Weapon_Gun
+ADDON Weapon_Guns_Akimbo
+ADDON Weapon_Horse_Ray
+ADDON Weapon_Push_Broom
+ADDON Weapon_Rocket_Launcher
+ADDON Weapon_Spear
+ADDON Weapon_Sword
+
+ADDON Gamemode_Boulder_Dash
+
+MUSIC After_School_Special
+MUSIC Ambient_Deep
+MUSIC Bass_1
+MUSIC Bass_2
+MUSIC Bass_3
+MUSIC Creepy
+MUSIC Distort
+MUSIC Drums
+MUSIC Factory
+MUSIC Icy
+MUSIC Jungle
+MUSIC Peaceful
+MUSIC Piano_Bass
+MUSIC Rock
+MUSIC Stress_
+
+//environment
+$EnvGuiServer::SimpleMode 1
+$EnvGuiServer::SkyFile Add-Ons/Sky_Skylands/Skylands.dml
+$EnvGuiServer::WaterFile NONE
+$EnvGuiServer::GroundFile Add-Ons/Ground_Plate/plate.ground
+
+$Server::Quota::Schedules 999;
+$Server::QuotaLAN::Schedules 999;
+$Server::WelcomeMessage <color:FFFFFF>Boulders Everywhere!
+$Server::MaxBricksPerSecond 1000
+$Server::MaxPhysVehicles_Total 999999
+$Server::MaxPlayerVehicles_Total 200
+$Server::Quota::Environment 5000
+$Server::Quota::Item 100
+$Server::Quota::Misc 9999
+$Server::Quota::Projectile 200
+$Server::Quota::Schedules 1000
+$Server::Quota::Vehicle 100
+
+//minigame rules
+$MiniGame::Enabled 1
+$MiniGame::GameColor 0
+$MiniGame::InviteOnly 0
+$MiniGame::IncludeAllPlayersBricks 1
+$MiniGame::PlayersUseOwnBricks 0
+
+$MiniGame::Points_BreakBrick 0
+$MiniGame::Points_PlantBrick 0
+$MiniGame::Points_KillPlayer 1
+$MiniGame::Points_KillSelf	-1
+$MiniGame::Points_Die -1
+   
+$MiniGame::RespawnTime 1
+$MiniGame::VehicleRespawnTime 1
+$MiniGame::BrickRespawnTime 1
+
+$MiniGame::UseSpawnBricks 1
+$MiniGame::FallingDamage 1
+$MiniGame::WeaponDamage 0
+$MiniGame::SelfDamage 0
+$MiniGame::VehicleDamage 1
+$MiniGame::BrickDamage 0
+$MiniGame::EnableWand 0
+$MiniGame::EnableBuilding 0
+$MiniGame::EnablePainting 0
+
+$MiniGame::PlayerDataBlockName No-Jet Player
+
+$MiniGame::StartEquipName0 0
+$MiniGame::StartEquipName1 0 
+$MiniGame::StartEquipName2 0
+$MiniGame::StartEquipName3 0
+$MiniGame::StartEquipName4 0

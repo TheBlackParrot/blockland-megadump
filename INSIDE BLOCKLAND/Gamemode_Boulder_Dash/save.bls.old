@@ -1,0 +1,2620 @@
+This is a Blockland save file.  You probably shouldn't modify it cause you'll screw it up.
+1
+
+1.000000 0.000000 0.000000 1.000000
+1.000000 0.137255 0.000000 1.000000
+1.000000 0.494118 0.000000 1.000000
+1.000000 1.000000 0.000000 1.000000
+0.000000 0.784314 0.000000 1.000000
+0.000000 1.000000 1.000000 1.000000
+0.000000 0.494118 1.000000 1.000000
+0.000000 0.000000 1.000000 1.000000
+1.000000 1.000000 1.000000 0.247059
+1.000000 0.000000 0.000000 0.694118
+1.000000 0.137255 0.000000 0.694118
+1.000000 0.494118 0.000000 0.694118
+1.000000 1.000000 0.000000 0.694118
+0.486275 0.984314 0.000000 0.694118
+0.529412 0.803922 0.976471 0.694118
+0.113725 0.564706 1.000000 0.694118
+0.000000 0.000000 1.000000 0.694118
+1.000000 0.901961 0.976471 0.015686
+0.956863 0.874510 0.784314 1.000000
+0.784314 0.921569 0.486275 1.000000
+0.537255 0.694118 0.549020 1.000000
+0.439216 0.501961 0.564706 1.000000
+0.694118 0.658824 0.901961 1.000000
+0.874510 0.556863 0.956863 1.000000
+0.921569 0.513726 0.674510 1.000000
+1.000000 0.603922 0.419608 1.000000
+1.000000 0.839216 0.384314 1.000000
+0.701961 0.129412 0.129412 1.000000
+0.501961 0.000000 0.000000 1.000000
+0.741176 0.741176 0.882353 1.000000
+0.239216 0.349020 0.666667 1.000000
+0.000000 0.137255 0.329412 1.000000
+0.000000 0.501961 0.231373 1.000000
+0.431373 0.541176 0.239216 1.000000
+0.129412 0.266667 0.266667 1.000000
+0.294118 0.000000 0.509804 0.694118
+1.000000 0.901961 0.729412 1.000000
+0.819608 0.701961 0.549020 1.000000
+0.854902 0.647059 0.121569 1.000000
+0.541176 0.349020 0.000000 1.000000
+0.392157 0.349020 0.301961 1.000000
+0.541176 0.486275 0.419608 1.000000
+1.000000 0.000000 0.501961 1.000000
+0.501961 0.000000 0.501961 1.000000
+0.294118 0.000000 0.509804 1.000000
+0.976471 0.976471 0.976471 1.000000
+0.831373 0.800000 0.768627 1.000000
+0.729412 0.721569 0.701961 1.000000
+0.654902 0.639216 0.627451 1.000000
+0.529412 0.513726 0.494118 1.000000
+0.411765 0.392157 0.376471 1.000000
+0.258824 0.247059 0.239216 1.000000
+0.078431 0.078431 0.070588 1.000000
+0.258824 0.247059 0.239216 0.694118
+0.803922 0.666667 0.486275 1.000000
+0.741176 0.584314 0.356863 1.000000
+0.729412 0.537255 0.258824 1.000000
+0.529412 0.392157 0.192157 1.000000
+0.454902 0.313726 0.109804 1.000000
+0.313726 0.239216 0.113725 1.000000
+0.419608 0.258824 0.149020 1.000000
+0.392157 0.192157 0.000000 1.000000
+0.584314 0.309804 0.039216 1.000000
+1.000000 0.000000 1.000000 0.000000
+Linecount 2142
+64x Cube 1/4h" 507 551 4 3 1 34 Letters/-space 0 0 1 1 1
+Vehicle Spawn" 520 1045 0.1 2 1 0  0 0 1 1 1
++-EVENT	0	1	onActivate	0	Player		Kill				
+64x Cube " 571 775 16 1 1 49 Letters/-space 0 0 1 1 1
+1x2x5 Ladder Helper" 521 263.75 1.5 1 1 18  0 0 0 0 0
+1x1 Round" 520.25 263.25 0.3 1 1 18  0 0 1 1 1
+Spawn Point" 515.75 263.75 1.5 0 1 49  0 0 1 1 1
+64x Cube " 539 775 16 1 1 49 Letters/-space 0 0 1 1 1
+Spawn Point" 514.25 263.75 1.5 0 1 49  0 0 1 1 1
+64x Cube " 507 775 16 1 1 18 Letters/-space 0 0 1 1 1
+64x Cube " 475 775 16 1 1 49 Letters/-space 0 0 1 1 1
+1x1" 499.75 828.25 0.3 0 1 0  0 0 1 1 1
++-NTOBJECTNAME _qw
++-EVENT	0	1	onActivate	0	Player		ChangeDataBlock	PlayerStandardArmor			
+Spawn Point" 512.75 263.75 1.5 0 1 49  0 0 1 1 1
+64x Cube " 571 711 16 1 1 49 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 455 4 3 1 34 Letters/-space 0 0 1 1 1
+64x Cube " 571 743 16 1 1 49 Letters/-space 0 0 1 1 1
+64x Cube " 539 711 16 0 1 28 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 487 4 3 1 34 Letters/-space 0 0 1 1 1
+64x Cube " 539 743 16 0 1 2 Letters/-space 0 0 1 1 1
+64x Cube " 475 455 16 1 1 61 Letters/-space 0 0 1 1 1
+64x Cube " 475 487 16 2 1 28 Letters/-space 0 0 1 1 1
+64x Cube " 443 455 16 1 1 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 487 16 1 1 49 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 423 4 3 1 34 Letters/-space 0 0 1 1 1
+64x Cube " 443 231 16 3 1 61 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 391 4 3 1 34 Letters/-space 0 0 1 1 1
+64x Cube " 571 647 16 1 1 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 679 16 1 1 49 Letters/-space 0 0 1 1 1
+64x Cube " 539 647 16 0 1 45 Letters/-space 0 0 1 1 1
+64x Cube " 475 423 16 0 1 18 Letters/-space 0 0 1 1 1
+64x Cube " 539 679 16 0 1 61 Letters/-space 0 0 1 1 1
+64x Cube 3/4h" 475 391 12 0 1 0 Letters/-space 0 0 1 1 1
+64x Cube " 443 423 16 1 1 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 391 16 1 1 49 Letters/-space 0 0 1 1 1
+16x16 Base" 326.5 499 0.1 0 1 2  5 0 1 1 1
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	200	Self		setColor	0			
++-EVENT	2	1	onRelay	400	Self		setColor	3			
++-EVENT	3	1	onRelay	600	Self		setColor	32			
++-EVENT	4	1	onRelay	800	Self		setColor	44			
++-EVENT	5	1	onRelay	1000	Self		setColor	18			
++-EVENT	6	1	onRelay	1200	Self		setColor	2			
++-EVENT	7	1	onRelay	1200	Self		fireRelay				
++-EVENT	8	1	onActivate	0	Self		cancelEvents				
++-EVENT	9	1	onActivate	33	Self		fireRelay				
+16x16 Base" 326.5 507 0.1 0 1 2  5 0 1 1 1
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	200	Self		setColor	0			
++-EVENT	2	1	onRelay	400	Self		setColor	3			
++-EVENT	3	1	onRelay	600	Self		setColor	32			
++-EVENT	4	1	onRelay	800	Self		setColor	44			
++-EVENT	5	1	onRelay	1000	Self		setColor	18			
++-EVENT	6	1	onRelay	1200	Self		setColor	2			
++-EVENT	7	1	onRelay	1200	Self		fireRelay				
++-EVENT	8	1	onActivate	0	Self		cancelEvents				
++-EVENT	9	1	onActivate	33	Self		fireRelay				
+Vehicle Spawn" 738.5 539.5 0.1 1 1 44  0 0 0 0 0
+64x Cube " 571 583 16 1 1 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 615 16 1 1 49 Letters/-space 0 0 1 1 1
+64x Cube " 539 583 16 0 1 3 Letters/-space 0 0 1 1 1
+64x Cube " 539 615 16 0 1 0 Letters/-space 0 0 1 1 1
+64x Cube " 539 263 16 1 1 51 Letters/-space 0 0 1 1 1
+16x16 Base" 310.5 507 0.1 0 1 2  5 0 1 1 1
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	200	Self		setColor	0			
++-EVENT	2	1	onRelay	400	Self		setColor	3			
++-EVENT	3	1	onRelay	600	Self		setColor	32			
++-EVENT	4	1	onRelay	800	Self		setColor	44			
++-EVENT	5	1	onRelay	1000	Self		setColor	18			
++-EVENT	6	1	onRelay	1200	Self		setColor	2			
++-EVENT	7	1	onRelay	1200	Self		fireRelay				
++-EVENT	8	1	onActivate	0	Self		cancelEvents				
++-EVENT	9	1	onActivate	33	Self		fireRelay				
+16x16 Base" 318.5 507 0.1 0 1 2  5 0 1 1 1
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	200	Self		setColor	0			
++-EVENT	2	1	onRelay	400	Self		setColor	3			
++-EVENT	3	1	onRelay	600	Self		setColor	32			
++-EVENT	4	1	onRelay	800	Self		setColor	44			
++-EVENT	5	1	onRelay	1000	Self		setColor	18			
++-EVENT	6	1	onRelay	1200	Self		setColor	2			
++-EVENT	7	1	onRelay	1200	Self		fireRelay				
++-EVENT	8	1	onActivate	0	Self		cancelEvents				
++-EVENT	9	1	onActivate	33	Self		fireRelay				
+16x16 Base" 302.5 507 0.1 0 1 18  5 0 1 1 1
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	200	Self		setColor	0			
++-EVENT	2	1	onRelay	400	Self		setColor	3			
++-EVENT	3	1	onRelay	600	Self		setColor	32			
++-EVENT	4	1	onRelay	800	Self		setColor	44			
++-EVENT	5	1	onRelay	1000	Self		setColor	18			
++-EVENT	6	1	onRelay	1200	Self		setColor	2			
++-EVENT	7	1	onRelay	1200	Self		fireRelay				
++-EVENT	8	1	onActivate	0	Self		cancelEvents				
++-EVENT	9	1	onActivate	33	Self		fireRelay				
+64x Cube " 571 519 16 1 1 49 Letters/-space 0 0 1 1 1
+64x Cube 3/4h" 539 391 12 0 1 0 Letters/-space 0 0 1 1 1
+16x16 Base" 318.5 499 0.1 0 1 3  5 0 1 1 1
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	200	Self		setColor	0			
++-EVENT	2	1	onRelay	400	Self		setColor	3			
++-EVENT	3	1	onRelay	600	Self		setColor	32			
++-EVENT	4	1	onRelay	800	Self		setColor	44			
++-EVENT	5	1	onRelay	1000	Self		setColor	18			
++-EVENT	6	1	onRelay	1200	Self		setColor	2			
++-EVENT	7	1	onRelay	1200	Self		fireRelay				
++-EVENT	8	1	onActivate	0	Self		cancelEvents				
++-EVENT	9	1	onActivate	33	Self		fireRelay				
+64x Cube " 571 551 16 1 1 49 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 539 519 8 0 1 44 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 539 551 8 0 1 32 Letters/-space 0 0 1 1 1
+16x16 Base" 310.5 499 0.1 0 1 3  5 0 1 1 1
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	200	Self		setColor	0			
++-EVENT	2	1	onRelay	400	Self		setColor	3			
++-EVENT	3	1	onRelay	600	Self		setColor	32			
++-EVENT	4	1	onRelay	800	Self		setColor	44			
++-EVENT	5	1	onRelay	1000	Self		setColor	18			
++-EVENT	6	1	onRelay	1200	Self		setColor	2			
++-EVENT	7	1	onRelay	1200	Self		fireRelay				
++-EVENT	8	1	onActivate	0	Self		cancelEvents				
++-EVENT	9	1	onActivate	33	Self		fireRelay				
+16x16 Base" 302.5 499 0.1 0 1 3  5 0 1 1 1
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	200	Self		setColor	0			
++-EVENT	2	1	onRelay	400	Self		setColor	3			
++-EVENT	3	1	onRelay	600	Self		setColor	32			
++-EVENT	4	1	onRelay	800	Self		setColor	44			
++-EVENT	5	1	onRelay	1000	Self		setColor	18			
++-EVENT	6	1	onRelay	1200	Self		setColor	2			
++-EVENT	7	1	onRelay	1200	Self		fireRelay				
++-EVENT	8	1	onActivate	0	Self		cancelEvents				
++-EVENT	9	1	onActivate	33	Self		fireRelay				
+64x Cube 1/4h" 539 295 4 0 1 44 Letters/-space 0 0 1 1 1
+64x Cube " 571 263 16 1 1 0 Letters/-space 0 0 1 1 1
+64x Cube " 571 295 16 1 1 44 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 539 327 4 1 1 32 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 539 359 8 3 1 3 Letters/-space 0 0 1 1 1
+64x Cube " 571 327 16 1 1 32 Letters/-space 0 0 1 1 1
+64x Cube " 571 359 16 1 1 3 Letters/-space 0 0 1 1 1
+64x Cube " 539 423 16 0 1 18 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 327 4 1 1 32 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 327 4 3 1 34 Letters/-space 0 0 1 1 1
+1x1" 505.25 828.25 0.3 0 1 44  0 0 1 1 1
++-EVENT	0	1	onActivate	0	Player		Kill				
+64x Cube " 443 775 16 1 1 49 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 711 4 3 1 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 743 4 3 1 34 Letters/-space 0 0 1 1 1
+64x Cube " 475 711 16 0 1 28 Letters/-space 0 0 1 1 1
+1x6" 488 172.75 0.3 1 1 0  0 0 1 1 1
++-EVENT	0	1	onActivate	0	MiniGame		CenterPrintAll	<color:FFFFFF><font:impact:33>The first person who wins 8 times in a row will win a plaque on the ceiling!<br>GO!	10		
+64x Cube 1/4h" 507 359 4 3 1 34 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 475 359 8 3 1 3 Letters/-space 0 0 1 1 1
+64x Cube " 443 199 16 3 1 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 391 16 1 1 0 Letters/-space 0 0 1 1 1
+64x Cube " 571 423 16 1 1 18 Letters/-space 0 0 1 1 1
+64x Cube " 443 359 16 1 1 49 Letters/-space 0 0 1 1 1
+64x Cube " 475 743 16 0 1 2 Letters/-space 0 0 1 1 1
+64x Cube " 443 327 16 1 1 32 Letters/-space 0 0 1 1 1
+1x1" 416.25 365.25 0.3 0 1 0  0 0 1 1 1
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		setColor	0			
++-EVENT	2	1		0							
++-EVENT	3	1	onRelay	33	Self		fireRelay				
++-EMITTER Player Foam" 0
+1x1" 416.75 369.25 0.3 0 1 0  0 0 1 1 1
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	0	Self		setColor	0			
++-EVENT	2	1		0							
++-EVENT	3	1	onRelay	33	Self		fireRelay				
+64x Cube 1/4h" 475 295 4 0 1 44 Letters/-space 0 0 1 1 1
+64x Ramp 1/4h" 507 295 4 3 1 44 ModTer/brickTOP 0 0 1 1 1
+64x Cube " 475 263 16 1 1 51 Letters/-space 0 0 1 1 1
+64x64 Zone Cube" 507 263 16 0 1 8  3 0 1 0 0
++-EVENT	0	1	onVehicleEnterZone	0	Vehicle		respawn				
++-EVENT	1	1	onVehicleEnterZone	0	Vehicle		spawnExplosion	spawnProjectile	1		
+64x Cube " 539 487 16 2 1 28 Letters/-space 0 0 1 1 1
+64x Cube " 539 455 16 1 1 61 Letters/-space 0 0 1 1 1
+64x Cube " 571 487 16 1 1 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 455 16 1 1 61 Letters/-space 0 0 1 1 1
+Spawn Point" 496.25 263.75 1.5 0 1 49  0 0 1 1 1
+Spawn Point" 497.75 263.75 1.5 0 1 49  0 0 1 1 1
+Spawn Point" 499.25 263.75 1.5 0 1 49  0 0 1 1 1
+Spawn Point" 500.75 263.75 1.5 0 1 49  0 0 1 1 1
+Spawn Point" 502.25 263.75 1.5 0 1 49  0 0 1 1 1
+Spawn Point" 503.75 263.75 1.5 0 1 49  0 0 1 1 1
+Spawn Point" 505.25 263.75 1.5 0 1 49  0 0 1 1 1
+Spawn Point" 506.75 263.75 1.5 0 1 49  0 0 1 1 1
+Spawn Point" 508.25 263.75 1.5 0 1 49  0 0 1 1 1
+Spawn Point" 509.75 263.75 1.5 0 1 49  0 0 1 1 1
+Spawn Point" 511.25 263.75 1.5 0 1 49  0 0 1 1 1
+Spawn Point" 491.75 263.75 1.5 0 1 49  0 0 1 1 1
+Spawn Point" 493.25 263.75 1.5 0 1 49  0 0 1 1 1
+Spawn Point" 494.75 263.75 1.5 0 1 49  0 0 1 1 1
+64x Cube " 443 295 16 1 1 44 Letters/-space 0 0 1 1 1
+64x Cube " 443 263 16 1 1 49 Letters/-space 0 0 1 1 1
+16x16 Base" 302.5 523 0.1 0 1 3  5 0 1 1 1
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	200	Self		setColor	0			
++-EVENT	2	1	onRelay	400	Self		setColor	3			
++-EVENT	3	1	onRelay	600	Self		setColor	32			
++-EVENT	4	1	onRelay	800	Self		setColor	44			
++-EVENT	5	1	onRelay	1000	Self		setColor	18			
++-EVENT	6	1	onRelay	1200	Self		setColor	2			
++-EVENT	7	1	onRelay	1200	Self		fireRelay				
++-EVENT	8	1	onActivate	0	Self		cancelEvents				
++-EVENT	9	1	onActivate	33	Self		fireRelay				
+16x16 Base" 302.5 515 0.1 0 1 32  5 0 1 1 1
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	200	Self		setColor	0			
++-EVENT	2	1	onRelay	400	Self		setColor	3			
++-EVENT	3	1	onRelay	600	Self		setColor	32			
++-EVENT	4	1	onRelay	800	Self		setColor	44			
++-EVENT	5	1	onRelay	1000	Self		setColor	18			
++-EVENT	6	1	onRelay	1200	Self		setColor	2			
++-EVENT	7	1	onRelay	1200	Self		fireRelay				
++-EVENT	8	1	onActivate	0	Self		cancelEvents				
++-EVENT	9	1	onActivate	33	Self		fireRelay				
+16x16 Base" 310.5 523 0.1 0 1 32  5 0 1 1 1
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	200	Self		setColor	0			
++-EVENT	2	1	onRelay	400	Self		setColor	3			
++-EVENT	3	1	onRelay	600	Self		setColor	32			
++-EVENT	4	1	onRelay	800	Self		setColor	44			
++-EVENT	5	1	onRelay	1000	Self		setColor	18			
++-EVENT	6	1	onRelay	1200	Self		setColor	2			
++-EVENT	7	1	onRelay	1200	Self		fireRelay				
++-EVENT	8	1	onActivate	0	Self		cancelEvents				
++-EVENT	9	1	onActivate	33	Self		fireRelay				
+16x16 Base" 310.5 515 0.1 0 1 3  5 0 1 1 1
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	200	Self		setColor	0			
++-EVENT	2	1	onRelay	400	Self		setColor	3			
++-EVENT	3	1	onRelay	600	Self		setColor	32			
++-EVENT	4	1	onRelay	800	Self		setColor	44			
++-EVENT	5	1	onRelay	1000	Self		setColor	18			
++-EVENT	6	1	onRelay	1200	Self		setColor	2			
++-EVENT	7	1	onRelay	1200	Self		fireRelay				
++-EVENT	8	1	onActivate	0	Self		cancelEvents				
++-EVENT	9	1	onActivate	33	Self		fireRelay				
+16x16 Base" 318.5 523 0.1 0 1 18  5 0 1 1 1
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	200	Self		setColor	0			
++-EVENT	2	1	onRelay	400	Self		setColor	3			
++-EVENT	3	1	onRelay	600	Self		setColor	32			
++-EVENT	4	1	onRelay	800	Self		setColor	44			
++-EVENT	5	1	onRelay	1000	Self		setColor	18			
++-EVENT	6	1	onRelay	1200	Self		setColor	2			
++-EVENT	7	1	onRelay	1200	Self		fireRelay				
++-EVENT	8	1	onActivate	0	Self		cancelEvents				
++-EVENT	9	1	onActivate	33	Self		fireRelay				
+16x16 Base" 318.5 515 0.1 0 1 32  5 0 1 1 1
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	200	Self		setColor	0			
++-EVENT	2	1	onRelay	400	Self		setColor	3			
++-EVENT	3	1	onRelay	600	Self		setColor	32			
++-EVENT	4	1	onRelay	800	Self		setColor	44			
++-EVENT	5	1	onRelay	1000	Self		setColor	18			
++-EVENT	6	1	onRelay	1200	Self		setColor	2			
++-EVENT	7	1	onRelay	1200	Self		fireRelay				
++-EVENT	8	1	onActivate	0	Self		cancelEvents				
++-EVENT	9	1	onActivate	33	Self		fireRelay				
+16x16 Base" 326.5 523 0.1 0 1 2  5 0 1 1 1
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	200	Self		setColor	0			
++-EVENT	2	1	onRelay	400	Self		setColor	3			
++-EVENT	3	1	onRelay	600	Self		setColor	32			
++-EVENT	4	1	onRelay	800	Self		setColor	44			
++-EVENT	5	1	onRelay	1000	Self		setColor	18			
++-EVENT	6	1	onRelay	1200	Self		setColor	2			
++-EVENT	7	1	onRelay	1200	Self		fireRelay				
++-EVENT	8	1	onActivate	0	Self		cancelEvents				
++-EVENT	9	1	onActivate	33	Self		fireRelay				
+16x16 Base" 326.5 515 0.1 0 1 2  5 0 1 1 1
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	200	Self		setColor	0			
++-EVENT	2	1	onRelay	400	Self		setColor	3			
++-EVENT	3	1	onRelay	600	Self		setColor	32			
++-EVENT	4	1	onRelay	800	Self		setColor	44			
++-EVENT	5	1	onRelay	1000	Self		setColor	18			
++-EVENT	6	1	onRelay	1200	Self		setColor	2			
++-EVENT	7	1	onRelay	1200	Self		fireRelay				
++-EVENT	8	1	onActivate	0	Self		cancelEvents				
++-EVENT	9	1	onActivate	33	Self		fireRelay				
+64x Cube " 443 551 16 1 1 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 519 16 1 1 49 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 475 551 8 0 1 32 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 475 519 8 0 1 44 Letters/-space 0 0 1 1 1
+1x1" 426.25 265.75 0.3 0 1 0  0 0 1 1 0
++-EVENT	0	1	onActivate	0	Player		ChangeDataBlock	PlayerStandardArmor			
++-EVENT	1	1	onActivate	0	Player		SetPlayerScale	1.1			
+1x1 Round" 521.75 263.25 0.3 1 1 47  0 0 1 1 1
+64x Cube 1/4h" 507 519 4 3 1 34 Letters/-space 0 0 1 1 1
+64x Cube " 443 615 16 1 1 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 583 16 1 1 49 Letters/-space 0 0 1 1 1
+64x Cube " 475 615 16 0 1 0 Letters/-space 0 0 1 1 1
+64x Cube " 475 583 16 0 1 3 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 615 4 3 1 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 583 4 3 1 34 Letters/-space 0 0 1 1 1
+64x Cube " 443 679 16 1 1 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 647 16 1 1 49 Letters/-space 0 0 1 1 1
+64x Cube " 475 679 16 0 1 61 Letters/-space 0 0 1 1 1
+64x Cube " 475 647 16 0 1 45 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 679 4 3 1 34 Letters/-space 0 0 1 1 1
+64x Cube " 571 231 16 3 1 61 Letters/-space 0 0 1 1 1
+64x Cube " 571 199 16 3 1 49 Letters/-space 0 0 1 1 1
+64x Wedge" 539 231 16 3 1 51 Letters/-space 0 0 1 1 1
+64x Cube " 539 199 16 3 1 32 Letters/-space 0 0 1 1 1
+32x Cube" 515 255 8 0 1 51  0 0 1 1 1
+64x Cube 1/4h" 507 647 4 3 1 34 Letters/-space 0 0 1 1 1
+64x Cube " 443 743 16 1 1 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 711 16 1 1 49 Letters/-space 0 0 1 1 1
+64x Cube " 507 231 16 1 1 51 Letters/-space 0 0 1 1 1
+64x Cube " 507 199 16 3 1 49 Letters/-space 0 0 1 1 1
+64x Wedge" 475 231 16 0 1 51 Letters/-space 0 0 1 1 1
+64x Cube " 475 199 16 3 1 18 Letters/-space 0 0 1 1 1
++-EVENT	0	1	onActivate	0	Player		SetPlayerScale	2			
+32x Cube" 499 255 8 0 1 51  0 0 1 1 1
+2x2F Print" 500.5 251 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 500.5 249 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 502.5 251 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 503.5 252 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 503.5 250 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 501.5 249 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 503.5 249 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 502.5 250 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 500.5 250 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 501.5 251 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 503.5 251 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 502.5 252 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 500.5 252 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 498.5 256 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 499.5 255 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 497.5 255 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 498.5 254 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 499.5 253 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 497.5 253 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 496.5 254 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 496.5 256 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 499.5 254 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 498.5 253 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 497.5 254 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 498.5 255 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 496.5 255 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 496.5 253 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 497.5 256 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 499.5 256 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 500.5 256 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 502.5 256 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 503.5 255 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 501.5 255 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 500.5 254 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 502.5 254 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 503.5 253 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 501.5 253 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 503.5 254 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 502.5 253 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 501.5 254 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 502.5 255 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 500.5 255 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 500.5 253 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 501.5 256 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 503.5 256 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 507.5 249 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 504.5 252 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 506.5 252 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 507.5 251 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 505.5 251 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 505.5 249 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 504.5 250 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 506.5 250 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 507.5 250 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 507.5 252 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 506.5 251 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 506.5 249 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 505.5 250 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 504.5 249 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 504.5 251 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 505.5 252 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 508.5 249 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 508.5 251 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 509.5 252 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 509.5 250 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 510.5 249 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 510.5 251 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 511.5 252 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 511.5 250 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 509.5 249 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 511.5 249 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 510.5 250 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 508.5 250 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 509.5 251 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 511.5 251 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 510.5 252 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 508.5 252 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 504.5 255 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 507.5 256 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 505.5 256 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 504.5 253 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 506.5 255 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 505.5 254 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 506.5 253 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 507.5 254 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 505.5 253 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 507.5 253 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 506.5 254 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 504.5 254 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 505.5 255 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 507.5 255 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 506.5 256 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 504.5 256 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 511.5 256 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 509.5 256 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 508.5 253 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 508.5 255 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 509.5 254 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 510.5 253 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 510.5 255 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 511.5 254 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 509.5 253 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 511.5 253 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 510.5 254 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 508.5 254 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 509.5 255 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 511.5 255 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 510.5 256 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 508.5 256 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x16" 511 247.25 20.5 1 0 52  3 0 1 1 1
+1x16" 503 247.25 20.5 1 0 52  3 0 1 1 1
+32x32 Base" 499 255 16.1 0 0 49  0 0 1 1 1
+2x2F Print" 501.5 252 16.3 0 0 36 Letters/-space 0 0 1 1 1
+64x Cube " 507 199 48 3 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 475 199 48 3 0 18 Letters/-space 0 0 1 1 1
+2x2F Print" 497.5 252 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 496.5 251 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 496.5 249 16.3 0 0 36 Letters/-space 0 0 1 1 1
+Poster 8x" 505 247.25 18.2 3 0 51 Letters/R 3 0 1 1 1
++-NTOBJECTNAME _5
+64x Cube 1/4h" 507 743 12 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 475 711 48 0 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 475 743 48 0 0 2 Letters/-space 0 0 1 1 1
+Poster 8x" 509 247.25 18.2 3 0 49 Letters/-space 3 0 1 1 1
++-NTOBJECTNAME _4
+2x2F Print" 504.5 248 16.3 0 0 31 Letters/-space 0 0 1 1 1
+64x Cube " 443 711 48 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 743 48 1 0 49 Letters/-space 0 0 1 1 1
+2x2F Print" 506.5 248 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 512.5 248 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 514.5 248 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 516.5 248 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 518.5 248 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 519.5 248 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 517.5 248 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 515.5 248 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 513.5 248 16.3 0 0 36 Letters/-space 0 0 1 1 1
+Poster 8x" 513 247.25 18.2 3 0 51 Letters/K 3 0 1 1 1
+Poster 8x" 517 247.25 18.2 3 0 49 Letters/F 3 0 1 1 1
+2x2F Print" 520.5 248 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 522.5 248 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 521.5 248 16.3 0 0 36 Letters/-space 0 0 1 1 1
+Poster 8x" 521 247.25 18.2 3 0 51 Letters/A 3 0 1 1 1
++-NTOBJECTNAME _1
+2x2F Print" 513.5 249 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 515.5 249 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 512.5 252 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 514.5 252 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 515.5 251 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 513.5 251 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 512.5 250 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 514.5 250 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 515.5 250 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 515.5 252 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 514.5 251 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 514.5 249 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 513.5 250 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 513.5 252 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 512.5 251 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 512.5 249 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 516.5 252 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 518.5 252 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 519.5 251 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 517.5 251 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 516.5 250 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 518.5 250 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 519.5 249 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 517.5 249 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 519.5 250 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 519.5 252 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 518.5 251 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 518.5 249 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 517.5 250 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 517.5 252 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 516.5 251 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 516.5 249 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 512.5 256 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 514.5 256 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 515.5 255 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 513.5 255 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 512.5 254 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 514.5 254 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 515.5 253 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 513.5 253 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 515.5 254 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 514.5 255 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 514.5 253 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 513.5 254 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 512.5 255 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 512.5 253 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 513.5 256 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 515.5 256 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 516.5 256 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 518.5 256 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 519.5 255 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 517.5 255 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 516.5 254 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 518.5 254 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 519.5 253 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 517.5 253 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 519.5 254 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 518.5 255 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 518.5 253 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 517.5 254 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 516.5 255 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 516.5 253 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 517.5 256 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 519.5 256 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 522.5 254 16.3 2 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 522.5 256 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 520.5 256 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 520.5 254 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 520.5 252 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 522.5 252 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 520.5 250 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 522.5 250 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 521.5 249 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 521.5 251 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 521.5 253 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 521.5 255 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 522.5 255 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 522.5 253 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 522.5 251 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 522.5 249 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 521.5 250 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 521.5 252 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 521.5 254 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 521.5 256 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 520.5 255 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 520.5 253 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 520.5 251 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 520.5 249 16.3 0 0 36 Letters/-space 0 0 1 1 1
+1x16" 519 247.25 20.5 1 0 52  3 0 1 1 1
+32x32 Base" 515 255 16.1 0 0 49  0 0 1 1 1
+2x2F Print" 508.5 248 16.3 0 0 31 Letters/-space 0 0 1 1 1
+64x Cube " 571 231 48 3 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 571 199 48 3 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 539 199 48 3 0 32 Letters/-space 0 0 1 1 1
+2x2F Print" 510.5 248 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 511.5 248 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 509.5 248 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 507.5 248 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 505.5 248 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 500.5 248 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 502.5 248 16.3 0 0 31 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 647 12 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 679 12 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 475 647 48 0 0 45 Letters/-space 0 0 1 1 1
+64x Cube " 475 679 48 0 0 61 Letters/-space 0 0 1 1 1
+2x2F Print" 503.5 248 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 501.5 248 16.3 0 0 36 Letters/-space 0 0 1 1 1
+64x Cube " 443 647 48 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 679 48 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 775 48 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 475 775 48 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 507 775 48 1 0 18 Letters/-space 0 0 1 1 1
+2x2F Print" 499.5 248 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 497.5 248 16.3 0 0 36 Letters/-space 0 0 1 1 1
+Poster 8x" 497 247.25 18.2 3 0 51 Letters/O 3 0 1 1 1
++-NTOBJECTNAME _6
+Poster 8x" 501 247.25 18.2 3 0 49 Letters/O 3 0 1 1 1
++-NTOBJECTNAME _6
+64x Cube 1/4h" 507 583 12 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 615 12 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 475 583 48 0 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 475 615 48 0 0 0 Letters/-space 0 0 1 1 1
+2x2F Print" 496.5 248 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 498.5 248 16.3 0 0 31 Letters/-space 0 0 1 1 1
+64x Cube " 443 583 48 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 615 48 1 0 49 Letters/-space 0 0 1 1 1
+2x2F Print" 494.5 252 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 494.5 250 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 492.5 249 16.3 2 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 491.5 249 16.3 2 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 493.5 248 16.3 0 0 36 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 519 12 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 551 12 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 475 519 24 0 0 44 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 475 551 24 0 0 32 Letters/-space 0 0 1 1 1
+2x2F Print" 495.5 248 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 494.5 248 16.3 0 0 31 Letters/-space 0 0 1 1 1
+64x Cube " 443 519 48 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 551 48 1 0 49 Letters/-space 0 0 1 1 1
+2x2F Print" 491.5 248 16.3 2 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 492.5 248 16.3 2 0 31 Letters/-space 0 0 1 1 1
+2x2x5 Lattice" 330 526.5 1.7 3 0 49  0 0 1 1 1
+Poster 8x" 493 247.25 18.2 3 0 49 Letters/M 3 0 1 1 1
++-NTOBJECTNAME _7
+1x16" 495 247.25 20.5 1 0 52  3 0 1 1 1
+2x2F Print" 490.5 248 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 493.5 256 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 494.5 254 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 494.5 256 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2x5 Lattice" 299 526.5 1.7 2 0 49  0 0 1 1 1
+64x Cube " 443 263 48 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 443 295 48 1 0 44 Letters/-space 0 0 1 1 1
+2x2F Print" 493.5 255 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 493.5 253 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 493.5 251 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 493.5 249 16.3 0 0 31 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 711 12 3 0 34 Letters/-space 0 0 1 1 1
+2x2F Print" 492.5 252 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 492.5 254 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 492.5 256 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 491.5 255 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 495.5 253 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 495.5 249 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 495.5 250 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 494.5 249 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 494.5 251 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 493.5 250 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 493.5 254 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 494.5 258 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 491.5 260 16.3 2 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 492.5 259 16.3 2 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 493.5 260 16.3 2 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 494.5 259 16.3 2 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 495.5 258 16.3 2 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 495.5 262 16.3 2 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 494.5 261 16.3 2 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 493.5 262 16.3 2 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 492.5 261 16.3 2 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 491.5 262 16.3 2 0 36 Letters/-space 0 0 1 1 1
++-EVENT	0	1	onActivate	0	Player		ChangeDataBlock	PlayerStandardArmor			
++-EVENT	1	1	onActivate	0	Player		Kill				
+1x4x2 Bars" 490.5 262.75 16.8 1 0 51  0 0 1 1 1
+1x4x2 Bars" 492.5 262.75 16.8 1 0 51  0 0 1 1 1
+1x4x2 Bars" 494.5 262.75 16.8 1 0 51  0 0 1 1 1
+1x1x5" 495.75 261.25 17.7 0 0 43  0 0 1 1 1
+1x4x5 Window" 495.75 260 17.7 1 0 43  0 0 1 1 1
+1x1x5" 495.75 262.75 17.7 0 0 51  0 0 1 1 1
+1x4x2 Bars" 490.5 262.75 18 1 0 51  0 0 1 1 1
+1x4x2 Bars" 492.5 262.75 18 1 0 51  0 0 1 1 1
+1x4x2 Bars" 494.5 262.75 18 1 0 51  0 0 1 1 1
+1x9" 493.25 262.75 18.9 1 0 51  0 0 1 1 1
+2x2F Print" 491.5 258 16.3 2 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 493.5 258 16.3 2 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 492.5 257 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 494.5 257 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 491.5 257 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 491.5 259 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 491.5 261 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 492.5 262 16.3 0 0 31 Letters/-space 0 0 1 1 1
++-EVENT	0	1	onActivate	0	Player		ChangeDataBlock	PlayerStandardArmor			
+2x2F Print" 492.5 260 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 492.5 258 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 493.5 257 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 493.5 259 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 493.5 261 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 494.5 262 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 494.5 260 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 495.5 257 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 495.25 261 16.3 1 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 495.25 259 16.3 1 0 31 Letters/-space 0 0 1 1 1
+1x1F Print" 495.75 258.75 16.3 1 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 495.25 260 16.3 3 0 36 Letters/-space 0 0 1 1 1
+1x2F Print" 498.75 260 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 499.25 260 16.3 3 0 36 Letters/-space 0 0 1 1 1
+1x1F Print" 498.75 259.25 16.3 0 0 36 Letters/-space 0 0 1 1 1
+1x1F Print" 499.25 259.25 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 496.5 258.75 16.3 0 0 36 Letters/-space 0 0 1 1 1
+1x2F Print" 498.5 258.75 16.3 0 0 36 Letters/-space 0 0 1 1 1
+1x2F Print" 499.5 258.75 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 497.5 258.75 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 498.5 258 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 499.5 257 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 497.5 257 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 496.5 258 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 498.5 257 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 496.5 257 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 497.5 258 16.3 2 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 499.5 258 16.3 2 0 36 Letters/-space 0 0 1 1 1
+4x4F" 497 260 16.3 0 0 43  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Client		CenterPrint	<color:FFFFFF>You are now AFK.<br>IN STYLE!	1		
++-EMITTER Laser A" 0
+1x4x5 Window" 498.25 260 17.7 1 0 43  0 0 1 1 1
+1x4x5 Window" 499.75 260 17.7 1 0 44  0 0 1 1 1
+4x4F" 501 260 16.3 0 0 44  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Client		CenterPrint	<color:FFFFFF>You are now AFK.<br>IN STYLE!	1		
++-EMITTER Laser A" 0
+1x2F Print" 502.75 260 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 503.25 260 16.3 3 0 36 Letters/-space 0 0 1 1 1
+1x1F Print" 502.75 259.25 16.3 0 0 36 Letters/-space 0 0 1 1 1
+1x1F Print" 503.25 259.25 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 500.5 258.75 16.3 0 0 36 Letters/-space 0 0 1 1 1
+1x2F Print" 502.5 258.75 16.3 0 0 36 Letters/-space 0 0 1 1 1
+1x2F Print" 503.5 258.75 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 501.5 258.75 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 500.5 258 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 502.5 258 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 503.5 257 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 501.5 257 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 502.5 257 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 500.5 257 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 501.5 258 16.3 2 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 503.5 258 16.3 2 0 36 Letters/-space 0 0 1 1 1
+1x4x5 Window" 503.75 260 17.7 1 0 32  0 0 1 1 1
+1x4x5 Window" 502.25 260 17.7 1 0 44  0 0 1 1 1
+1x2F Print" 499.25 261 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 498.75 261 16.3 3 0 36 Letters/-space 0 0 1 1 1
+1x2F Print" 496.25 262 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 496.75 262 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 498.25 262 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 498.75 262 16.3 3 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 499.5 262 16.3 2 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 497.5 262 16.3 2 0 36 Letters/-space 0 0 1 1 1
+1x4x4 Print" 497 262.75 17.4 2 0 0 Letters/H 3 0 1 1 1
+1x4x4 Print" 499 262.75 17.4 2 0 3 Letters/S 3 0 1 1 1
+1x1x5" 499.75 261.25 17.7 0 0 44  0 0 1 1 1
+1x4x5 Window" 497 261.25 17.7 2 0 43  0 0 1 1 1
+1x1" 496.25 262.75 18.9 0 0 51  0 0 1 1 1
+1x4x4 Print" 498 262.75 19.8 2 0 49 Letters/S 3 0 1 1 1
+1x4x4 Print" 500 262.75 19.8 2 0 49 Letters/-apostrophe 3 0 1 1 1
+1x2F Print" 503.25 261 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 502.75 261 16.3 3 0 36 Letters/-space 0 0 1 1 1
+1x2F Print" 500.25 262 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 500.75 262 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 502.25 262 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 502.75 262 16.3 3 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 503.5 262 16.3 2 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 501.5 262 16.3 2 0 36 Letters/-space 0 0 1 1 1
+1x4x4 Print" 501 262.75 17.4 2 0 32 Letters/A 3 0 1 1 1
+1x4x4 Print" 503 262.75 17.4 2 0 44 Letters/D 3 0 1 1 1
+1x1x5" 502.25 261.25 17.7 0 0 44  0 0 1 1 1
+1x1x5" 503.75 261.25 17.7 0 0 32  0 0 1 1 1
+1x4x5 Window" 501 261.25 17.7 2 0 44  0 0 1 1 1
+1x4x4 Print" 502 262.75 19.8 2 0 49 Letters/E 3 0 1 1 1
+1x4x4 Print" 504 262.75 19.8 2 0 49 Letters/O 3 0 1 1 1
+1x1x5" 496.75 262.75 20.1 0 0 51  0 0 1 1 1
+1x4" 500 262.75 21.3 1 0 51  0 0 1 1 1
+1x4" 498 262.75 21.3 1 0 51  0 0 1 1 1
+1x4" 504 262.75 21.3 1 0 51  0 0 1 1 1
+1x4" 502 262.75 21.3 1 0 51  0 0 1 1 1
+4x4F" 505 260 16.3 0 0 32  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Client		CenterPrint	<color:FFFFFF>You are now AFK.<br>IN STYLE!	1		
++-EMITTER Laser A" 0
+2x2F Print" 507.5 258 16.3 2 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 505.5 258 16.3 2 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 504.5 257 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 506.5 257 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 505.5 257 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 507.5 257 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 506.5 258 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 504.5 258 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 505.5 258.75 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 507.5 258.75 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 506.5 258.75 16.3 0 0 36 Letters/-space 0 0 1 1 1
+1x2F Print" 504.5 258.75 16.3 0 0 36 Letters/-space 0 0 1 1 1
+1x1F Print" 507.25 259.25 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x1F Print" 506.75 259.25 16.3 0 0 36 Letters/-space 0 0 1 1 1
+1x2F Print" 507.25 260 16.3 3 0 36 Letters/-space 0 0 1 1 1
+1x2F Print" 506.75 260 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x4x5 Window" 507.75 260 17.7 1 0 3  0 0 1 1 1
+1x4x5 Window" 506.25 260 17.7 1 0 32  0 0 1 1 1
+4x4F" 509 260 16.3 0 0 3  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Client		CenterPrint	<color:FFFFFF>You are now AFK.<br>IN STYLE!	1		
++-EMITTER Laser A" 0
+2x2F Print" 511.5 258 16.3 2 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 509.5 258 16.3 2 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 508.5 257 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 510.5 257 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 509.5 257 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 511.5 257 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 510.5 258 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 508.5 258 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 509.5 258.75 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 511.5 258.75 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 510.5 258.75 16.3 0 0 36 Letters/-space 0 0 1 1 1
+1x2F Print" 508.5 258.75 16.3 0 0 36 Letters/-space 0 0 1 1 1
+1x1F Print" 511.25 259.25 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x1F Print" 510.75 259.25 16.3 0 0 36 Letters/-space 0 0 1 1 1
+1x2F Print" 511.25 260 16.3 3 0 36 Letters/-space 0 0 1 1 1
+1x2F Print" 510.75 260 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x4x5 Window" 511.75 260 17.7 1 0 2  0 0 1 1 1
+1x4x5 Window" 510.25 260 17.7 1 0 3  0 0 1 1 1
+2x2F Print" 505.5 262 16.3 2 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 507.5 262 16.3 2 0 36 Letters/-space 0 0 1 1 1
+1x2F Print" 506.75 262 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 506.25 262 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 504.75 262 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 504.25 262 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 506.75 261 16.3 3 0 36 Letters/-space 0 0 1 1 1
+1x2F Print" 507.25 261 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x4x4 Print" 507 262.75 17.4 2 0 61 Letters/E 3 0 1 1 1
+1x4x4 Print" 505 262.75 17.4 2 0 28 Letters/R 3 0 1 1 1
+1x4x5 Window" 505 261.25 17.7 2 0 32  0 0 1 1 1
+1x1x5" 507.75 261.25 17.7 0 0 3  0 0 1 1 1
+1x1x5" 506.25 261.25 17.7 0 0 32  0 0 1 1 1
+1x4x4 Print" 508 262.75 19.8 2 0 49 Letters/A 3 0 1 1 1
+1x4x4 Print" 506 262.75 19.8 2 0 49 Letters/T 3 0 1 1 1
+1x4x4 Print" 510 262.75 19.8 2 0 49 Letters/T 3 0 1 1 1
+2x2F Print" 509.5 262 16.3 2 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 511.5 262 16.3 2 0 36 Letters/-space 0 0 1 1 1
+1x2F Print" 510.75 262 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 510.25 262 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 508.75 262 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 508.25 262 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 510.75 261 16.3 3 0 36 Letters/-space 0 0 1 1 1
+1x2F Print" 511.25 261 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x4x4 Print" 511 262.75 17.4 2 0 0 Letters/L 3 0 1 1 1
+1x4x4 Print" 509 262.75 17.4 2 0 45 Letters/D 3 0 1 1 1
+1x4x5 Window" 509 261.25 17.7 2 0 3  0 0 1 1 1
+1x1x5" 511.75 261.25 17.7 0 0 2  0 0 1 1 1
+1x1x5" 510.25 261.25 17.7 0 0 3  0 0 1 1 1
+1x4x4 Print" 512 262.75 19.8 2 0 49 Letters/O 3 0 1 1 1
+1x4" 508 262.75 21.3 1 0 51  0 0 1 1 1
+1x4" 506 262.75 21.3 1 0 51  0 0 1 1 1
+1x4" 512 262.75 21.3 1 0 51  0 0 1 1 1
+1x4" 510 262.75 21.3 1 0 51  0 0 1 1 1
+2x2F Print" 493.5 252 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 495.5 254 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 494.5 253 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 494.5 255 16.3 0 0 36 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 295 12 0 0 44 Letters/-space 0 0 1 1 1
+64x CornerC 1/4h" 475 263 36 0 0 51 Letters/-space 0 0 1 1 1
+64x Ramp 1/4h" 507 263 36 3 0 51 Letters/-space 0 0 1 1 1
+2x2F Print" 495.5 256 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 491.5 256 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 491.5 254 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 491.5 252 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 491.5 250 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 495.5 251 16.3 0 0 31 Letters/-space 0 0 1 1 1
+64x Cube " 443 327 48 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 443 359 48 1 0 3 Letters/-space 0 0 1 1 1
+2x2F Print" 495.5 255 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 492.5 253 16.3 0 0 36 Letters/-space 0 0 1 1 1
+64x Cube " 539 455 48 1 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 539 487 48 2 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 571 487 48 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 455 48 1 0 61 Letters/-space 0 0 1 1 1
+2x2F Print" 492.5 255 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 491.5 251 16.3 0 0 31 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 359 12 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 327 12 1 0 32 Letters/-space 0 0 1 1 1
+64x Ramp 1/2h" 507 327 16 3 0 32 ModTer/brickTOP 0 0 1 1 1
+64x Cube 1/2h" 475 359 24 3 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 443 199 48 3 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 231 48 3 0 61 Letters/-space 0 0 1 1 1
+2x2F Print" 497.5 250 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 502.5 249 16.3 0 0 36 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 539 551 24 0 0 32 Letters/-space 0 0 1 1 1
+64x Cube 3/4h" 539 391 36 0 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 539 423 48 0 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 571 423 48 1 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 571 391 48 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 539 519 24 0 0 44 Letters/-space 0 0 1 1 1
+2x2F Print" 497.5 249 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 496.5 252 16.3 0 0 31 Letters/-space 0 0 1 1 1
+64x Cube " 571 551 48 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 327 48 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 571 359 48 1 0 3 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 539 359 24 3 0 3 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 539 327 12 1 0 32 Letters/-space 0 0 1 1 1
+2x2F Print" 497.5 251 16.3 0 0 31 Letters/-space 0 0 1 1 1
+64x Cube " 571 519 48 1 0 49 Letters/-space 0 0 1 1 1
+2x2F Print" 498.5 252 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2" 314.5 511 0.5 0 0 45  0 0 1 0 0
++-EMITTER Pain - Low" 0
+2x2x5 Lattice" 299 495.5 1.7 1 0 49  0 0 1 1 1
+2x2F Print" 498.5 249 16.3 0 0 36 Letters/-space 0 0 1 1 1
+1x1" 520.75 238.75 32.3 0 0 52  0 0 1 1 1
++-EVENT	0	1	onActivate	0	Player		Kill				
+2x2F Print" 499.5 252 16.3 0 0 36 Letters/-space 0 0 1 1 1
+64x Cube " 539 615 48 0 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 539 583 48 0 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 571 615 48 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 583 48 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 263 48 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 571 295 48 1 0 44 Letters/-space 0 0 1 1 1
+64x CornerC 1/4h" 539 263 36 3 0 51 Letters/-space 0 0 1 1 1
+2x2x5 Lattice" 330 495.5 1.7 0 0 49  0 0 1 1 1
+64x Cube " 539 679 48 0 0 61 Letters/-space 0 0 1 1 1
+1x1x5" 498.25 261.25 17.7 0 0 43  0 0 1 1 1
+64x Cube " 443 391 48 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 423 48 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 539 647 48 0 0 45 Letters/-space 0 0 1 1 1
+64x Cube " 571 679 48 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 539 295 12 0 0 44 Letters/-space 0 0 1 1 1
+1x4F" 521 263.25 16.1 1 0 47  0 0 1 1 1
+2x2F Print" 520.5 257 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 520.5 259 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 520.5 261 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 520.5 263 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 521.5 262 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 521.5 260 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 521.5 258 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 522.5 257 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 522.5 259 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 522.5 261 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 521.5 263 16.3 0 0 31 Letters/-space 0 0 1 1 1
+64x Cube 3/4h" 475 391 36 0 0 0 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 391 12 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 423 12 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 475 423 48 0 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 571 647 48 1 0 49 Letters/-space 0 0 1 1 1
+2x2F Print" 498.5 250 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 495.5 252 16.3 0 0 36 Letters/-space 0 0 1 1 1
+64x Cube " 571 711 48 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 455 48 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 487 48 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 743 48 1 0 49 Letters/-space 0 0 1 1 1
+2x2F Print" 492.5 250 16.3 3 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 522.5 262 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 520.5 262 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 521.5 261 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 520.5 260 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 522.5 260 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 521.5 259 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 520.5 258 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 522.5 258 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 521.5 257 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 522.5 262.75 16.3 0 0 36 Letters/-space 0 0 1 1 1
+1x2x5 Ladder Helper" 521 263.75 16.5 1 0 18  0 0 0 0 0
+1x1x5" 517.25 262.75 20.1 0 0 51  0 0 1 1 1
+64x Cube " 475 487 48 2 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 475 455 48 1 0 61 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 455 12 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 487 12 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 539 711 48 0 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 539 743 48 0 0 2 Letters/-space 0 0 1 1 1
+2x2F Print" 492.5 251 16.3 3 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 499.5 251 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x4" 516 262.75 21.3 1 0 51  0 0 1 1 1
+1x4" 514 262.75 21.3 1 0 51  0 0 1 1 1
+2x2F Print" 517.5 262 16.3 2 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 519.5 262 16.3 2 0 36 Letters/-space 0 0 1 1 1
+64x Cube " 571 775 48 1 0 49 Letters/-space 0 0 1 1 1
+2x2F Print" 519.5 261 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x1F Print" 518.75 260.75 16.3 3 0 36 Letters/-space 0 0 1 1 1
+1x1F Print" 518.75 261.25 16.3 3 0 36 Letters/-space 0 0 1 1 1
+1x2F Print" 518.75 262 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 518.25 262 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 516.75 262 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 516.25 262 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x1F Print" 518.75 262.75 16.3 3 0 36 Letters/-space 0 0 1 1 1
+1x2F Print" 519.5 262.75 16.3 2 0 31 Letters/-space 0 0 1 1 1
+1x4x4 Print" 517 262.75 17.4 2 0 44 Letters/B 3 0 1 1 1
+64x Cube " 539 775 48 1 0 49 Letters/-space 0 0 1 1 1
+1x1x5" 518.25 262.75 17.7 0 0 51  0 0 1 1 1
+1x4x5 Window" 517 261.25 17.7 2 0 0  0 0 1 1 1
+1x1x5" 518.25 261.25 17.7 0 0 0  0 0 1 1 1
+1x1" 517.75 262.75 18.9 0 0 51  0 0 1 1 1
+1x4x4 Print" 513 262.75 17.4 2 0 3 Letters/U 3 0 1 1 1
+1x4x4 Print" 515 262.75 17.4 2 0 32 Letters/O 3 0 1 1 1
+1x1F Print" 514.75 262.25 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 512.25 262 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 512.75 262 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 514.25 262 16.3 3 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 514.75 261.5 16.3 1 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 515.25 260.5 16.3 1 0 31 Letters/-space 0 0 1 1 1
+1x4x4 Print" 516 262.75 19.8 2 0 49 Letters/B 3 0 1 1 1
+2x2F Print" 515.5 262 16.3 2 0 36 Letters/-space 0 0 1 1 1
+1x1F Print" 515.25 261.25 16.3 1 0 36 Letters/-space 0 0 1 1 1
+1x2F Print" 514.75 260.5 16.3 1 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 513.5 262 16.3 2 0 36 Letters/-space 0 0 1 1 1
+1x4x5 Window" 513 261.25 17.7 2 0 2  0 0 1 1 1
+2x2F Print" 491.5 253 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 499.5 249 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 501.5 250 16.3 0 0 36 Letters/-space 0 0 1 1 1
+1x4F" 521 263.25 0.7 1 0 49  0 0 1 1 1
+1x1 Round" 521.75 263.25 1.1 1 0 47  0 0 1 1 1
+1x1 Round" 520.25 263.25 1.1 1 0 18  0 0 1 1 1
+1x4F" 521 263.25 1.5 1 0 49  0 0 1 1 1
+1x1 Round" 521.75 263.25 1.9 1 0 47  0 0 1 1 1
+1x1 Round" 520.25 263.25 1.9 1 0 18  0 0 1 1 1
+1x4F" 521 263.25 2.3 1 0 49  0 0 1 1 1
+1x1 Round" 521.75 263.25 2.7 1 0 18  0 0 1 1 1
+1x1 Round" 520.25 263.25 2.7 1 0 18  0 0 1 1 1
+1x4F" 521 263.25 3.1 1 0 49  0 0 1 1 1
+1x1 Round" 521.75 263.25 3.5 1 0 18  0 0 1 1 1
+1x1 Round" 520.25 263.25 3.5 1 0 18  0 0 1 1 1
+1x4F" 521 263.25 3.9 1 0 49  0 0 1 1 1
+1x1 Round" 521.75 263.25 4.3 1 0 18  0 0 1 1 1
+1x1 Round" 520.25 263.25 4.3 1 0 18  0 0 1 1 1
+1x2x5 Ladder Helper" 521 263.75 4.5 1 0 18  0 0 0 0 0
+1x4F" 521 263.25 4.7 1 0 49  0 0 1 1 1
+1x1 Round" 521.75 263.25 5.1 1 0 18  0 0 1 1 1
+1x1 Round" 520.25 263.25 5.1 1 0 18  0 0 1 1 1
+1x4F" 521 263.25 5.5 1 0 49  0 0 1 1 1
+1x1 Round" 521.75 263.25 5.9 1 0 18  0 0 1 1 1
+1x1 Round" 520.25 263.25 5.9 1 0 18  0 0 1 1 1
+1x4F" 521 263.25 6.3 1 0 49  0 0 1 1 1
+1x1 Round" 521.75 263.25 6.7 1 0 18  0 0 1 1 1
+1x1 Round" 520.25 263.25 6.7 1 0 18  0 0 1 1 1
+1x4F" 521 263.25 7.1 1 0 49  0 0 1 1 1
+1x1 Round" 521.75 263.25 7.5 1 0 18  0 0 1 1 1
+1x1 Round" 520.25 263.25 7.5 1 0 18  0 0 1 1 1
+1x2x5 Ladder Helper" 521 263.75 7.5 1 0 18  0 0 0 0 0
+1x4F" 521 263.25 7.9 1 0 49  0 0 1 1 1
+2x2F Print" 499.5 250 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 496.5 250 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 498.5 251 16.3 0 0 36 Letters/-space 0 0 1 1 1
+1x1 Round" 521.75 263.25 8.3 1 0 18  0 0 1 1 1
+1x1 Round" 520.25 263.25 8.3 1 0 18  0 0 1 1 1
+1x4F" 521 263.25 8.7 1 0 49  0 0 1 1 1
+1x1 Round" 521.75 263.25 9.1 1 0 18  0 0 1 1 1
+1x1 Round" 520.25 263.25 9.1 1 0 18  0 0 1 1 1
+1x4F" 521 263.25 9.5 1 0 49  0 0 1 1 1
+1x1 Round" 521.75 263.25 9.9 1 0 18  0 0 1 1 1
+1x1 Round" 520.25 263.25 9.9 1 0 18  0 0 1 1 1
+1x4F" 521 263.25 10.3 1 0 49  0 0 1 1 1
+1x2x5 Ladder Helper" 521 263.75 10.5 1 0 18  0 0 0 0 0
+1x1 Round" 521.75 263.25 10.7 1 0 18  0 0 1 1 1
+1x1 Round" 520.25 263.25 10.7 1 0 18  0 0 1 1 1
+1x4F" 521 263.25 11.1 1 0 49  0 0 1 1 1
+1x1 Round" 521.75 263.25 11.5 1 0 18  0 0 1 1 1
+1x1 Round" 520.25 263.25 11.5 1 0 18  0 0 1 1 1
+1x4F" 521 263.25 11.9 1 0 49  0 0 1 1 1
+1x1 Round" 521.75 263.25 12.3 1 0 18  0 0 1 1 1
+1x1 Round" 520.25 263.25 12.3 1 0 18  0 0 1 1 1
+1x4F" 521 263.25 12.7 1 0 49  0 0 1 1 1
+1x1 Round" 521.75 263.25 13.1 1 0 18  0 0 1 1 1
+1x1 Round" 520.25 263.25 13.1 1 0 18  0 0 1 1 1
+1x4F" 521 263.25 13.5 1 0 49  0 0 1 1 1
+1x2x5 Ladder Helper" 521 263.75 13.5 1 0 18  0 0 0 0 0
+1x1 Round" 521.75 263.25 13.9 1 0 18  0 0 1 1 1
+1x1 Round" 520.25 263.25 13.9 1 0 18  0 0 1 1 1
+1x4F" 521 263.25 14.3 1 0 49  0 0 1 1 1
+1x1 Round" 521.75 263.25 14.7 1 0 18  0 0 1 1 1
+1x1 Round" 520.25 263.25 14.7 1 0 18  0 0 1 1 1
+1x4F" 521 263.25 15.1 1 0 49  0 0 1 1 1
+1x1 Round" 521.75 263.25 15.5 1 0 18  0 0 1 1 1
+1x1 Round" 520.25 263.25 15.5 1 0 18  0 0 1 1 1
+1x4F" 521 263.25 15.9 1 0 49  0 0 1 1 1
+2x2F Print" 512.5 257 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 512.5 258 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 512.5 258.75 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 513.5 257 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 513.5 258 16.3 2 0 36 Letters/-space 0 0 1 1 1
+1x2F Print" 513.5 258.75 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 514.5 257 16.3 0 0 36 Letters/-space 0 0 1 1 1
+4x4F" 513 260 16.3 0 0 2  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Client		CenterPrint	<color:FFFFFF>You are now AFK.<br>IN STYLE!	1		
++-EMITTER Laser A" 0
+2x2F Print" 514.5 258 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 514.5 258.75 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 515.5 257 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x4x5 Window" 514.25 260 17.7 1 0 2  0 0 1 1 1
+2x2F Print" 515.5 258 16.3 2 0 36 Letters/-space 0 0 1 1 1
+1x2F Print" 514.75 259.5 16.3 1 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 515.5 258.75 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 515.25 259.5 16.3 1 0 36 Letters/-space 0 0 1 1 1
+1x4x5 Window" 515.75 260 17.7 1 0 0  0 0 1 1 1
+2x2F Print" 516.5 257 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 516.5 258 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 516.5 258.75 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 517.5 257 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 517.5 258 16.3 2 0 36 Letters/-space 0 0 1 1 1
+1x2F Print" 517.5 258.75 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 518.5 257 16.3 0 0 36 Letters/-space 0 0 1 1 1
+4x4F" 517 260 16.3 0 0 0  0 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Client		CenterPrint	<color:FFFFFF>You are now AFK.<br>IN STYLE!	1		
++-EMITTER Laser A" 0
+2x2F Print" 518.5 258 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x2F Print" 518.5 258.75 16.3 0 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 519.5 257 16.3 0 0 31 Letters/-space 0 0 1 1 1
+1x4x5 Window" 518.25 260 17.7 1 0 0  0 0 1 1 1
+1x1F Print" 518.75 259.25 16.3 3 0 36 Letters/-space 0 0 1 1 1
+2x2F Print" 519.5 258 16.3 2 0 36 Letters/-space 0 0 1 1 1
+1x2F Print" 518.75 260 16.3 3 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 519.5 259 16.3 0 0 31 Letters/-space 0 0 1 1 1
+2x2F Print" 519.5 260 16.3 2 0 36 Letters/-space 0 0 1 1 1
+1x4x4 Print" 514 262.75 19.8 2 0 49 Letters/R 3 0 1 1 1
+1x1x5" 514.25 261.25 17.7 0 0 2  0 0 1 1 1
+1x1x5" 515.75 261.25 17.7 0 0 0  0 0 1 1 1
+64x Cube " 475 487 80 2 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 475 455 80 1 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 443 519 80 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 615 20 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 539 743 80 0 0 2 Letters/-space 0 0 1 1 1
+64x Cube " 539 711 80 0 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 571 743 80 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 711 80 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 583 20 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 443 583 80 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 615 80 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 475 583 80 0 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 571 647 80 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 775 80 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 475 615 80 0 0 0 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 679 20 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 475 775 80 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 507 775 80 1 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 443 487 80 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 455 80 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 647 20 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 571 231 80 3 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 475 423 80 0 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 571 199 80 3 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 679 80 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 539 647 80 0 0 45 Letters/-space 0 0 1 1 1
+64x Cube " 539 679 80 0 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 539 199 80 3 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 443 423 80 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 391 80 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 475 199 80 3 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 507 199 80 3 0 44 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 487 20 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 455 20 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 519 20 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 551 20 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 475 519 40 0 0 44 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 475 551 40 0 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 443 199 80 3 0 49 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 711 20 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 571 583 80 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 615 80 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 539 615 80 0 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 539 583 80 0 0 3 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 423 20 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 391 20 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 391 52 0 0 0 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 743 20 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 443 231 80 3 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 443 647 80 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 679 80 1 0 49 Letters/-space 0 0 1 1 1
+2x2x5 Lattice" 330 526.5 4.7 3 0 49  0 0 1 1 1
+64x Cube " 475 647 80 0 0 45 Letters/-space 0 0 1 1 1
+64x Cube " 475 679 80 0 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 571 519 80 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 551 80 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 743 80 1 0 49 Letters/-space 0 0 1 1 1
+64x64 Zone Cube" 539 263 56 0 0 0  0 0 0 0 0
++-EVENT	0	1	onVehicleEnterZone	0	Vehicle		respawn				
+64x Cube 1/4h" 539 295 20 0 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 443 711 80 1 0 49 Letters/-space 0 0 1 1 1
+2x2x5 Lattice" 330 495.5 4.7 0 0 49  0 0 1 1 1
+2x2x5 Lattice" 299 526.5 4.7 2 0 49  0 0 1 1 1
+64x Cube " 475 711 80 0 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 571 775 80 1 0 49 Letters/-space 0 0 1 1 1
+2x2x5 Lattice" 299 495.5 4.7 1 0 49  0 0 1 1 1
+64x Cube " 571 455 80 1 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 539 775 80 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 539 487 80 2 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 539 455 80 1 0 61 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 539 327 20 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 539 359 36 3 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 571 487 80 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 327 80 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 443 359 80 1 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 475 743 80 0 0 2 Letters/-space 0 0 1 1 1
+64x Cube " 539 423 80 0 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 571 423 80 1 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 571 391 80 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 539 551 40 0 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 539 519 40 0 0 44 Letters/-space 0 0 1 1 1
+64x64 Zone Cube" 475 263 56 0 0 0  0 0 1 0 0
++-EVENT	0	1	onVehicleEnterZone	0	Vehicle		respawn				
+64x64 Zone Cube" 507 263 56 0 0 0  0 0 0 0 0
++-EVENT	0	1	onVehicleEnterZone	0	Vehicle		respawn				
+64x Cube 1/4h" 475 295 20 0 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 571 263 80 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 571 295 80 1 0 44 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 327 20 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 359 20 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 571 359 80 1 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 571 327 80 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 359 36 3 0 3 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 539 391 52 0 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 443 295 80 1 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 443 263 80 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 443 551 80 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 295 112 1 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 443 263 112 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 539 391 60 0 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 571 327 112 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 571 359 112 1 0 3 Letters/-space 0 0 1 1 1
+64x Ramp 1/2h" 475 327 32 3 0 32 Letters/-space 0 0 1 1 1
+64x Ramp 3/4h" 507 359 36 3 0 3 ModTer/brickTOP 0 0 1 1 1
+64x Ramp 3/4h" 475 359 52 3 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 571 263 112 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 571 295 112 1 0 44 Letters/-space 0 0 1 1 1
+64x64 Zone Cube" 539 263 88 0 0 0  0 0 0 0 0
++-EVENT	0	1	onVehicleEnterZone	0	Vehicle		respawn				
+64x64 Zone Cube" 475 295 40 0 0 43  0 0 1 0 0
++-EVENT	0	1	onVehicleEnterZone	0	Vehicle		respawn				
+64x Cube 1/2h" 539 551 56 0 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 571 391 112 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 571 423 112 1 0 18 Letters/-space 0 0 1 1 1
+64x Ramp 3/4h" 539 423 108 3 0 18 Letters/-space 0 0 1 1 1
+64x64 Zone Cube" 507 263 88 0 0 0  0 0 0 0 0
++-EVENT	0	1	onVehicleEnterZone	0	Vehicle		respawn				
+64x64 Zone Cube" 475 263 88 0 0 0  0 0 0 0 0
++-EVENT	0	1	onVehicleEnterZone	0	Vehicle		respawn				
+64x Cube " 443 327 112 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 443 359 112 1 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 539 487 112 2 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 571 455 112 1 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 571 487 112 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube 3/4h" 539 455 108 1 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 539 775 112 1 0 49 Letters/-space 0 0 1 1 1
+64x Ramp 1/2h" 539 327 32 3 0 32 Letters/-space 0 0 1 1 1
+64x Ramp 3/4h" 539 359 52 3 0 3 Letters/-space 0 0 1 1 1
+2x2x5 Lattice" 299 495.5 7.7 1 0 49  0 0 1 1 1
+64x Cube " 571 519 112 1 0 49 Letters/-space 0 0 1 1 1
+2x2x5 Lattice" 299 526.5 7.7 2 0 49  0 0 1 1 1
+2x2x5 Lattice" 330 495.5 7.7 0 0 49  0 0 1 1 1
+64x Cube " 475 711 112 0 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 475 743 112 0 0 2 Letters/-space 0 0 1 1 1
+64x Cube " 571 551 112 1 0 49 Letters/-space 0 0 1 1 1
+64x64 Zone Cube" 539 295 40 0 0 43  0 0 1 0 0
++-EVENT	0	1	onVehicleEnterZone	0	Vehicle		respawn				
+64x Cube " 443 711 112 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 743 112 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 615 112 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 583 112 1 0 49 Letters/-space 0 0 1 1 1
+2x2x5 Lattice" 330 526.5 7.7 3 0 49  0 0 1 1 1
+64x Cube " 539 615 112 0 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 475 679 112 0 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 475 647 112 0 0 45 Letters/-space 0 0 1 1 1
+64x Cube " 539 583 112 0 0 3 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 391 28 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 443 647 112 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 679 112 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 231 112 3 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 443 199 112 3 0 49 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 391 60 0 0 0 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 423 28 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 571 775 112 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 743 28 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 711 28 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 539 679 112 0 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 507 199 112 3 0 44 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 519 28 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 475 551 56 0 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 475 519 56 0 0 44 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 551 28 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 539 647 112 0 0 45 Letters/-space 0 0 1 1 1
+64x Cube " 571 647 112 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 455 28 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 487 28 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 475 199 112 3 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 443 391 112 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 443 423 112 1 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 571 231 112 3 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 571 199 112 3 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 539 199 112 3 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 571 679 112 1 0 49 Letters/-space 0 0 1 1 1
+64x Ramp 3/4h" 475 423 108 3 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 443 455 112 1 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 443 487 112 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 475 775 112 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 679 28 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 647 28 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 507 775 112 1 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 571 743 112 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 475 583 112 0 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 475 615 112 0 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 571 711 112 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 539 711 112 0 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 443 583 112 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 615 28 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 583 28 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 539 743 112 0 0 2 Letters/-space 0 0 1 1 1
+64x Cube " 475 487 112 2 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 443 615 112 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 775 112 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube 3/4h" 475 455 108 1 0 61 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 539 519 56 0 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 443 519 112 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 551 112 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 539 679 144 0 0 61 Letters/-space 0 0 1 1 1
+2x2x5 Lattice" 299 495.5 10.7 1 0 49  0 0 1 1 1
+64x Cube " 571 423 144 1 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 571 391 144 1 0 0 Letters/-space 0 0 1 1 1
+64x64 Zone Cube" 475 263 120 0 0 0  0 0 0 0 0
++-EVENT	0	1	onVehicleEnterZone	0	Vehicle		respawn				
+64x Cube " 539 743 144 0 0 2 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 487 132 2 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 475 199 144 3 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 507 199 144 3 0 44 Letters/-space 0 0 1 1 1
+64x64 Zone Cube" 539 263 120 0 0 0  0 0 0 0 0
++-EVENT	0	1	onVehicleEnterZone	0	Vehicle		respawn				
+64x64 Zone Cube" 507 263 120 0 0 0  0 0 0 0 0
++-EVENT	0	1	onVehicleEnterZone	0	Vehicle		respawn				
+64x Cube " 475 679 144 0 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 475 647 144 0 0 45 Letters/-space 0 0 1 1 1
+64x Ramp" 539 391 80 3 0 0 Letters/-space 0 0 1 1 1
+64x Ramp 1/2h" 539 455 128 3 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 443 743 144 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 711 144 1 0 49 Letters/-space 0 0 1 1 1
+2x2x5 Lattice" 299 526.5 10.7 2 0 49  0 0 1 1 1
+64x Cube " 571 519 144 1 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 443 647 144 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 679 144 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 551 144 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 571 487 144 1 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 539 711 144 0 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 571 743 144 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 711 144 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 455 144 1 0 61 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 539 487 132 2 0 28 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 475 519 72 0 0 44 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 475 551 72 0 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 571 647 144 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 583 36 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 615 36 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 539 519 72 0 0 44 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 539 551 72 0 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 571 679 144 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 539 647 144 0 0 45 Letters/-space 0 0 1 1 1
+2x2x5 Lattice" 330 495.5 10.7 0 0 49  0 0 1 1 1
+64x Cube 1/4h" 507 423 36 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 391 36 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 571 775 144 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 539 583 144 0 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 539 615 144 0 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 443 487 144 1 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 443 455 144 1 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 539 775 144 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 475 615 144 0 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 475 583 144 0 0 3 Letters/-space 0 0 1 1 1
+2x2x5 Lattice" 330 526.5 10.7 3 0 49  0 0 1 1 1
+64x Cube " 571 327 144 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 571 359 144 1 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 443 551 144 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 443 423 144 1 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 443 391 144 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 443 519 144 1 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 443 199 144 3 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 231 144 3 0 61 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 487 36 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 443 615 144 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 583 144 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 615 144 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 583 144 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 455 36 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 571 295 144 1 0 44 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 647 36 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 679 36 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 443 359 144 1 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 443 327 144 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 475 711 144 0 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 475 743 144 0 0 2 Letters/-space 0 0 1 1 1
+64x Cube " 571 263 144 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 539 199 144 3 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 571 199 144 3 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 775 144 1 0 49 Letters/-space 0 0 1 1 1
+64x Ramp" 475 391 80 3 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 443 295 144 1 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 443 263 144 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 475 775 144 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 231 144 3 0 61 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 743 36 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 519 36 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 551 36 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 711 36 3 0 34 Letters/-space 0 0 1 1 1
+64x Ramp 1/2h" 475 455 128 3 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 507 775 144 1 0 18 Letters/-space 0 0 1 1 1
+1x1" 486.25 417.75 104.3 0 0 44  0 0 1 0 0
++-EVENT	0	1	onActivate	0	Player		ChangeDataBlock	PlayerStandardArmor			
++-EVENT	1	1	onActivate	0	Player		SetPlayerScale	1			
+64x Cube 1/4h" 507 711 44 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 743 44 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 443 295 176 1 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 539 199 176 3 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 519 44 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 551 44 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 571 615 176 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 583 176 1 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 539 615 176 3 0 0 Letters/-space 0 0 1 1 1
+64x64 Zone Cube" 539 263 152 0 0 0  0 0 0 0 0
++-EVENT	0	1	onVehicleEnterZone	0	Vehicle		respawn				
+64x Cube " 571 199 176 3 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 539 775 176 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 263 176 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 571 231 176 3 0 61 Letters/-space 0 0 1 1 1
+64x64 Zone Cube" 475 263 152 0 0 0  0 0 0 0 0
++-EVENT	0	1	onVehicleEnterZone	0	Vehicle		respawn				
+64x64 Zone Cube" 507 263 152 0 0 0  0 0 0 0 0
++-EVENT	0	1	onVehicleEnterZone	0	Vehicle		respawn				
+64x Cube " 443 359 176 1 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 443 327 176 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 571 295 176 1 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 443 231 176 3 0 61 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 679 44 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 647 44 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 443 391 176 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 443 423 176 1 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 443 615 176 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 583 176 1 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 443 199 176 3 0 49 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 487 44 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 475 775 176 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 507 199 176 3 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 443 455 176 1 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 443 519 176 1 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 443 551 176 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 571 359 176 1 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 571 327 176 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 583 44 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 475 615 176 3 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 443 775 176 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 583 164 3 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 443 487 176 1 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 539 647 176 1 0 45 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 455 44 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 571 679 176 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 647 176 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 391 44 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 423 44 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 539 679 176 0 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 443 679 176 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 615 44 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 539 551 88 0 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 539 519 88 0 0 44 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 475 519 88 0 0 44 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 475 551 88 0 0 32 Letters/-space 0 0 1 1 1
+64x Ramp 1/4h" 475 487 140 3 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 571 487 176 1 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 571 455 176 1 0 61 Letters/-space 0 0 1 1 1
+64x Ramp 1/4h" 539 487 140 3 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 571 775 176 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 551 176 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 571 519 176 1 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 443 647 176 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 475 711 176 0 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 475 743 176 0 0 2 Letters/-space 0 0 1 1 1
+64x Cube " 443 743 176 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 711 176 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 475 647 176 1 0 45 Letters/-space 0 0 1 1 1
+64x Cube " 475 199 176 3 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 571 743 176 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 711 176 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 539 711 176 0 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 571 423 176 1 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 571 391 176 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 507 775 176 1 0 18 Letters/-space 0 0 1 1 1
+64x64 Base" 314.5 511 12.3 0 0 32  5 0 1 1 1
++-EVENT	0	1	onActivate	33	Self		fireRelay				
++-EVENT	1	1	onRelay	200	Self		setColor	0			
++-EVENT	2	1	onRelay	400	Self		setColor	3			
++-EVENT	3	1	onRelay	600	Self		setColor	32			
++-EVENT	4	1	onRelay	800	Self		setColor	44			
++-EVENT	5	1	onRelay	1000	Self		setColor	18			
++-EVENT	6	1	onRelay	1200	Self		setColor	2			
++-EVENT	7	1	onRelay	1200	Self		fireRelay				
++-EVENT	8	1	onActivate	0	Self		cancelEvents				
++-EVENT	9	1	onActivate	33	Self		fireRelay				
+64x Cube " 539 743 176 0 0 2 Letters/-space 0 0 1 1 1
+64x Cube " 443 263 176 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 475 679 176 0 0 61 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 539 583 164 3 0 3 Letters/-space 0 0 1 1 1
+Music Brick" 314.75 511.25 11.9 0 0 8  0 0 1 1 1
++-EVENT	0	1	onActivate	0	Self		setLight	PurpleLight			
++-LIGHT Purple Light" 1
+64x Cube " 571 327 208 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 443 199 208 3 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 507 775 208 1 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 443 231 208 3 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 539 775 208 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 487 208 1 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 443 455 208 1 0 61 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 539 551 104 0 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 539 519 104 0 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 443 423 208 1 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 443 391 208 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 571 423 208 1 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 571 391 208 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 507 199 208 3 0 44 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 475 551 104 0 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 423 52 3 0 34 Letters/-space 0 0 1 1 1
+64x Ramp" 507 391 64 3 0 0 ModTer/brickTOP 0 0 1 1 1
+64x Cube 1/2h" 475 519 104 0 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 571 455 208 1 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 571 487 208 1 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 475 743 208 0 0 2 Letters/-space 0 0 1 1 1
+64x Cube " 475 199 208 3 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 539 679 208 0 0 61 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 455 52 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 487 52 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 475 711 208 3 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 475 775 208 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 231 208 3 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 539 647 208 1 0 45 Letters/-space 0 0 1 1 1
+64x Cube " 571 199 208 3 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 775 208 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 263 208 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 571 295 208 1 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 539 199 208 3 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 571 679 208 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 647 208 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 711 208 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 539 743 208 0 0 2 Letters/-space 0 0 1 1 1
+64x Cube " 539 711 208 3 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 571 743 208 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 711 208 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 743 208 1 0 49 Letters/-space 0 0 1 1 1
+64x Ramp" 475 615 208 3 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 443 583 208 1 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 475 647 208 1 0 45 Letters/-space 0 0 1 1 1
+64x Cube " 475 679 208 0 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 443 615 208 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 571 583 208 1 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 571 615 208 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 571 775 208 1 0 49 Letters/-space 0 0 1 1 1
+64x Ramp" 539 615 208 3 0 0 Letters/-space 0 0 1 1 1
+64x64 Zone Cube" 539 263 184 0 0 0  0 0 0 0 0
++-EVENT	0	1	onVehicleEnterZone	0	Vehicle		respawn				
+64x Ramp 3/4h" 539 583 180 3 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 571 551 208 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 551 52 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 519 52 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 711 52 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 743 52 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 571 519 208 1 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 443 519 208 1 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 443 551 208 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 615 52 3 0 34 Letters/-space 0 0 1 1 1
+64x64 Zone Cube" 507 263 184 0 0 0  0 0 0 0 0
++-EVENT	0	1	onVehicleEnterZone	0	Vehicle		respawn				
+64x64 Zone Cube" 475 263 184 0 0 0  0 0 0 0 0
++-EVENT	0	1	onVehicleEnterZone	0	Vehicle		respawn				
+64x Cube " 443 679 208 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 647 208 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 583 52 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 443 359 208 1 0 3 Letters/-space 0 0 1 1 1
+64x Ramp 3/4h" 475 583 180 3 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 443 327 208 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 679 52 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 647 52 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 443 295 208 1 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 443 263 208 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 571 359 208 1 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 443 295 240 1 0 44 Letters/-space 0 0 1 1 1
+64x64 Zone Cube" 507 263 216 0 0 0  0 0 0 0 0
++-EVENT	0	1	onVehicleEnterZone	0	Vehicle		respawn				
+64x64 Zone Cube" 475 263 216 0 0 0  0 0 0 0 0
++-EVENT	0	1	onVehicleEnterZone	0	Vehicle		respawn				
+64x Cube " 443 359 240 1 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 443 327 240 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 615 60 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 443 647 240 1 0 18 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 679 60 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 647 60 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 583 60 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 443 679 240 1 0 61 Letters/-space 0 0 1 1 1
+64x Ramp 3/4h" 475 647 236 3 0 45 Letters/-space 0 0 1 1 1
+64x Cube " 443 519 240 1 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 443 551 240 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 443 263 240 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 539 775 240 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 711 60 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 443 583 240 1 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 571 519 240 1 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 443 775 240 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 551 240 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 743 60 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 551 60 3 0 34 Letters/-space 0 0 1 1 1
+Vehicle Spawn" 525 611.5 224.1 3 0 3  0 0 0 0 0
++-EVENT	0	1	onVehicleSpawn	33	Self		fireRelay				
++-EVENT	1	1	onRelay	500	Self		setColor	0			
++-EVENT	2	1	onRelay	1000	Self		setColor	2			
++-EVENT	3	1	onRelay	1500	Self		setColor	3			
++-EVENT	4	1	onRelay	2000	Self		setColor	32			
++-EVENT	5	1	onRelay	2500	Self		setColor	44			
++-EVENT	6	1	onRelay	3000	Self		setColor	31			
++-EVENT	7	1	onRelay	3500	Self		setColor	28			
++-EVENT	8	1	onRelay	3500	Self		fireRelay				
++-EVENT	9	1	onVehicleSpawn	0	Vehicle		setShapeName	IT MAKES WHITE			
++-EVENT	10	1	onVehicleSpawn	1000	Vehicle		spawnProjectile	10	gravityRocketProjectile	0 -23 0	2
++-EVENT	11	1	onVehicleSpawn	3000	Vehicle		spawnProjectile	10	gravityRocketProjectile	0 -23 0	2
++-EVENT	12	1	onVehicleSpawn	6000	Vehicle		spawnProjectile	10	gravityRocketProjectile	0 -23 0	2
++-EVENT	13	1	onVehicleSpawn	9000	Vehicle		spawnProjectile	10	gravityRocketProjectile	0 -23 0	2
++-EVENT	14	1	onVehicleSpawn	0	Vehicle		setVelocity	-12 0 0			
++-EVENT	15	1	onVehicleSpawn	0	Vehicle		setVehicleScale	1.6			
++-VEHICLE Brick Ball " 1
+Vehicle Spawn" 525 627.5 224.1 3 0 18  0 0 1 0 0
++-EVENT	0	1	onVehicleSpawn	33	Self		fireRelay				
++-EVENT	1	1	onRelay	300	Self		setColor	0			
++-EVENT	2	1	onRelay	600	Self		setColor	18			
++-EVENT	3	1	onRelay	600	Self		fireRelay				
++-EVENT	4	1	onVehicleSpawn	0	Vehicle		setVelocity	-12 0 0			
++-EVENT	5	1	onVehicleSpawn	0	Vehicle		setShapeName	GOTTA CATCH EM' ALL			
++-EVENT	6	1	onVehicleSpawn	0	Vehicle		setShapeNameColor	0			
++-VEHICLE Brick Ball " 1
+64x Cube " 475 775 240 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 199 240 3 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 583 240 1 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 571 615 240 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 519 60 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 507 775 240 1 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 571 199 240 3 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 615 240 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 539 199 240 3 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 443 743 240 1 0 49 Letters/-space 0 0 1 1 1
+Vehicle Spawn" 489 608 224.1 1 0 47  0 0 0 0 0
++-EVENT	0	1	onVehicleSpawn	0	Vehicle		setShapeName	WORLD'S LARGEST MARBLE			
++-EVENT	1	1	onVehicleSpawn	0	Vehicle		setShapeNameColor	47			
++-EVENT	2	1	onVehicleSpawn	0	Vehicle		setVelocity	12 0 0			
++-VEHICLE Brick Ball " 1
+Vehicle Spawn" 489 628 224.1 1 0 29  0 0 0 0 0
++-EVENT	0	1	onVehicleSpawn	0	Vehicle		setVelocity	20 0 0			
++-EVENT	1	1	onVehicleSpawn	0	Vehicle		setShapeName	CAUTION! EXPLOSIVE DATA			
++-EVENT	2	1	onVehicleSpawn	0	Vehicle		setShapeNameColor	29			
++-EVENT	3	1	onVehicleSpawn	0	Vehicle		spawnExplosion	gravityRocketProjectile	2		
++-EVENT	4	1	onVehicleSpawn	1000	Vehicle		spawnExplosion	gravityRocketProjectile	2		
++-EVENT	5	1	onVehicleSpawn	2000	Vehicle		spawnExplosion	gravityRocketProjectile	2		
++-EVENT	6	1	onVehicleSpawn	3000	Vehicle		spawnExplosion	gravityRocketProjectile	2		
++-EVENT	7	1	onVehicleSpawn	4000	Vehicle		spawnExplosion	gravityRocketProjectile	2		
++-EVENT	8	1	onVehicleSpawn	5000	Vehicle		spawnExplosion	gravityRocketProjectile	2		
++-EVENT	9	1	onVehicleSpawn	6000	Vehicle		spawnExplosion	gravityRocketProjectile	2		
++-EVENT	10	1	onVehicleSpawn	7000	Vehicle		spawnExplosion	gravityRocketProjectile	2		
++-EVENT	11	1	onVehicleSpawn	8000	Vehicle		spawnExplosion	gravityRocketProjectile	2		
++-EVENT	12	1	onVehicleSpawn	9000	Vehicle		spawnExplosion	gravityRocketProjectile	2		
++-EVENT	13	1	onVehicleSpawn	10000	Vehicle		spawnExplosion	gravityRocketProjectile	2		
++-EVENT	14	1	onVehicleSpawn	11000	Vehicle		spawnExplosion	gravityRocketProjectile	2		
++-EVENT	15	1	onVehicleSpawn	12000	Vehicle		spawnExplosion	gravityRocketProjectile	2		
++-EVENT	16	1	onVehicleSpawn	13000	Vehicle		spawnExplosion	gravityRocketProjectile	2		
++-EVENT	17	1	onVehicleSpawn	14000	Vehicle		spawnExplosion	gravityRocketProjectile	2		
++-VEHICLE Brick Ball " 1
+64x Cube " 443 711 240 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 231 240 3 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 475 711 240 3 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 475 743 240 2 0 2 Letters/-space 0 0 1 1 1
+64x Cube " 571 231 240 3 0 61 Letters/-space 0 0 1 1 1
+64x64 Zone Cube" 539 263 216 0 0 0  0 0 0 0 0
++-EVENT	0	1	onVehicleEnterZone	0	Vehicle		respawn				
+64x Cube " 539 743 240 2 0 2 Letters/-space 0 0 1 1 1
+64x Cube " 539 711 240 3 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 571 711 240 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 743 240 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 263 240 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 571 295 240 1 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 571 327 240 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 487 60 3 0 34 Letters/-space 0 0 1 1 1
+64x Ramp 3/4h" 539 647 236 3 0 45 Letters/-space 0 0 1 1 1
+64x Cube 3/4h" 539 679 236 0 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 571 679 240 1 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 571 647 240 1 0 18 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 455 60 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 571 455 240 1 0 61 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 423 60 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 475 551 120 0 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 475 519 120 0 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 571 487 240 1 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 443 391 240 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 443 423 240 1 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 571 391 240 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 571 423 240 1 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 443 487 240 1 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 443 455 240 1 0 61 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 539 551 120 0 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 539 519 120 0 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 475 199 240 3 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 507 199 240 3 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 571 359 240 1 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 571 775 240 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube 3/4h" 475 679 236 0 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 571 775 272 1 0 49 Letters/-space 0 0 1 1 1
+64x Ramp 1/2h" 539 679 256 3 0 61 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 539 711 260 3 0 28 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 539 743 264 2 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 571 711 272 1 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 571 519 272 1 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 571 551 272 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 571 743 272 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 551 68 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 519 68 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 583 68 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 571 615 272 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 571 583 272 1 0 3 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 615 68 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 443 199 272 3 0 49 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 423 68 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 443 263 272 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 443 295 272 1 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 443 231 272 3 0 61 Letters/-space 0 0 1 1 1
+64x Ramp 1/2h" 475 679 256 3 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 475 199 272 3 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 507 199 272 3 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 539 775 272 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 475 551 136 0 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 475 519 136 0 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 571 487 272 1 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 443 359 272 1 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 443 327 272 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 571 455 272 1 0 61 Letters/-space 0 0 1 1 1
+64x64 Zone Cube" 539 263 248 0 0 0  0 0 0 0 0
++-EVENT	0	1	onVehicleEnterZone	0	Vehicle		respawn				
+64x Cube 1/4h" 507 647 68 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 443 519 272 1 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 443 551 272 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 571 423 272 1 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 571 391 272 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 571 359 272 1 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 443 391 272 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 443 423 272 1 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 571 327 272 1 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 571 295 272 1 0 44 Letters/-space 0 0 1 1 1
+64x Cube " 571 263 272 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 539 199 272 3 0 32 Letters/-space 0 0 1 1 1
+64x Cube " 571 647 272 1 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 571 679 272 1 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 443 583 272 1 0 3 Letters/-space 0 0 1 1 1
+64x Cube " 443 615 272 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 443 487 272 1 0 28 Letters/-space 0 0 1 1 1
+64x Cube " 443 455 272 1 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 443 647 272 1 0 18 Letters/-space 0 0 1 1 1
+64x Cube " 475 775 272 1 0 0 Letters/-space 0 0 1 1 1
+64x Cube " 443 679 272 1 0 61 Letters/-space 0 0 1 1 1
+64x Cube " 443 743 272 1 0 0 Letters/-space 0 0 1 1 1
+64x64 Zone Cube" 475 263 248 0 0 0  0 0 0 0 0
++-EVENT	0	1	onVehicleEnterZone	0	Vehicle		respawn				
+64x64 Zone Cube" 507 263 248 0 0 0  0 0 0 0 0
++-EVENT	0	1	onVehicleEnterZone	0	Vehicle		respawn				
+64x Cube 1/4h" 507 487 68 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 455 68 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 443 775 272 1 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 443 711 272 1 0 28 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 507 775 264 1 0 44 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 711 260 3 0 28 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 475 743 264 2 0 0 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 539 519 136 0 0 44 Letters/-space 0 0 1 1 1
+64x Cube 1/2h" 539 551 136 0 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 711 68 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 743 68 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube " 571 199 272 3 0 49 Letters/-space 0 0 1 1 1
+64x Cube " 571 231 272 3 0 61 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 679 68 3 0 34 Letters/-space 0 0 1 1 1
+Vehicle Spawn" 525.5 692 263.5 3 0 18  0 0 1 0 0
++-EVENT	0	1	onVehicleSpawn	0	Vehicle		setShapeName	INVENTION OF SANDPAPER			
++-EVENT	1	1	onVehicleSpawn	0	Vehicle		setVelocity	-12 0 0			
++-EVENT	2	1	onVehicleSpawn	0	Vehicle		setShapeNameColor	36			
++-VEHICLE Brick Ball " 1
+1x1 Print" 527.75 694.25 263.9 0 0 18 Letters/-less_than 0 0 1 1 1
+Vehicle Spawn" 527.5 674.5 257.1 3 0 24  0 0 0 0 0
++-EVENT	0	1	onVehicleSpawn	0	Vehicle		setShapeName	RENEKAR'S MASCULINITY			
++-EVENT	1	1	onVehicleSpawn	0	Vehicle		setShapeNameColor	24			
++-EVENT	2	1	onVehicleSpawn	0	Vehicle		setVelocity	-6 6 6			
++-EVENT	3	1	onVehicleSpawn	0	Vehicle		setVehicleScale	0.5			
++-EVENT	4	1	onVehicleSpawn	10000	Vehicle		spawnProjectile	10	vehicleFinalExplosionProjectile	0 0 0	2
++-VEHICLE Brick Ball " 1
+1x1x5" 528.25 779.25 289.5 0 0 51  0 0 0 0 0
+1x1F Print" 524.25 770.75 288.1 3 0 49 Letters/T 0 0 1 1 1
+2x2" 555 564.5 288.3 0 0 0  0 0 1 1 1
+2x2" 555 596.5 288.3 0 0 0  0 0 1 1 1
+64x Cube 1/4h" 507 423 76 3 0 34 Letters/-space 0 0 1 1 1
+1x1F Print" 524.25 768.75 288.1 3 0 49 Letters/C 0 0 1 1 1
+1x1F Print" 524.25 769.25 288.1 3 0 49 Letters/O 0 0 1 1 1
+1x1F Print" 524.25 770.25 288.1 3 0 49 Letters/N 0 0 1 1 1
+1x2F" 524.25 773.5 288.1 0 0 51  0 0 1 1 1
++-EVENT	0	1	onActivate	33	-1	_1	fireRelay				
+64x Cube 1/4h" 507 551 76 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 519 76 3 0 34 Letters/-space 0 0 1 1 1
+1x1F Print" 524.25 768.25 288.1 3 0 49 Letters/-plus 0 0 1 1 1
+1x1F Print" 524.25 771.75 288.1 3 0 49 Letters/R 0 0 1 1 1
+2x2" 555 628.5 288.3 0 0 0  0 0 1 1 1
+1x1F Print" 524.25 772.75 288.1 3 0 49 Letters/-greater_than 0 0 1 1 1
+8x8" 536 772.5 288.3 0 0 3  0 0 1 1 1
+64x Cube 1/2h" 507 775 280 3 0 44 Letters/-space 0 0 1 1 1
+64x Ramp 1/4h" 539 711 268 3 0 28 Letters/-space 0 0 1 1 1
+2x2" 555 756.5 288.3 0 0 0  0 0 1 1 1
+1x1F Print" 524.25 766.75 288.1 3 0 49 Letters/A 0 0 1 1 1
+1x1F Print" 524.25 767.25 288.1 3 0 49 Letters/R 0 0 1 1 1
+1x1F Print" 524.25 765.75 288.1 3 0 49 Letters/S 0 0 1 1 1
+1x6F" 532.25 761 288.1 0 0 45  0 0 1 1 1
++-EVENT	0	1	onActivate	0	MiniGame		CenterPrintAll	i am renekar and i am a hacker<br>prepare to die<br>all of you<br>aAasfdsagdjhasghfjgdsdsgasdfbutts	3		
+64x Cube 1/4h" 507 455 76 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 539 551 148 0 0 32 Letters/-space 0 0 1 1 1
+64x Ramp 1/4h" 539 519 148 3 0 44 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 583 76 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 615 76 3 0 34 Letters/-space 0 0 1 1 1
+2x2" 459 505.5 288.3 0 0 0  0 0 1 1 1
+64x Ramp 1/4h" 475 711 268 3 0 28 Letters/-space 0 0 1 1 1
+2x2" 555 660.5 288.3 0 0 0  0 0 1 1 1
+2x2" 555 692.5 288.3 0 0 0  0 0 1 1 1
+2x2" 459 281.5 288.3 0 0 0  0 0 1 1 1
+2x2" 459 217.5 288.3 0 0 0  0 0 1 1 1
+2x2" 459 249.5 288.3 0 0 0  0 0 1 1 1
+2x2" 459 313.5 288.3 0 0 0  0 0 1 1 1
+1x1F Print" 524.25 767.75 288.1 3 0 49 Letters/T 0 0 1 1 1
+1x1F Print" 524.25 766.25 288.1 3 0 49 Letters/T 0 0 1 1 1
+1x1 Print" 528.75 694.25 263.9 0 0 18 Letters/S 0 0 1 1 1
+64x Ramp 1/4h" 475 519 148 3 0 44 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 551 148 0 0 32 Letters/-space 0 0 1 1 1
+2x2" 555 724.5 288.3 0 0 0  0 0 1 1 1
+2x2" 459 729.5 288.3 0 0 0  0 0 1 1 1
+64x Cube 1/4h" 507 711 76 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 679 76 3 0 34 Letters/-space 0 0 1 1 1
+2x2" 459 473.5 288.3 0 0 0  0 0 1 1 1
+64x Cube 1/4h" 507 743 76 3 0 34 Letters/-space 0 0 1 1 1
+2x2" 459 345.5 288.3 0 0 0  0 0 1 1 1
+2x2" 555 500.5 288.3 0 0 0  0 0 1 1 1
+2x2" 555 468.5 288.3 0 0 0  0 0 1 1 1
+64x Cube 1/4h" 507 647 76 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 487 76 3 0 34 Letters/-space 0 0 1 1 1
+1x1F Print" 524.25 772.25 288.1 3 0 49 Letters/-minus 0 0 1 1 1
+Poster 8x" 523.25 749 274 2 0 0 Letters/N 0 0 1 1 1
+Poster 8x" 523.25 741 274 2 0 0 Letters/A 0 0 1 1 1
+Poster 8x" 523.25 745 274 2 0 0 Letters/R 0 0 1 1 1
+1x1F Print" 524.25 769.75 288.1 3 0 49 Letters/U 0 0 1 1 1
+2x2" 459 377.5 288.3 0 0 0  0 0 1 1 1
+2x2" 555 244.5 288.3 0 0 0  0 0 1 1 1
+2x2" 459 537.5 288.3 0 0 0  0 0 1 1 1
+2x2" 459 697.5 288.3 0 0 0  0 0 1 1 1
+1x2F" 452 571.25 288.1 1 0 18  0 0 1 1 1
++-EVENT	0	1	onActivate	0	MiniGame		CenterPrintAll	<color:FFFFFF>The person who gets us to 30 will have his/her name put up on display! Get going!	5		
+2x2" 459 665.5 288.3 0 0 0  0 0 1 1 1
+2x2" 555 436.5 288.3 0 0 0  0 0 1 1 1
+1x1F Print" 524.25 771.25 288.1 3 0 49 Letters/E 0 0 1 1 1
+2x2" 555 404.5 288.3 0 0 0  0 0 1 1 1
+2x2" 459 409.5 288.3 0 0 0  0 0 1 1 1
+2x2" 555 372.5 288.3 0 0 0  0 0 1 1 1
+2x2" 459 633.5 288.3 0 0 0  0 0 1 1 1
+2x2" 555 340.5 288.3 0 0 0  0 0 1 1 1
+2x2" 459 601.5 288.3 0 0 0  0 0 1 1 1
+2x2" 555 532.5 288.3 0 0 0  0 0 1 1 1
+2x2" 459 441.5 288.3 0 0 0  0 0 1 1 1
+2x2" 555 308.5 288.3 0 0 0  0 0 1 1 1
+2x2" 555 276.5 288.3 0 0 0  0 0 1 1 1
+Poster 8x" 523.25 753 274 2 0 0 Letters/I 0 0 1 1 1
+2x2" 459 569.5 288.3 0 0 0  0 0 1 1 1
+Poster 8x" 523.25 737 274 2 0 0 Letters/R 0 0 1 1 1
+Poster 8x" 523.25 757 274 2 0 0 Letters/W 0 0 1 1 1
+1x1 Print" 528.25 694.25 263.9 0 0 18 Letters/-minus 0 0 1 1 1
+1x1 Print" 531.25 694.25 263.9 0 0 18 Letters/A 0 0 1 1 1
+1x1 Print" 530.75 694.25 263.9 0 0 18 Letters/I 0 0 1 1 1
+1x1 Print" 530.25 694.25 263.9 0 0 18 Letters/C 0 0 1 1 1
+1x1 Print" 529.75 694.25 263.9 0 0 18 Letters/E 0 0 1 1 1
+Vehicle Spawn" 488 676 256.9 1 0 19  0 0 0 0 0
++-EVENT	0	1	onVehicleSpawn	0	Vehicle		setShapeName	DANK KUSH YO			
++-EVENT	1	1	onVehicleLeaveZone	0	Vehicle		setShapeNameColor	19			
++-EVENT	2	1	onVehicleSpawn	0	Vehicle		addVelocity	6 6 6			
+1x1 Print" 529.25 694.25 263.9 0 0 18 Letters/P 0 0 1 1 1
+1x1 Print" 531.75 694.25 263.9 0 0 18 Letters/L 0 0 1 1 1
+64x Cube 1/4h" 539 519 284 0 0 44 Letters/-space 0 0 1 1 1
+64x Ramp 3/4h" 507 423 92 3 0 18 ModTer/brickTOP 0 0 1 1 1
+64x Cube 1/4h" 539 327 284 0 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 539 359 284 0 0 3 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 615 284 2 0 0 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 327 284 2 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 583 284 2 0 3 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 519 84 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 539 423 284 0 0 18 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 539 391 284 0 0 0 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 359 284 2 0 3 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 539 647 284 0 0 18 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 551 84 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 647 284 2 0 18 Letters/-space 0 0 1 1 1
+2x6" 536 771.5 288.9 1 0 3  0 0 1 1 1
+64x Cube 1/4h" 539 679 284 0 0 61 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 539 615 284 0 0 0 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 539 231 284 0 0 61 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 679 284 2 0 61 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 391 284 2 0 0 Letters/-space 0 0 1 1 1
+2x6" 536 772.5 288.9 1 0 3  0 0 1 1 1
+64x Cube 1/4h" 539 743 284 0 0 28 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 539 711 284 0 0 28 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 711 84 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 539 487 284 0 0 28 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 539 455 284 0 0 61 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 743 84 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 263 284 2 0 0 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 455 84 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 647 84 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 679 84 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 455 284 2 0 61 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 487 284 2 0 28 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 487 84 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 583 84 3 0 34 Letters/-space 0 0 1 1 1
+64x Ramp 1/2h" 475 551 160 3 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 615 84 3 0 34 Letters/-space 0 0 1 1 1
+64x Ramp 1/2h" 539 551 160 3 0 32 Letters/-space 0 0 1 1 1
+2x6" 536 773.5 288.9 1 0 3  0 0 1 1 1
+64x Cube 1/4h" 539 583 284 0 0 3 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 743 284 2 0 0 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 711 284 2 0 28 Letters/-space 0 0 1 1 1
+Poster 8x" 515 759.25 290 1 0 0 Letters/L 3 0 1 1 1
+1x1x5" 517.25 759.25 289.5 0 0 52  0 0 1 1 1
+1x1x5" 496.75 759.25 289.5 0 0 52  0 0 1 1 1
+Poster 8x" 503 759.25 290 1 0 0 Letters/7 3 0 1 1 1
++-NTOBJECTNAME _2
++-EVENT	0	1	onPrintCountOverFlow	0	-1	_3	incrementPrintCount	1			
++-EVENT	1	1	onPrintCountOverFlow	0	Self		spawnExplosion	gunProjectile	2		
+Poster 8x" 511 759.25 290 1 0 0 Letters/K 3 0 1 1 1
+Poster 8x" 499 759.25 290 1 0 0 Letters/2 3 0 1 1 1
++-NTOBJECTNAME _3
++-EVENT	0	1	onPrintCountOverFlow	0	Self		spawnExplosion	gunProjectile	2		
+Poster 8x" 507 759.25 290 1 0 0 Letters/5 3 0 1 1 1
++-NTOBJECTNAME _1
++-EVENT	0	1	onRelay	0	Self		incrementPrintCount	1			
++-EVENT	1	1	onRelay	2000	Self		fireRelay				
++-EVENT	2	1	onPrintCountOverFlow	0	-1	_2	incrementPrintCount	1			
++-EVENT	3	1	onPrintCountOverFlow	0	Self		spawnExplosion	gunProjectile	2		
+64x Cube 1/4h" 475 231 284 2 0 61 Letters/-space 0 0 1 1 1
+Vehicle Spawn" 490 710 269.7 1 0 49  0 0 0 0 0
++-EVENT	0	1	onVehicleSpawn	0	Vehicle		setVelocity	13 0 0			
++-EVENT	1	1	onVehicleSpawn	0	Vehicle		setShapeName	COBBLESTONE			
++-EVENT	2	1	onVehicleSpawn	0	Vehicle		setShapeNameColor	49			
++-VEHICLE Brick Ball " 1
+64x Cube 1/4h" 475 295 284 2 0 44 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 539 551 284 0 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 551 284 2 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 519 284 2 0 44 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 539 295 284 0 0 44 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 539 263 284 0 0 0 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 475 423 284 2 0 18 Letters/-space 0 0 1 1 1
+2x2" 491 665.5 288.3 0 0 0  0 0 1 1 1
+1x1x5" 496.75 759.25 292.5 0 0 52  0 0 1 1 1
+Poster 8x" 511 759.25 294 1 0 9 Letters/O 3 0 1 1 1
+Poster 8x" 515 759.25 294 1 0 9 Letters/D 3 0 1 1 1
+64x Cube 1/4h" 507 615 92 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 583 92 3 0 34 Letters/-space 0 0 1 1 1
+2x2" 491 505.5 288.3 0 0 0  0 0 1 1 1
+64x Cube 1/4h" 507 647 92 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 679 92 3 0 34 Letters/-space 0 0 1 1 1
+2x2" 491 473.5 288.3 0 0 0  0 0 1 1 1
+64x Cube 1/4h" 507 455 92 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 743 92 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 711 92 3 0 34 Letters/-space 0 0 1 1 1
+2x2" 491 345.5 288.3 0 0 0  0 0 1 1 1
+2x2" 491 377.5 288.3 0 0 0  0 0 1 1 1
+2x2" 491 697.5 288.3 0 0 0  0 0 1 1 1
+2x2" 491 537.5 288.3 0 0 0  0 0 1 1 1
+64x Cube 1/4h" 507 487 92 3 0 34 Letters/-space 0 0 1 1 1
+Poster 8x" 503 759.25 294 1 0 9 Letters/L 3 0 1 1 1
+4x4" 536 772.5 289.5 0 0 3  0 0 1 1 1
+64x Cube 1/4h" 507 519 92 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 551 92 3 0 34 Letters/-space 0 0 1 1 1
+2x2" 491 633.5 288.3 0 0 0  0 0 1 1 1
+2x2" 491 601.5 288.3 0 0 0  0 0 1 1 1
+2x2" 491 441.5 288.3 0 0 0  0 0 1 1 1
+2x2" 491 569.5 288.3 0 0 0  0 0 1 1 1
+2x2" 491 409.5 288.3 0 0 0  0 0 1 1 1
+2x2" 491 249.5 288.3 0 0 0  0 0 1 1 1
+2x2" 491 281.5 288.3 0 0 0  0 0 1 1 1
+2x2" 491 217.5 288.3 0 0 0  0 0 1 1 1
+2x2" 491 313.5 288.3 0 0 0  0 0 1 1 1
+Poster 8x" 507 759.25 294 1 0 9 Letters/O 3 0 1 1 1
+1x1F" 528.75 757.25 288.1 0 0 16  0 0 1 1 1
++-EVENT	0	1	onActivate	0	Player		Kill				
+1x1x5" 517.25 759.25 292.5 0 0 52  0 0 1 1 1
+Poster 8x" 499 759.25 294 1 0 9 Letters/B 3 0 1 1 1
+1x2F" 536.75 772.5 289.9 0 0 3  0 0 0 0 0
+64x Cube 1/4h" 507 615 100 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 487 284 2 0 28 Letters/-space 0 0 1 1 1
+1x2F" 535.25 772.5 289.9 0 0 3  0 0 0 0 0
+64x Cube 1/4h" 507 647 100 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 517.25 759.25 295.5 0 0 52  0 0 1 1 1
+2x2F" 536 772.5 289.9 0 0 3  0 0 1 1 1
+64x Cube 1/4h" 507 519 100 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 551 100 3 0 34 Letters/-space 0 0 1 1 1
+1x2F" 536 773.25 289.9 1 0 3  0 0 0 0 0
+64x Cube 1/4h" 507 231 284 2 0 61 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 615 284 2 0 0 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 583 284 2 0 3 Letters/-space 0 0 1 1 1
+1x8x2" 515 759.25 296.6 1 0 52  0 0 1 1 1
+64x Cube 1/4h" 507 679 100 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 487 100 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 423 284 2 0 18 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 391 284 2 0 0 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 583 100 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 327 284 2 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 295 284 2 0 44 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 263 284 2 0 0 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 455 100 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 519 284 2 0 44 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 551 284 2 0 32 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 743 100 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 711 100 3 0 34 Letters/-space 0 0 1 1 1
+1x2F" 536 771.75 289.9 1 0 3  0 0 0 0 0
+64x Cube 1/4h" 507 455 284 2 0 61 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 711 284 2 0 28 Letters/-space 0 0 1 1 1
++-NTOBJECTNAME _roof
+64x Cube 1/4h" 507 647 284 2 0 18 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 679 284 2 0 61 Letters/-space 0 0 1 1 1
+1x32x2" 505 759.25 296.6 1 0 52  0 0 1 1 1
+1x1x5" 496.75 759.25 295.5 0 0 52  0 0 1 1 1
+64x Cube 1/4h" 507 359 284 2 0 3 Letters/-space 0 0 1 1 1
+1x1F" 496.75 759.25 297.1 0 0 52  0 0 1 1 1
+1x1x5" 491.25 479.75 280.5 0 0 51  0 0 0 0 0
+1x2F" 535.25 772.5 290.1 0 0 3  0 0 1 1 1
+1x2F" 536 771.75 290.1 1 0 3  0 0 1 1 1
+64x Cube 1/4h" 507 647 108 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 679 108 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 583 108 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 615 108 3 0 34 Letters/-space 0 0 1 1 1
+1x2F" 536.75 772.5 290.1 0 0 3  0 0 1 1 1
+1x1x5" 522.75 479.75 283.5 0 0 51  0 0 0 1 1
+1x2F" 536 773.25 290.1 1 0 3  0 0 1 1 1
+64x Cube 1/4h" 507 519 108 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 551 108 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 487 108 3 0 34 Letters/-space 0 0 1 1 1
+1x1F" 517.25 759.25 297.1 0 0 52  0 0 1 1 1
+64x Ramp 1/2h" 507 455 112 3 0 61 ModTer/brickTOP 0 0 1 1 1
+1x1x5" 522.75 479.75 280.5 0 0 51  0 0 0 0 0
+64x Cube 1/4h" 507 711 108 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 743 108 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 583 116 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 522.75 479.75 277.5 0 0 51  0 0 0 0 0
+64x Cube 1/4h" 507 743 116 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 551 116 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 615 116 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 711 116 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 487 116 3 0 34 Letters/-space 0 0 1 1 1
+1x2F" 536.75 772.5 290.3 0 0 3  0 0 1 1 1
+1x1x5" 491.25 479.75 277.5 0 0 51  0 0 0 0 0
+1x2F" 536 773.25 290.3 1 0 3  0 0 1 1 1
+1x2F" 535.25 772.5 290.3 0 0 3  0 0 1 1 1
+1x2F" 536 771.75 290.3 1 0 3  0 0 1 1 1
+64x Cube 1/4h" 507 679 116 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 647 116 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 519 116 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 615 124 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 647 124 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 679 124 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 711 124 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 491.25 479.75 274.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 274.5 0 0 51  0 0 0 0 0
+64x Cube 1/4h" 507 519 124 3 0 34 Letters/-space 0 0 1 1 1
+64x Ramp 1/4h" 507 487 124 3 0 28 ModTer/brickTOP 0 0 1 1 1
+64x Cube 1/4h" 507 583 124 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 551 124 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 743 124 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 491.25 479.75 271.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 271.5 0 0 51  0 0 0 0 0
+64x Ramp 1/4h" 507 519 132 3 0 44 ModTer/brickTOP 0 0 1 1 1
+Vehicle Spawn" 517 501 128.1 2 0 30  0 0 1 0 0
++-EVENT	0	1	onVehicleSpawn	0	Vehicle		setShapeName	BAZOOPER			
++-EVENT	1	1	onVehicleSpawn	0	Vehicle		setShapeNameColor	30			
++-EVENT	2	1	onVehicleSpawn	0	Vehicle		setVelocity	0 -10 0			
++-VEHICLE Brick Ball " 1
+64x Cube 1/4h" 507 551 132 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 743 132 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 711 132 3 0 34 Letters/-space 0 0 1 1 1
+Vehicle Spawn" 501 501 128.1 2 0 20  0 0 1 0 0
++-EVENT	0	1	onVehicleSpawn	0	Vehicle		setShapeName	INFECTIOUS DISEASE BALL			
++-EVENT	1	1	onVehicleSpawn	0	Vehicle		setShapeNameColor	20			
++-EVENT	2	1	onVehicleSpawn	0	Vehicle		setVelocity	0 -10 0			
++-VEHICLE Brick Ball " 1
+64x Cube 1/4h" 507 679 132 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 583 132 3 0 34 Letters/-space 0 0 1 1 1
+Vehicle Spawn" 509 501 128.1 2 0 18  0 0 1 0 0
++-EVENT	0	1	onVehicleSpawn	0	Vehicle		setShapeName	WAD OF PAPER			
++-EVENT	1	1	onVehicleSpawn	0	Vehicle		setShapeNameColor	18			
++-EVENT	2	1	onVehicleSpawn	0	Vehicle		setVelocity	0 -10 0			
++-VEHICLE Brick Ball " 1
+64x Cube 1/4h" 507 615 132 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 647 132 3 0 34 Letters/-space 0 0 1 1 1
+64x Ramp 1/2h" 507 551 144 3 0 32 ModTer/brickTOP 0 0 1 1 1
+64x Cube 1/4h" 507 583 140 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 615 140 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 647 140 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 679 140 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 491.25 479.75 268.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 268.5 0 0 51  0 0 0 0 0
+64x Cube 1/4h" 507 743 140 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 711 140 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 711 148 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 522.75 479.75 265.5 0 0 51  0 0 0 0 0
+64x Cube 1/4h" 507 615 148 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 647 148 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 583 148 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 743 148 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 679 148 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 491.25 479.75 265.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 262.5 0 0 51  0 0 0 0 0
+64x Cube 1/4h" 507 647 156 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 679 156 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 743 156 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 711 156 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 491.25 479.75 262.5 0 0 51  0 0 0 0 0
+64x Cube 1/4h" 507 615 156 3 0 34 Letters/-space 0 0 1 1 1
+64x Ramp 3/4h" 507 583 164 3 0 3 ModTer/brickTOP 0 0 1 1 1
+64x Cube 1/4h" 507 679 164 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 491.25 479.75 259.5 0 0 51  0 0 0 0 0
+64x Cube 1/4h" 507 711 164 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 522.75 479.75 259.5 0 0 51  0 0 0 0 0
+64x Cube 1/4h" 507 743 164 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 615 164 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 647 164 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 491.25 479.75 256.5 0 0 51  0 0 0 0 0
+64x Cube 1/4h" 507 743 172 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 615 172 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 522.75 479.75 256.5 0 0 51  0 0 0 0 0
+64x Cube 1/4h" 507 679 172 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 647 172 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 711 172 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 679 180 3 0 34 Letters/-space 0 0 1 1 1
+64x Ramp" 507 615 192 3 0 0 ModTer/brickTOP 0 0 1 1 1
+1x1x5" 522.75 479.75 253.5 0 0 51  0 0 0 0 0
+64x Cube 1/4h" 507 647 180 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 743 180 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 491.25 479.75 253.5 0 0 51  0 0 0 0 0
+64x Cube 1/4h" 507 711 180 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 647 188 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 743 188 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 679 188 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 522.75 479.75 250.5 0 0 51  0 0 0 0 0
+64x Cube 1/4h" 507 711 188 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 491.25 479.75 250.5 0 0 51  0 0 0 0 0
+1x1x5" 491.25 479.75 247.5 0 0 51  0 0 0 0 0
+64x Cube 1/4h" 507 647 196 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 679 196 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 711 196 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 522.75 479.75 247.5 0 0 51  0 0 0 0 0
+64x Cube 1/4h" 507 743 196 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 522.75 479.75 244.5 0 0 51  0 0 0 0 0
+64x Cube 1/4h" 507 647 204 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 743 204 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 491.25 479.75 244.5 0 0 51  0 0 0 0 0
+64x Cube 1/4h" 507 711 204 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 679 204 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 522.75 479.75 241.5 0 0 51  0 0 0 0 0
+64x Cube 1/4h" 507 711 212 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 491.25 479.75 241.5 0 0 51  0 0 0 0 0
+64x Cube 1/4h" 507 679 212 3 0 34 Letters/-space 0 0 1 1 1
+64x Ramp 3/4h" 507 647 220 3 0 18 ModTer/brickTOP 0 0 1 1 1
+64x Cube 1/4h" 507 743 212 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 743 220 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 522.75 479.75 238.5 0 0 51  0 0 0 0 0
+1x1x5" 491.25 479.75 238.5 0 0 51  0 0 0 0 0
+64x Cube 1/4h" 507 679 220 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 711 220 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 491.25 479.75 235.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 235.5 0 0 51  0 0 0 0 0
+64x Cube 1/4h" 507 743 228 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 711 228 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 679 228 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 491.25 479.75 232.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 232.5 0 0 51  0 0 0 0 0
+64x Ramp 1/2h" 507 679 240 3 0 61 ModTer/brickTOP 0 0 1 1 1
+64x Cube 1/4h" 507 743 236 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 711 236 3 0 34 Letters/-space 0 0 1 1 1
+64x Cube 1/4h" 507 743 244 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 491.25 479.75 229.5 0 0 51  0 0 0 0 0
+64x Cube 1/4h" 507 711 244 3 0 34 Letters/-space 0 0 1 1 1
+1x1x5" 522.75 479.75 229.5 0 0 51  0 0 0 0 0
+64x Ramp 1/4h" 507 711 252 3 0 28 ModTer/brickTOP 0 0 1 1 1
+1x1x5" 491.25 479.75 226.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 226.5 0 0 51  0 0 0 0 0
+64x Cube 1/4h" 507 743 252 3 0 2 ModTer/brickTOP 1 0 1 1 1
++-EVENT	0	1	onPlayerTouch	0	Client		CenterPrint	<color:FFFFFF>Go click that trophy, <color:FF0000>you insufferable but awesome ball-dodging person all the same!	1		
++-EVENT	1	1	onPlayerTouch	0	MiniGame		BottomPrintAll	<color:FFFFFF> Somebody's at the winner's plate!	2	1	
+1x2F Print" 509.25 740 256.1 1 0 32 Letters/-space 0 0 1 1 1
+1x1 Print" 512.25 741.75 256.3 0 0 52 Letters/R 0 0 1 1 1
+16x Cube" 495 755 260 0 0 3  0 0 1 0 0
+1x1F Round" 518.75 740.75 256.1 3 0 36  0 0 1 1 1
+1x1F Round" 516.75 739.25 256.1 3 0 36  0 0 1 1 1
+4x4F" 498 728 256.1 0 0 45  4 0 1 1 1
+4x4F" 494 730 256.1 0 0 52  4 0 1 1 1
+8x Cube" 501 733 258 0 0 0  0 0 1 0 0
+4x4F" 512 730 256.1 0 0 45  4 0 1 1 1
+1x1F Round" 519.75 738.75 256.1 3 0 36  0 0 1 1 1
+Vehicle Spawn" 505 725 256.1 2 0 31  0 0 0 0 0
++-EVENT	0	1	onVehicleSpawn	0	Vehicle		setShapeName	GLOBAL WARMING			
++-EVENT	1	1	onVehicleSpawn	0	Vehicle		setShapeNameColor	31			
++-VEHICLE Brick Ball " 1
+16x Cube" 503 755 260 0 0 3  0 0 1 0 0
+16x Cube" 511 755 260 0 0 3  0 0 1 0 0
+8x Cube" 505 733 258 0 0 0  0 0 1 0 0
+4x4F" 500 730 256.1 0 0 45  4 0 1 1 1
+8x Cube" 517 733 258 0 0 0  0 0 1 0 0
+1x1F Round" 519.75 737.75 256.1 0 0 36  0 0 1 1 1
+8x Cube" 513 733 258 0 0 0  0 0 1 0 0
+4x4F" 522 730 256.1 0 0 52  4 0 1 1 1
+1x1F Round" 521.25 739.25 256.1 0 0 36  0 0 1 1 1
+4x4F" 518 730 256.1 0 0 52  4 0 1 1 1
+Treasure Chest" 519 747.5 256.5 0 0 61  0 0 1 1 1
++-EVENT	0	1	onActivate	0	Client		playSound	rewardSound			
++-EVENT	1	1	onActivate	0	Client		playSound	rewardSound			
+1x2F Print" 507 737.25 256.1 0 0 32 Letters/-space 0 0 1 1 1
+4x4F" 520 728 256.1 0 0 52  4 0 1 1 1
+4x4F" 514 730 256.1 0 0 52  4 0 1 1 1
+4x4F" 522 728 256.1 0 0 45  4 0 1 1 1
+Vehicle Spawn" 513 725 256.1 2 0 52  0 0 0 0 0
++-EVENT	0	1	onVehicleSpawn	0	Vehicle		setShapeName	NO RACISM ALLOWED			
++-EVENT	1	1	onVehicleSpawn	0	Vehicle		setShapeNameColor	52			
++-VEHICLE Brick Ball " 1
+Vehicle Spawn" 521 725 256.1 2 0 0  0 0 0 0 0
++-EVENT	0	1	onVehicleSpawn	0	Vehicle		setShapeName	YOUR AVERAGE BOULDER			
++-EVENT	1	1	onVehicleSpawn	0	Vehicle		setShapeNameColor	0			
++-VEHICLE Brick Ball " 1
+Poster 8x" 497 750.75 258 1 0 3 Letters/O 0 0 1 1 1
+4x4F" 514 728 256.1 0 0 45  4 0 1 1 1
+Vehicle Spawn" 517 721 256.1 2 0 43  0 0 0 0 0
++-EVENT	0	1	onVehicleSpawn	0	Vehicle		setShapeName	EXPLODING JIGGLYPUFF			
++-EVENT	1	1	onVehicleSpawn	0	Vehicle		setShapeNameColor	23			
++-EVENT	2	1	onVehicleSpawn	5000	Vehicle		spawnExplosion	gravityRocketProjectile	2		
++-EVENT	3	1	onVehicleSpawn	10000	Vehicle		spawnExplosion	gravityRocketProjectile	2		
++-EVENT	4	1	onVehicleSpawn	15000	Vehicle		spawnExplosion	gravityRocketProjectile	2		
++-VEHICLE Brick Ball " 1
+4x4F" 506 728 256.1 0 0 45  4 0 1 1 1
+Vehicle Spawn" 501 721 256.1 2 0 28  0 0 0 0 0
++-EVENT	0	1	onVehicleSpawn	0	Vehicle		setShapeName	MAROON 69			
++-EVENT	1	1	onVehicleSpawn	0	Vehicle		setShapeNameColor	9			
++-EVENT	2	1	onVehicleSpawn	5000	Vehicle		spawnExplosion	gravityRocketProjectile	2		
++-EVENT	3	1	onVehicleSpawn	10000	Vehicle		spawnExplosion	gravityRocketProjectile	2		
++-EVENT	4	1	onVehicleSpawn	15000	Vehicle		spawnExplosion	gravityRocketProjectile	2		
++-EVENT	5	1	onVehicleSpawn	20000	Vehicle		spawnExplosion	gravityRocketProjectile	2		
++-EVENT	6	1	onVehicleSpawn	25000	Vehicle		spawnExplosion	gravityRocketProjectile	2		
++-VEHICLE Brick Ball " 1
+Poster 8x" 509 750.75 258 1 0 0 Letters/R 0 0 1 1 1
+4x4F" 504 730 256.1 0 0 45  4 0 1 1 1
+4x4F" 496 730 256.1 0 0 45  4 0 1 1 1
+4x4F" 500 728 256.1 0 0 52  4 0 1 1 1
+Poster 8x" 513 750.75 258 1 0 3 Letters/A 0 0 1 1 1
+4x4F" 492 728 256.1 0 0 52  4 0 1 1 1
+1x1x5" 508.25 722.25 256.5 0 0 11  0 0 0 0 0
+Poster 8x" 501 750.75 258 1 0 32 Letters/N 0 0 1 1 1
+4x4F" 498 730 256.1 0 0 52  4 0 1 1 1
+4x4F" 502 728 256.1 0 0 45  4 0 1 1 1
+8x8F" 521 741.5 256.1 0 0 61  0 0 1 1 1
+1x1F Round" 518.25 745.75 256.1 3 0 36  0 0 1 1 1
+8x Cube" 493 733 258 0 0 0  0 0 1 0 0
+1x1 Print" 505.75 741.75 256.3 0 0 52 Letters/I 0 0 1 1 1
+1x1 Print" 506.25 741.75 256.3 0 0 52 Letters/N 0 0 1 1 1
+64x Cube " 507 743 272 1 0 45 Letters/6 0 0 0 0 0
++-NTOBJECTNAME _2
+4x4F" 512 728 256.1 0 0 52  4 0 1 1 1
+1x1 Print" 506.75 741.75 256.3 0 0 52 Letters/K 0 0 1 1 1
+Poster 8x" 517 750.75 258 1 0 32 Letters/T 0 0 1 1 1
+4x4F" 508 730 256.1 0 0 45  4 0 1 1 1
+8x Cube" 509 733 258 0 0 0  0 0 1 0 0
+1x1 Print" 505.25 741.75 256.3 0 0 52 Letters/O 0 0 1 1 1
+4x4F" 494 728 256.1 0 0 45  4 0 1 1 1
+8x Cube" 497 733 258 0 0 0  0 0 1 0 0
+1x1 Print" 510.25 741.75 256.3 0 0 52 Letters/B 0 0 1 1 1
+1x1 Print" 510.75 741.75 256.3 0 0 52 Letters/E 0 0 1 1 1
+1x1 Print" 511.25 741.75 256.3 0 0 52 Letters/S 0 0 1 1 1
+1x1 Print" 511.75 741.75 256.3 0 0 52 Letters/T 0 0 1 1 1
+Poster 8x" 493 750.75 258 1 0 0 Letters/C 0 0 1 1 1
+1x1F Round" 492.25 737.25 256.1 1 0 61  0 0 1 1 1
+Treasure Chest" 494.5 747.5 256.5 0 0 61  0 0 1 1 1
++-EVENT	0	1	onActivate	0	Client		playSound	rewardSound			
++-EVENT	1	1	onActivate	0	Client		playSound	rewardSound			
+Poster 8x" 505 750.75 258 1 0 44 Letters/G 0 0 1 1 1
+4x4F" 496 728 256.1 0 0 52  4 0 1 1 1
+1x1F Round" 492.25 740.75 256.1 1 0 61  0 0 1 1 1
+Vehicle Spawn" 509 717 256.1 2 0 61  0 0 0 0 0
++-EVENT	0	1	onVehicleSpawn	0	Vehicle		setShapeName	YOUR GRADES			
++-EVENT	1	1	onVehicleSpawn	0	Vehicle		setShapeNameColor	61			
++-VEHICLE Brick Ball " 1
+4x4F" 508 728 256.1 0 0 52  4 0 1 1 1
+4x4F" 510 730 256.1 0 0 52  4 0 1 1 1
+1x1x5" 522.75 479.75 223.5 0 0 51  0 0 0 0 0
+8x Cube" 521 733 258 0 0 0  0 0 1 0 0
+1x1F Round" 491.25 737.25 256.1 1 0 61  0 0 1 1 1
+1x1F Round" 491.25 740.75 256.1 1 0 61  0 0 1 1 1
+4x4F" 510 728 256.1 0 0 45  4 0 1 1 1
+1x1 Print" 508.75 741.75 256.3 0 0 52 Letters/I 0 0 1 1 1
+4x4F" 492 730 256.1 0 0 45  4 0 1 1 1
+4x4F" 502 730 256.1 0 0 52  4 0 1 1 1
+1x1 Print" 504.75 741.75 256.3 0 0 52 Letters/B 0 0 1 1 1
+Vehicle Spawn" 497 725 256.1 2 0 32  0 0 0 0 0
++-EVENT	0	1	onVehicleSpawn	0	Vehicle		setShapeName	CAPTAIN CTHULU WAS HERE			
++-EVENT	1	1	onVehicleSpawn	0	Vehicle		setShapeNameColor	53			
++-VEHICLE Brick Ball " 1
+Poster 8x" 521 750.75 258 1 0 44 Letters/S 0 0 1 1 1
+1x1x5" 491.25 479.75 223.5 0 0 51  0 0 0 0 0
+4x4F" 516 730 256.1 0 0 45  4 0 1 1 1
+1x1 Print" 509.25 741.75 256.3 0 0 52 Letters/S 0 0 1 1 1
+2x2" 507.5 738.5 256.3 3 0 61  0 0 1 1 1
+Vehicle Spawn" 493 721 256.1 2 0 2  0 0 0 0 0
++-EVENT	0	1	onVehicleSpawn	0	Vehicle		setShapeName	A FAIRLY LARGE ORANGE			
++-EVENT	1	1	onVehicleSpawn	0	Vehicle		setShapeNameColor	11			
++-VEHICLE Brick Ball " 1
+1x1F Round" 518.25 739.25 256.1 3 0 36  0 0 1 1 1
+4x4F" 506 730 256.1 0 0 52  4 0 1 1 1
+4x4F" 516 728 256.1 0 0 52  4 0 1 1 1
+4x4F" 518 728 256.1 0 0 45  4 0 1 1 1
+4x4F" 520 730 256.1 0 0 45  4 0 1 1 1
+1x1x5" 516.25 706.75 252.3 0 0 44  0 0 1 0 0
+4x4F" 504 728 256.1 0 0 52  4 0 1 1 1
+1x2F Print" 506 739.75 256.1 2 0 32 Letters/-space 0 0 1 1 1
+1x1F Round" 521.25 742.25 259.7 3 0 36  0 0 1 1 1
+1x6" 491.25 739 256.7 0 0 28  0 0 1 1 1
+Poster 8x" 513 750.75 262 1 0 43 Letters/D 0 1 1 1 1
+Poster 8x" 505 750.75 266 1 0 0 Letters/-space 4 0 1 1 1
++-EMITTER FX Can - Undulo" 0
+8x8F" 521 741.5 258.1 0 0 61  0 0 1 1 1
+1x1F Round" 521.25 742.75 260.3 3 0 36  0 0 1 1 1
+1x1F Round" 521.25 742.75 260.1 3 0 36  0 0 1 1 1
+1x1F Round" 520.75 742.75 260.1 3 0 36  0 0 1 1 1
+1x1F Round" 521.25 742.25 260.3 3 0 36  0 0 1 1 1
+1x1F Round" 521.25 742.25 260.1 3 0 36  0 0 1 1 1
+1x1F Round" 521.25 742.25 260.5 3 0 36  0 0 1 1 1
+2x2F Print" 492 738 256.5 3 0 28 Letters/-space 0 0 1 1 1
+1x1F Round" 520.75 742.75 258.9 3 0 36  0 0 1 1 1
+1x1x5" 508.25 722.25 259.5 0 0 11  0 0 0 0 0
+Poster 8x" 505 731.25 262 1 0 32 Letters/N 3 0 1 1 1
+2x2F Print" 492 739 256.5 3 0 28 Letters/-space 0 0 1 1 1
+1x6F" 491.25 739 257.5 0 0 28  0 0 1 1 1
+2x2F Print" 492 740 256.5 3 0 28 Letters/-space 0 0 1 1 1
+3x8F" 491.75 739 256.3 0 0 28  0 0 1 1 1
+1x3F" 491.75 737.25 257.1 1 0 28  0 0 1 1 1
+1x1x5" 522.75 479.75 220.5 0 0 51  0 0 0 0 0
+1x1 Print" 520.75 742.75 257.7 2 0 36 Letters/N 0 0 1 1 1
+1x1F Round" 520.75 742.75 259.9 3 0 36  0 0 1 1 1
+1x1F Round" 521.25 742.75 259.1 3 0 36  0 0 1 1 1
+Poster 8x" 521 750.75 266 1 0 0 Letters/R 4 0 1 1 1
++-EMITTER FX Can - Undulo" 0
+1x1 Print" 519.75 742.25 257.7 1 0 36 Letters/E 0 0 1 1 1
+Poster 8x" 513 750.75 266 1 0 0 Letters/I 4 0 1 1 1
++-EMITTER FX Can - Undulo" 0
+1x1F Round" 520.75 742.75 258.7 3 0 36  0 0 1 1 1
+1x1F Round" 520.25 742.25 258.3 3 0 36  0 0 1 1 1
+Poster 8x" 501 731.25 262 1 0 3 Letters/I 3 0 1 1 1
+1x1 Print" 520.25 742.75 257.7 2 0 36 Letters/K 0 0 1 1 1
+Poster 8x" 509 731.25 262 1 0 44 Letters/N 3 0 1 1 1
+Poster 8x" 497 731.25 262 1 0 0 Letters/W 3 0 1 1 1
++-EMITTER FX Can - Rainbow" 0
+2x2F Round" 521 742.5 258.3 0 0 18  0 0 1 1 1
+2x6x2" 520 741.5 256.8 0 0 36  0 0 1 1 1
+1x1F Round" 521.25 742.25 259.9 3 0 36  0 0 1 1 1
+1x1F Round" 521.25 742.25 258.9 3 0 36  0 0 1 1 1
+1x1 Print" 522.25 742.25 257.7 3 0 36 Letters/A 0 0 1 1 1
+1x1F Round" 521.25 742.75 259.9 3 0 36  0 0 1 1 1
+1x1F Round" 521.25 742.75 259.5 3 0 36  0 0 1 1 1
+1x1F Round" 520.75 742.75 259.7 3 0 36  0 0 1 1 1
+1x1F Round" 520.75 742.75 259.3 3 0 36  0 0 1 1 1
+1x1 Print" 519.75 741.25 257.7 1 0 36 Letters/T 0 0 1 1 1
+1x1x3" 519.25 743.25 257.1 0 0 61  0 0 1 1 1
+1x1F Round" 521.25 742.25 259.5 3 0 36  0 0 1 1 1
+1x1F Round" 521.25 742.25 258.7 3 0 36  0 0 1 1 1
+1x1x3" 519.25 739.75 257.1 0 0 61  0 0 1 1 1
+1x1 Print" 519.75 740.25 257.7 0 0 36 Letters/C 0 0 1 1 1
+1x1 Print" 519.75 740.75 257.7 1 0 36 Letters/-minus 0 0 1 1 1
+1x1F Round" 521.25 742.25 259.1 3 0 36  0 0 1 1 1
+1x1F Round" 520.25 742.25 258.5 3 0 36  0 0 1 1 1
+25° Crest 4x" 510.5 752.5 277.5 3 0 18  0 0 1 1 1
++-EMITTER Fire A" 0
+25° Crest Corner" 503.5 756 277.5 0 0 18  0 0 1 1 1
+25° Crest Corner" 510.5 756 277.5 1 0 18  0 0 1 1 1
+Poster 8x" 517 731.25 262 1 0 43 Letters/R 3 0 1 1 1
++-EMITTER FX Can - Rainbow" 0
+Poster 8x" 513 731.25 262 1 0 2 Letters/E 3 0 1 1 1
+25° Crest 4x" 503.5 754.5 277.5 1 0 18  0 0 1 1 1
++-EMITTER Fire A" 0
+1x6x5" 507 752.25 275.5 1 0 14  0 0 1 0 0
+1x6x5" 507 752.25 272.5 1 0 14  0 0 1 0 0
+25° Crest 4x" 503.5 752.5 277.5 1 0 18  0 0 1 1 1
++-EMITTER Fire A" 0
+25° Crest 4x" 505 756 277.5 2 0 18  0 0 1 1 1
++-EMITTER Fire A" 0
+25° Crest 4x" 509 756 277.5 2 0 18  0 0 1 1 1
++-EMITTER Fire A" 0
+25° Crest 4x" 507 756 277.5 2 0 18  0 0 1 1 1
++-EMITTER Fire A" 0
+25° Crest 4x" 510.5 754.5 277.5 3 0 18  0 0 1 1 1
++-EMITTER Fire A" 0
+16x16 Base" 507 752.5 277.1 0 0 11  4 0 1 1 1
++-NTOBJECTNAME _winrar
++-EVENT	0	1	onPlayerTouch	0	Client		CenterPrint	<color:FFFFFF>YOU'RE ON FIRE!!!	2		
++-EMITTER Fire B" 0
++-LIGHT Orange Light" 1
+25° Crest 2x" 504.5 749 277.5 0 0 18  0 0 1 1 1
++-EMITTER Fire A" 0
+25° Crest Corner" 510.5 749 277.5 2 0 18  0 0 1 1 1
+25° Crest 4x" 508 749 277.5 0 0 18  0 0 1 1 1
++-EMITTER Fire A" 0
+Music Brick" 507.75 751.75 276.7 1 0 8  0 0 1 1 1
++-NTOBJECTNAME _winmusic
+25° Crest 2x" 509.5 749 277.5 0 0 18  0 0 1 1 1
++-EMITTER Fire A" 0
+25° Crest Corner" 503.5 749 277.5 3 0 18  0 0 1 1 1
+25° Crest 4x" 503.5 750.5 277.5 1 0 18  0 0 1 1 1
++-EMITTER Fire A" 0
+25° Crest 4x" 510.5 750.5 277.5 3 0 18  0 0 1 1 1
++-EMITTER Fire A" 0
+25° Crest 4x" 506 749 277.5 0 0 18  0 0 1 1 1
++-EMITTER Fire A" 0
+1x1 Print" 505.75 752.25 270.7 0 0 0 Letters/O 0 1 1 1 1
++-EMITTER FX Can - Stable Bubble" 0
+1x1 Print" 507.75 752.25 270.7 0 0 18 Letters/A 0 1 1 1 1
+1x1 Print" 506.75 752.25 270.7 0 0 44 Letters/A 0 1 1 1 1
+4x Cube" 507 753 269 0 0 0  0 0 1 0 0
+4x Cube" 507 753 267 0 0 0  0 0 1 0 0
+1x1 Print" 507.25 752.25 270.7 0 0 0 Letters/M 0 1 1 1 1
+Poster 8x" 517 750.75 266 1 0 0 Letters/N 4 0 1 1 1
++-EMITTER FX Can - Undulo" 0
+1x1 Print" 519.75 742.75 257.7 1 0 36 Letters/B 0 0 1 1 1
+1x1 Print" 519.75 741.75 257.7 1 0 36 Letters/S 0 0 1 1 1
+1x1F Round" 519.75 741.25 258.3 3 0 36  0 0 1 1 1
+4x Cube" 507 753 265 0 0 0  0 0 1 0 0
+1x1 Print" 508.25 752.25 270.7 0 0 44 Letters/-bang 0 1 1 1 1
+1x6F" 507 752.25 270.3 1 0 0  0 0 1 0 0
+1x1 Print" 506.25 752.25 270.7 0 0 18 Letters/B 0 1 1 1 1
+Poster 8x" 505 750.75 262 1 0 43 Letters/L 0 1 1 1 1
+Poster 8x" 501 750.75 266 1 0 0 Letters/R 4 0 1 1 1
++-EMITTER FX Can - Undulo" 0
+Poster 8x" 509 750.75 266 1 0 0 Letters/W 4 0 1 1 1
++-EMITTER FX Can - Undulo" 0
+1x1x3" 522.75 739.75 257.1 0 0 61  0 0 1 1 1
+1x1F Round" 520.75 739.75 256.3 3 0 36  0 0 1 1 1
+Poster 8x" 497 750.75 266 1 0 0 Letters/-space 4 0 1 1 1
++-EMITTER FX Can - Undulo" 0
+Poster 8x" 517 750.75 262 1 0 24 Letters/Y 0 1 1 1 1
+1x1F Round" 521.25 742.25 259.3 3 0 36  0 0 1 1 1
+2x6x2" 521 741.5 256.8 0 0 36  0 0 1 1 1
+1x1 Print" 522.25 741.25 257.7 3 0 36 Letters/A 0 0 1 1 1
+2x2F Round" 521 742.5 258.5 0 0 19  0 0 1 1 1
+1x1F Round" 521.25 742.75 259.7 3 0 36  0 0 1 1 1
+1x1 Print" 521.25 740.25 257.7 0 0 36 Letters/P 0 0 1 1 1
+1x1 Print" 521.75 740.25 257.7 0 0 36 Letters/S 0 0 1 1 1
+1x1 Print" 522.25 740.25 257.7 3 0 36 Letters/-bang 0 0 1 1 1
+1x1F Round" 520.75 742.75 259.1 3 0 36  0 0 1 1 1
+1x1x3" 522.75 743.25 257.1 0 0 61  0 0 1 1 1
+1x1 Print" 521.75 742.75 257.7 2 0 36 Letters/O 0 0 1 1 1
+1x1 Print" 522.25 742.75 257.7 2 0 36 Letters/B 0 0 1 1 1
+1x1 Print" 520.25 740.25 257.7 0 0 36 Letters/H 0 0 1 1 1
+1x1 Print" 520.75 740.25 257.7 0 0 36 Letters/I 0 0 1 1 1
+1x1F Round" 520.75 740.75 258.3 0 0 36  0 0 1 1 1
+1x1F Round" 520.75 740.75 258.5 0 0 36  0 0 1 1 1
+1x1F Round" 522.25 740.75 258.3 0 0 36  0 0 1 1 1
+1x1F Round" 521.25 742.75 258.9 3 0 36  0 0 1 1 1
+1x1F Round" 521.25 742.75 258.7 3 0 36  0 0 1 1 1
+1x1F Round" 521.25 742.75 259.3 3 0 36  0 0 1 1 1
+1x1 Print" 521.25 742.75 257.7 2 0 36 Letters/I 0 0 1 1 1
+1x1 Print" 522.25 740.75 257.7 3 0 36 Letters/A 0 0 1 1 1
+2x6x2" 522 741.5 256.8 0 0 36  0 0 1 1 1
+1x1F Round" 522.25 741.75 258.3 0 0 36  0 0 1 1 1
+1x1F Round" 520.75 742.75 259.5 3 0 36  0 0 1 1 1
+1x1F Round" 520.25 742.25 258.7 3 0 36  0 0 1 1 1
+1x1 Print" 522.25 741.75 257.7 3 0 36 Letters/A 0 0 1 1 1
+1x1 Cone" 507.25 738.25 257.5 3 0 61  0 0 1 1 1
+1x1 Cone" 507.75 738.25 257.5 3 0 61  0 0 1 1 1
+1x1 Cone" 507.75 738.75 257.5 3 0 61  0 0 1 1 1
+1x1 Cone" 507.25 738.75 257.5 3 0 61  0 0 1 1 1
+2x2x2 Cone" 507.5 738.5 258.4 3 0 3  0 0 1 1 1
++-EVENT	0	1	onActivate	0	MiniGame		BottomPrintAll	<color:FFFFFF>Winner!	1	1	
++-EVENT	1	1	onActivate	0	MiniGame		Reset				
++-EVENT	2	1	onActivate	0	Client		IncScore	1			
++-EMITTER FX Can - Rainbow Bubble" 0
++-LIGHT Yellow Light" 1
+2x2" 507.5 738.5 256.9 3 0 61  0 0 1 1 1
+Poster 8x" 497 750.75 262 1 0 43 Letters/O 0 1 1 1 1
+Poster 8x" 509 750.75 262 1 0 24 Letters/A 0 1 1 1 1
+Poster 8x" 501 750.75 262 1 0 24 Letters/T 0 1 1 1 1
+Poster 8x" 521 750.75 262 1 0 43 Letters/-dollar 0 1 1 1 1
+1x1x5" 491.25 479.75 220.5 0 0 51  0 0 0 0 0
+1x3" 491.75 737.25 256.7 1 0 28  0 0 1 1 1
+1x3" 491.75 740.75 256.7 1 0 28  0 0 1 1 1
+Poster 8x" 493 750.75 266 1 0 0 Letters/U 4 0 1 1 1
++-EMITTER FX Can - Undulo" 0
+Poster 8x" 493 750.75 262 1 0 24 Letters/H 0 1 1 1 1
++-EVENT	0	1	onActivate	0	Self		setShapeFX	1			
+1x3F" 491.75 740.75 257.1 1 0 28  0 0 1 1 1
+1x1x5" 491.25 479.75 217.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 217.5 0 0 51  0 0 0 0 0
+Vehicle Spawn" 509 720.5 261.1 2 0 45  0 0 0 0 0
++-EVENT	0	1	onVehicleSpawn	0	Vehicle		setShapeName	GIANT ASS SNOWBALL			
++-EVENT	1	1	onVehicleSpawn	0	Vehicle		setShapeNameColor	18			
++-EVENT	2	1	onVehicleSpawn	0	Vehicle		setVelocity	0 -13 0			
++-EVENT	3	1	onVehicleSpawn	0	Vehicle		setVehicleScale	1.5			
++-VEHICLE Brick Ball " 1
+1x1x5" 491.25 479.75 214.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 214.5 0 0 51  0 0 0 0 0
+1x1x5" 491.25 479.75 211.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 211.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 208.5 0 0 51  0 0 0 0 0
+1x1x5" 491.25 479.75 208.5 0 0 51  0 0 0 0 0
+1x1x5" 491.25 479.75 205.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 205.5 0 0 51  0 0 0 0 0
+1x1x5" 491.25 479.75 202.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 202.5 0 0 51  0 0 0 0 0
+1x1x5" 491.25 479.75 199.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 199.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 196.5 0 0 51  0 0 0 0 0
+1x1x5" 491.25 479.75 196.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 193.5 0 0 51  0 0 0 0 0
+1x1x5" 491.25 479.75 193.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 190.5 0 0 51  0 0 0 0 0
+1x1x5" 491.25 479.75 190.5 0 0 51  0 0 0 0 0
+1x1x5" 491.25 479.75 187.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 187.5 0 0 51  0 0 0 0 0
+1x1x5" 491.25 479.75 184.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 184.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 181.5 0 0 51  0 0 0 0 0
+1x1x5" 491.25 479.75 181.5 0 0 51  0 0 0 0 0
+1x1x5" 491.25 479.75 178.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 178.5 0 0 51  0 0 0 0 0
+1x1x5" 491.25 479.75 175.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 175.5 0 0 51  0 0 0 0 0
+1x1x5" 491.25 479.75 172.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 172.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 169.5 0 0 51  0 0 0 0 0
+1x1x5" 491.25 479.75 169.5 0 0 51  0 0 0 0 0
+1x1x5" 491.25 479.75 166.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 166.5 0 0 51  0 0 0 0 0
+1x1x5" 491.25 479.75 163.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 163.5 0 0 51  0 0 0 0 0
+1x1x5" 491.25 479.75 160.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 160.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 157.5 0 0 51  0 0 0 0 0
+1x1x5" 491.25 479.75 157.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 154.5 0 0 51  0 0 0 0 0
+1x1x5" 491.25 479.75 154.5 0 0 51  0 0 0 0 0
+1x1x5" 491.25 479.75 151.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 151.5 0 0 51  0 0 0 0 0
+1x1x5" 522.75 479.75 148.5 0 0 51  0 0 0 0 0
+1x1x5" 491.25 479.75 148.5 0 0 51  0 0 0 0 0
+Poster 8x" 499 479.75 142.6 1 0 49 Letters/O 4 0 1 1 1
+1x4x4 Print" 520 479.75 145.8 0 0 51 Letters/R 0 0 0 1 1
+1x4x4 Print" 510 479.75 145.8 0 0 51 Letters/I 0 0 0 1 1
+1x4x4 Print" 496 479.75 145.8 0 0 51 Letters/I 0 0 0 1 1
+1x4x4 Print" 512 479.75 145.8 0 0 51 Letters/N 0 0 0 1 1
+1x4x4 Print" 506 479.75 145.8 0 0 51 Letters/D 0 0 0 1 1
+1x3x5" 521.75 479.75 142.1 1 0 51  0 0 0 1 1
+1x4x4 Print" 514 479.75 145.8 0 0 51 Letters/-space 0 0 0 1 1
+1x4x4 Print" 516 479.75 145.8 0 0 51 Letters/E 0 0 0 1 1
+1x4x4 Print" 518 479.75 145.8 0 0 51 Letters/V 0 0 0 1 1
+1x4x4 Print" 494 479.75 145.8 0 0 51 Letters/D 0 0 0 1 1
+1x4x4 Print" 498 479.75 145.8 0 0 51 Letters/C 0 0 0 1 1
+1x4x4 Print" 502 479.75 145.8 0 0 51 Letters/-space 0 0 0 1 1
+1x4x4 Print" 500 479.75 145.8 0 0 51 Letters/K 0 0 0 1 1
+Poster 8x" 503 479.75 142.6 1 0 49 Letters/-space 4 0 1 1 1
+Poster 8x" 495 479.75 142.6 1 0 49 Letters/N 4 0 1 1 1
+1x1 Print" 495.75 479.75 147.3 0 0 36 Letters/A 0 0 1 1 1
+1x1 Print" 496.25 479.75 147.3 0 0 36 Letters/Y 0 0 1 1 1
+1x1 Print" 495.25 479.75 147.3 0 0 36 Letters/G 0 0 1 1 1
+1x1 Print" 495.75 479.75 147.9 0 0 36 Letters/-space 0 0 1 1 1
+1x1 Print" 495.75 479.75 148.5 0 0 24 Letters/-space 0 0 1 1 1
+1x1x5" 522.75 479.75 142.1 0 0 51  0 0 0 1 1
+1x1x5" 491.25 479.75 142.1 0 0 51  0 0 0 1 1
+1x1x5" 491.25 479.75 145.1 0 0 51  0 0 0 1 1
+1x3x5" 521.75 479.75 145.1 1 0 51  0 0 0 1 1
+1x3x5" 492.25 479.75 145.1 1 0 51  0 0 0 1 1
+1x1x5" 522.75 479.75 145.1 0 0 51  0 0 0 1 1
+Poster 8x" 515 479.75 142.6 1 0 49 Letters/E 4 0 1 1 1
+Poster 8x" 519 479.75 142.6 1 0 49 Letters/-bang 4 0 1 1 1
+1x2F" 507 479.75 139.9 1 0 0  0 0 0 0 0
+Poster 8x" 507 479.75 142.6 1 0 49 Letters/O 4 0 1 1 1
+1x4x4 Print" 504 479.75 145.8 0 0 51 Letters/A 0 0 0 1 1
+1x3x5" 492.25 479.75 142.1 1 0 51  0 0 0 1 1
+4x Cube" 1019.5 362.5 333 0 0 0  0 0 1 0 0
+4x Cube" 1019.5 362.5 331 0 0 0  0 0 1 0 0
+1x32" 515 479.75 140.3 1 0 51  0 0 0 1 1
+Poster 8x" 511 479.75 142.6 1 0 49 Letters/N 4 0 1 1 1
+1x4x4 Print" 508 479.75 145.8 0 0 51 Letters/M 0 0 0 1 1
+1x32" 499 479.75 140.3 1 0 51  0 0 0 1 1

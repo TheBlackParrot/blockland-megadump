@@ -1,0 +1,80 @@
+242 243 242 255 White
+199 193 183 255 Light grey
+161 165 162 255 Grey
+109 110 108 255 Dark grey
+61 60 63 255 extra non-lego darker gray (shhh)
+29 32 34 255 Black
+255 255 255 0 Invisible
+DIV: LEGO Grays
+
+123 46 47 255 Darkred
+160 95 52 255 darkorange
+149 138 115 255 sandyellow
+39 70 44 255 earthgreen
+32 58 86 255 earthblue
+107 50 123 255 Brivi
+146 57 120 255 brightreddishviolet
+DIV: LEGO Dark
+
+196 40 27 255 brightred
+218 133 64 255 brightorange
+245 205 47 255 brightyellow
+40 127 70 255 darkgreen
+13 105 171 255 brightblue
+67 84 147 255 bribluvi
+205 98 152 255 bripur
+DIV: LEGO Basic
+
+218 134 121 255 Medred
+204 142 104 255 nougat
+215 197 153 255 brickyellow
+161 196 139 255 medgre
+110 153 201 255 medblu
+104 116 172 255 medbluvi
+196 112 160 255 Medredvi
+DIV: LEGO Medium
+
+238 196 182 255 lightred
+234 184 145 255 lightorange
+249 233 153 255 lightyel
+217 228 167 255 Ligyelgre
+194 218 184 255 lightgreen
+180 210 227 255 liblu
+167 169 206 255 lili
+DIV: LEGO Light
+
+105 64 39 255 reddishbrown
+98 71 50 255 earthorange
+124 92 69 255 brown
+143 76 42 255 Rust
+174 122 89 255 darknougat
+178 97 70 255 Fabulandred
+DIV: LEGO Browns
+
+207 96 36 255 flameredor
+226 155 63 255 brightyellorange
+232 171 45 255 flameyelor
+240 213 160 255 Lightbrickyellow
+17 143 155 255 brightbluishgreen
+220 144 149 255 lipink
+DIV: LEGO Others 1
+
+75 151 74 255 brigre
+119 164 97 255 Fabulime
+164 189 70 255 brightyellowgreen
+149 121 118 255 sandred
+120 144 129 255 sandgree
+116 134 156 255 sandblu
+DIV: LEGO Others 2
+
+255 255 255 64
+255 255 255 128
+166 166 166 200
+102 166 240 128
+237 10 10 128
+255 65 0 200
+245 185 0 128
+190 255 50 200
+24 216 21 128
+30 60 240 128
+DIV: LEGO Trans

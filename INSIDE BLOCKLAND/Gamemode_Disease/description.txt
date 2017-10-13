@@ -1,0 +1,28 @@
+A new disease has devestated mankind.
+How will the world play out?
+<font:lucida console:6><color:ffffff><linkcolor:DCDCDC>
++===================================================+
+| Credits                                           |
++==================+================================+
+| Blockland Users  | Game Mode Design / Coding      |
+|                  +--------------------------------+
+|                  | - <a:forum.blockland.us/index.php?action=profile;u=44287>Zapk</a>                         |
+|                  +--------------------------------+
+|                  | Footsteps & SMM Blood          |
+|                  +--------------------------------+
+|                  | - <a:forum.blockland.us/index.php?action=profile;u=41337>Port</a>                         |
+|                  | - <a:forum.blockland.us/index.php?action=profile;u=16867>Mr.Nobody</a>                    |
+|                  +--------------------------------+
+|                  | Hat Models                     |
+|                  +--------------------------------+
+|                  | - <a:forum.blockland.us/index.php?action=profile;u=16867>Mr.Nobody</a>                    |
+|                  | - <a:forum.blockland.us/index.php?action=profile;u=9598>JakeBlade</a>                    |
+|                  | - <a:forum.blockland.us/index.php?action=profile;u=6041>Rusty</a>                        |
+|                  | - <a:forum.blockland.us/index.php?action=profile;u=23755>Munkey</a>                       |
++------------------+--------------------------------+
+| Other            | Sound Design                   |
+|                  +--------------------------------+
+|                  | - <a:freesound.org/people/DJ%20Chronos>Dj Chronos</a>                   |
+|                  | - <a:freesound.org/people/afleetingspeck>afleetingspeck               |
+|                  | - <a:freesound.org/people/J.Zazvurek>J.Zazvurek                   |
++===================================================+

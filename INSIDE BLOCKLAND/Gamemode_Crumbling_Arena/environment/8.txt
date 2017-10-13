@@ -1,0 +1,32 @@
+$EnvGuiServer::SimpleMode 0
+$EnvGuiServer::SkyFile Add-Ons/Sky_Halloween/halloween.dml
+$EnvGuiServer::WaterFile Add-Ons/Water_Brick/brick.water
+$EnvGuiServer::GroundFile Add-Ons/Ground_Bedroom/TTasphalt01.ground
+$EnvGuiServer::SunFlareTopTexture base/lighting/corona.png
+$EnvGuiServer::SunFlareBottomTexture base/lighting/corona.png
+$EnvGuiServer::DayOffset 
+$EnvGuiServer::DayLength 300
+$EnvGuiServer::DayCycleEnabled 0
+$EnvGuiServer::DayCycle Add-Ons/DayCycle_Default/default.daycycle
+$EnvGuiServer::SunAzimuth 135
+$EnvGuiServer::SunElevation 20
+$EnvGuiServer::DirectLightColor 0.593458 0.371860 0.299502 1.000000
+$EnvGuiServer::AmbientLightColor 0.378505 0.157415 0.157415 1.000000
+$EnvGuiServer::ShadowColor 0.112150 0.112150 0.112150 1.000000
+$EnvGuiServer::SunFlareColor 0.378505 0.268844 0.159184 1.000000
+$EnvGuiServer::SunFlareSize 0.769231
+$EnvGuiServer::VisibleDistance 600
+$EnvGuiServer::FogDistance 250
+$EnvGuiServer::FogHeight 
+$EnvGuiServer::FogColor 0.352941 0.239216 0.000000 1.000000
+$EnvGuiServer::WaterColor 0.714953 0.000000 0.000000 0.747664
+$EnvGuiServer::WaterHeight 5
+$EnvGuiServer::UnderWaterColor 1.000000 0.000000 0.000000 0.525490
+$EnvGuiServer::SkyColor 1.0 1.0 1.0 1.0
+$EnvGuiServer::WaterScrollX 0
+$EnvGuiServer::WaterScrollY 0
+$EnvGuiServer::GroundColor 255 255 255 255
+$EnvGuiServer::GroundScrollX 0
+$EnvGuiServer::GroundScrollY 0
+$EnvGuiServer::VignetteMultiply 0
+$EnvGuiServer::VignetteColor 0.000000 0.000000 0.000000 0.392157

@@ -1,0 +1,120 @@
+{
+	"General Rules": {
+		"rules": [
+			{ "rule": "Do not spam anything that can be spammed (chat, events, etc.)." },
+			{ "rule": "Do not ask for any kind of server rank including VIP. If a super admin feels that you are up to the task of handling a server rank it will be offered to you, until then do not ask." },
+			{ "rule": "Do not advertise other servers." },
+			{ "rule": "Do not scam others." },
+			{ "rule": "Do not avoid any kind of staff punishment." },
+			{ "rule": "If a staff member asks you to stop doing something, stop." },
+			{ "rule": "Do not intentionally be mean or communicatively attack players." }
+		],
+
+		"divID": "gen",
+		"image": "blockhead-prisoner.png"
+	},
+
+	"Jailbreak Rules": {
+		"rules": [
+			{
+				"rule": "A prisoner can be killed if they do things that are considered auto-rebel. These things include:",
+				"extras": [
+					"Killing a guard or the warden, unless part of a last request.",
+					"Entering a restricted area such as vents or the armory.",
+					"Disobeying or excessively delaying doing a warden order. Prisoners may safely refuse unavoidable orders (\"Stop existing\"), invalid orders (\"Last erection jim\") or orders that are guaranteed to kill them (\"Jump into the fire.\") without being considered a rebel.",
+					"Losing a game or last request. Though, they should only be killed if ordered to by the warden.",
+					"Doing something declared by the warden to be auto-rebel.",
+					"Having weapons other than their fists in their inventory, unless it is part of a Warden's game or a last request. A kindly guard may allow you the chance to drop your weapon, with no consequence to you or him.",
+					"Cheating during a last request."
+				]
+			},
+
+			{
+				"rule": "Do not freekill. This is killing a prisoner who has not disobeyed any orders or has not lost a game.",
+				"extras": [
+					"Do not freak out when you get freekilled. Ask your killer why, and use /a [message] to message a currently online staff member. "
+				]
+			},
+
+			{
+				"rule": "Do not be a prick. This includes being a prick about the rules.",
+				"extras": [
+					"This also includes being a prick about this rule."
+				]
+			},
+
+			{ "rule": "Do not intentionally delay the round." },
+
+			{
+				"rule": "Do not use exploits.",
+				"extras": [
+					"Any loophole you find in the rules is automatically invalid. You will be banned if you try to abuse any."
+				]
+			},
+
+			{ "rule": "The Warden may not try to trick prisoners by giving orders that could have several meanings." },
+			{ "rule": "Guards must obey the Warden." },
+			{ "rule": "Teamkilling is not allowed unless it is part of a Warden's game." },
+
+			{
+				"rule": "Prisoners may refuse to participate in opinionated games. Opinionated games defined as:",
+				"extras": [
+					"Games where the outcome depends on the Warden, or someone else's personal opinion.",
+					"Trivia where the answer is not common knowledge or that cannot be found with a Google search for example."
+				]
+			},
+
+			{ "rule": "Games played by the warden must be clearly defined before being played, unless they are already defined in the terms." },
+
+			{ "rule": "Giving information to others that they wouldn't know because you are dead is not allowed." },
+
+			{
+				"rule": "Do not intentionally give freedays or days that are guaranteed to lead to mass rebellion.",
+				"extras": [
+					"The only time this is allowed is if it is the first round of a new map."
+				]
+			},
+
+			{ "rule": "If the Warden dies, it's a freeday." },
+			{ "rule": "Opposite days and any variation of it are forbidden." },
+			{ "rule": "Custom last requests may only last until the end of the current round." },
+			{ "rule": "Healing during a last request is forbidden if it gives either player an advantage in the current last request." },
+			{ "rule": "Guards and the Warden may not interfere in a last request they are not part of unless the prisoner is a rebel, then they may kill him." },
+
+			{
+				"rule": "Favoritism is not allowed. This is giving a prisoner more or less of a chance to win for no reason.",
+				"extras": [
+					"Using /nameroll is a viable alternative to choosing players."
+				]
+			},
+
+			{ "rule": "You may not open the cells until the Warden says so. Cell doors open automatically at 9:00." },
+			{ "rule": "Guards cannot camp in the armory after 9:00." },
+			{ "rule": "The last remaining guard is allowed to kill every prisoner if there are more than 2 of them." },
+			{ "rule": "Guards cannot shoot into stacks, as it can accidentally kill innocent prisoners." },
+			{ "rule": "Warden cannot restrict chat in any way." },
+			{
+				"rule": "Warden must give prisoners a chance to follow their orders.",
+				"extras": [
+					"This can involve setting an invalid time to do a command, such as \"x by 9:45\" at 9:47, or \"x by 9:45\" at 9:43."
+				]
+			},
+
+			{ "rule": "Do not kill off more than half the server at one time." },
+
+			{
+				"rule": "Manually opening the cells before any valid command is given will force a freeday.",
+				"extras": [
+					"Guards are able to open the cells early, but risk being banned from the guards."
+				]
+			},
+
+			{ "rule": "Not giving a valid command by 9:00 will result in a freeday." },
+			{ "rule": "Prisoners are allowed to choose the warden and/or guards during games/commands involving choosing someone only if the command did not specify who to choose." },
+			{ "rule": "During \"Duck Hunt\" or similar games, do not stand at the far ends of the pool." }
+		],
+
+		"divID": "jasp",
+		"image": "blockhead-guard.png"
+	}
+}

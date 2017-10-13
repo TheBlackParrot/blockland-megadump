@@ -1,0 +1,8 @@
+$EnvGuiServer::SimpleMode 0
+$EnvGuiServer::SkyFile Add-Ons/Sky_Blank/white.dml
+$EnvGuiServer::SunAzimuth 55.8367
+$EnvGuiServer::SunElevation 12.0408
+$EnvGuiServer::DirectLightColor 0.546729 0.542056 0.546729 1.000000
+$EnvGuiServer::AmbientLightColor 0.598131 0.607477 0.607477 1.000000
+$EnvGuiServer::ShadowColor 0.537383 0.542056 0.542056 1.000000
+$EnvGuiServer::SunFlareColor 1.000000 1.000000 1.000000 1.000000

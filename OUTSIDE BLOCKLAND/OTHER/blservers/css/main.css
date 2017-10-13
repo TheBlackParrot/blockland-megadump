@@ -1,0 +1,91 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,700);
+
+body {
+	font-family: "Roboto", sans-serif;
+	font-size: 10pt;
+}
+hr {
+	border: 0;
+	padding-left: 32px;
+	padding-right: 32px;
+	border-bottom: 1px solid #ccc;
+}
+.master_servers {
+	display: inline-block;
+	padding-bottom: 8px;
+}
+.ms {
+	display: inline-block;
+	margin-right: 16px;
+	background-color: #3F51B5;
+	color: #fff;
+	padding: 8px;
+	border-radius: 4px;
+	text-transform: uppercase;
+	font-weight: 700;
+	box-shadow: 0px 4px 6px rgba(0,0,0,0.5);
+	transition: .15s;
+}
+.ms_selected {
+	background-color: #2196F3 !important;
+}
+.ms:hover {
+	background-color: #5C6BC0;
+	transition: .15s;
+}
+.wrapper {
+	padding: 16px;
+	width: calc(100% - 32px);
+}
+
+.server_list {
+	width: 100%;
+	table-layout: fixed;
+	margin-bottom: 16px;
+}
+.server_list tr td, .server_list tr th {
+	padding: 4px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+/* fucking shit i hate th and will always hate th, it's stupid and unnecessary
+   only using it for the tablesort plugin */
+.server_list tr th:nth-child(1), .server_list tr td:nth-child(1), .server_list tr th:nth-child(2), .server_list tr td:nth-child(2) {
+	width: 36px;
+}
+.server_list tr th:nth-child(4), .server_list tr td:nth-child(4) {
+	width: 16px;
+}
+.server_list tr th:nth-child(5), .server_list tr td:nth-child(5) {
+	width: 8px;
+	text-align: center;
+}
+.server_list tr th:nth-child(6), .server_list tr td:nth-child(6) {
+	width: 32px;
+}
+.server_list tr th:nth-child(7), .server_list tr td:nth-child(7) {
+	width: 96px;
+}
+.server_list tr th:nth-child(8), .server_list tr td:nth-child(8) {
+	width: 144px;
+}
+.server_list tr:nth-child(1) th {
+	font-weight: 700;
+	border-bottom: 1px solid #eee;
+	text-align: left;
+}
+.server:hover {
+	background-color: #000;
+	color: #fff !important;
+}
+.passworded:hover {
+	background-color: #FFC107 !important;
+}
+.full:hover {
+	background-color: #2196F3 !important;
+}
+.check {
+	display: inline-block;
+	margin-right: 16px;
+}

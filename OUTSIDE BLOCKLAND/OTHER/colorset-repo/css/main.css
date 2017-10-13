@@ -1,0 +1,43 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700);
+
+body {
+	font-family: "Roboto";
+	font-size: 12pt;
+	line-height: 18pt;
+	background-color: #eee;
+}
+
+.header {
+	padding: 12px;
+	padding-left: 24px;
+	height: 32px;
+	line-height: 32px;
+	background: linear-gradient(#333 75%, #222);
+}
+.header h1 {
+	font-size: 16pt;
+	font-weight: 700;
+	color: #eee;
+}
+
+.links {
+	float: right;
+}
+
+.wrapper {
+	margin: 24px;
+	margin-top: 24px;
+	width: calc(100% - 48px);
+}
+
+.card_head {
+	height: 24px;
+	line-height: 24px;
+	background-color: #666;
+	color: #fff;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+	padding: 4px;
+	padding-left: 8px;
+	transition: .25s;
+}

@@ -1,0 +1,444 @@
+apple
+orange	tangerine
+pineapple
+eggplant
+banana
+man	men
+woman	women	girl	lady	female
+cup	glass	mug
+window
+giraffe
+elephant
+dog
+cat
+lizard
+door
+van
+car
+truck
+bus
+cloud
+sun
+sky
+bird
+flower
+potato
+cookie
+waffle
+pancake	crepe
+toilet	commode	potty
+block	brick
+paper
+notebook	notepad	journal	diary
+pencil
+pen
+telephone
+cellphone	smartphone
+eraser
+trump
+obama
+bush
+president
+airplane	plane	jet
+helicopter
+fishing pole	fishing rod
+smoke
+fire
+eye
+nose
+mouth
+teeth	tooth
+arm
+leg
+hand
+foot	feet
+shoe
+sock
+television	tv
+chicken	rooster
+keyboard
+computer
+laptop
+seaweed	sea weed
+chalkboard	blackboard
+road
+camera
+glasses
+sunglasses	shades
+worm
+burger
+submarine
+leaf	leaves
+tree
+blockhead
+swimming
+police	cop	police officer
+fireman	firewoman	fireperson
+desert
+cherry
+money	currency
+coffee
+mcdonalds
+alien
+ufo
+space
+star
+earth
+jupiter
+music
+rain
+thunder	lightning
+weed	marijuana
+monkey
+comet
+baby
+zelda	triforce
+mario
+luigi
+soccer	football
+tennis
+basketball
+baseball
+headphones	earphones
+doctor	nurse
+pikachu
+moustache	beard	facial hair
+mushroom
+superman
+batman
+spiderman
+spider
+bat
+caterpillar
+penguin
+glove
+calculator
+clock
+bracelet
+necklace
+dragon
+butt
+shark
+toothbrush
+bed
+arrow
+stop light	traffic light
+poo	poop
+emoji	emoticon	emote
+candle
+steam	water vapor
+popcorn
+carrot
+chocolate
+train
+stairs	staircase
+table
+couch
+ladder
+house
+checkers	chess
+ice
+spoon
+fork
+knife
+ghost
+pacman
+zombie
+vampire
+skyscraper
+trumpet
+piano
+drum
+yin yang	yin-yang
+cereal
+bottle
+mask
+bra
+clipboard
+head
+skeleton
+water
+ocean
+boat	ship
+octopus
+tent
+snowman
+rock
+sword
+bee
+balloon
+lollipop	lolipop
+mountain
+moon
+mars
+skateboard
+soup
+duck
+ice cream
+explosion
+shoulder
+scarf
+vomit	puke	barf	throwup
+pizza
+wrench
+hammer
+wand
+salad
+pumpkin
+acorn
+frog
+noose
+moose	elk
+russia
+america	usa
+mexico
+africa
+wheelchair
+hospital
+parrot
+fox
+rainbow
+dinosaur
+spongebob
+donkey
+chips
+shrek
+castle
+acid
+pail	bucket
+circle
+square	rectangle
+gun
+horse
+pillow
+cave
+smile
+crown
+king
+queen
+prison	jail
+night
+cigar	cigarette
+snake
+broom
+mop
+shelf
+mirror
+tetris
+muffin
+bagel
+hot dog
+egg
+waterfall
+pig
+traffic cone
+cow
+shirt
+cliff
+chin
+asteroid
+robot
+bench
+rake
+cape
+cane
+city
+hair
+hitler
+hook
+peanut
+bear
+blimp
+teapot	kettle
+eel
+axe	hatchet
+volcano
+aquarium
+wave
+dolphin
+faucet	tap
+flag
+whale
+aligator	alligator	crocodile	croc
+tire	wheel
+pocket
+suitcase	luggage
+coffin
+book
+bell
+lion
+tiger
+finger
+coconut
+jellyfish
+lemon
+lime
+sonic	sanic
+wizard
+lightbulb
+purse	bag
+squid
+suit
+tie
+brain
+cinema	theater
+bomb	tnt
+oasis
+snow
+devil
+halo
+ring
+santa	santa claus
+jack o lantern
+witch
+basket
+tank
+windmill
+gear	cog
+microphone
+ambulance
+paw
+grass
+stage
+speaker
+grape
+picnic
+mouse	rat
+ant
+fan
+abs
+alphabet
+angel
+anger	angry	mad
+anthill
+armor
+armpit
+army
+avatar
+backpack
+bacon
+bacteria	germ
+bandana
+bank
+barrel
+battery
+beach
+beach ball
+bicycle	bike
+blockland
+blonde	blond
+blood
+blush
+bone
+branch
+bread
+brick
+bridge
+briefcase	suitcase	luggage
+brownie
+brunette
+butterfly	moth
+cactus
+cake
+calendar
+camel
+canada
+candy cane
+candy corn
+capitalism
+catapult
+caveman
+cd	disc	compact disc
+chair
+chart	graph
+clover
+clownfish
+communism
+confetti
+cotton candy
+crab
+crayon
+crow	raven
+crying
+cupcake
+cursor	pointer	mouse
+day
+diamond
+diaper
+disco
+donut	doughnut
+dress
+eagle
+ear
+eyebrow
+face
+family
+fat
+fence
+firetruck
+flashlight
+france
+french fry
+germany
+gnome
+golf
+grenade
+guitar	gutiar
+hangman
+heart
+hourglass
+illuminati
+jeans	denim
+ketchup
+mustard
+key
+kite
+knee
+ladybug
+lamp
+lettuce	cabbage
+lighthouse
+lock
+magnet
+mail
+mailbox
+minecraft
+outlet	plug
+palm	palm tree
+paper clip
+parachute
+pepsi
+pie
+pickle
+pirate
+pyramid
+rocket
+ruler
+saturn
+saw
+screw
+shadow
+snail
+snot	booger
+sombrero
+spring
+steak
+straw
+sunset
+sunburn
+surf
+sweat
+swingset	swings
+taco
+taxi
+top hat
+torch
+tornado	cyclone	twister
+treasure
+triangle
+trophy
+turtle
+umbrella
+wheel	tire
+wine
+wink

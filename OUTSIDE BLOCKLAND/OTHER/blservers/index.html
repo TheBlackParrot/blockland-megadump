@@ -1,0 +1,132 @@
+<html>
+
+<head>
+	<title>BL Server Browser</title>
+
+	<link rel="stylesheet" type="text/css" href="css/reset.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/sort.js"></script>
+	<script type="text/javascript" src="js/system.js"></script>
+	<script type="text/javascript" src="js/ping.js"></script>
+</head>
+
+<body>
+	<div class="wrapper">
+		<div class="master_servers">
+			<div class="ms ms_selected" srv="1" ver="21">master2.blockland.us</div>
+			<div class="ms" srv="2" ver="21">blmaster.theblackparrot.us</div>
+			<div class="ms" srv="3" ver="20"><span style="font-weight: 400;">(v20)</span> blmaster.hostoi.com</div>
+		</div><br/>
+		* TODO: Figure out some way to have the user ping BL servers. I can have the server ping them, but that's not exactly relevant to the user.
+		<hr/>
+		<div class="check"><input type="checkbox" name="steam"/>Steam Version</div>
+		<div class="check"><input type="checkbox" name="linux"/>Linux (xdg-open) [<a href="linux.html">setup</a>]</div>
+		<hr/>
+		<table class="server_list">
+			<thead>
+				<tr>
+					<th>Pass</th>
+					<th>Ded</th>
+					<th>Server Name</th>
+					<th id="table_fix" style="z-index: 1; position: relative;"></th>
+					<th></th>
+					<th></th>
+					<th>Bricks</th>
+					<th>Gamemode</th>
+				</tr>
+			</thead>
+		</table>
+		<span id="total"></span>
+	</div>
+	<span id="tables_are_the_worst" style="font-weight: 700; position: absolute; padding: 4px; z-index: 0;">Players</span>
+	<iframe id="joinTrigger" style="display: none;"></iframe>
+
+	<script>
+		var initial_table = $(".server_list").html();
+		$(window).on("resize", function(){
+			var rect = $("#table_fix")[0].getBoundingClientRect();
+			$("#tables_are_the_worst").css("top", rect.top + "px").css("left", rect.left + "px");
+		});
+		$("body").on("click", "tr", function(){
+			if(typeof $(this).attr("ip") === "undefined") {
+				return;
+			}
+
+			var url_str;
+			switch(getCookie("urlscheme")) {
+				case "1":
+					url_str = "steam://rungameid/250340//-connect " + $(this).attr("ip") + ":" + $(this).attr("port");
+					break;
+
+				case "2":
+					url_str = "linuxbl://" + $(this).attr("ip") + ":" + $(this).attr("port");
+					break;
+
+				case "0":
+				default:
+					url_str = "blockland://join-" + $(this).attr("ip") + "_" + $(this).attr("port");
+					break;
+			}
+
+			$("#joinTrigger").attr("src", url_str);
+		});
+
+		$("body").on("click", ".ms", function(){
+			$.get('includes/getdata.php?server=' + $(this).attr("srv"), function(data) {
+				server_data = data;
+				getServerLines(data);
+			});
+			if(!$(this).hasClass("ms_selected")) {
+				$(".ms_selected").removeClass("ms_selected");
+				$(this).addClass("ms_selected");
+			}
+		});
+
+		$(".check > input").change(function() {
+			var name = $(this).attr("name");
+			if(this.checked) {
+				$(".check > input").each(function(){
+					if(this.name != name) {
+						this.checked = 0;
+					}
+				});
+				switch(name) {
+					case "steam":
+						setCookie("urlscheme", 1, 365);
+						break;
+
+					case "linux":
+						setCookie("urlscheme", 2, 365);
+						break;
+				}
+			} else {
+				var modified = 0;
+				$(".check > input").each(function(){
+					if(this.checked) {
+						modified = 1;
+					}
+				});
+				if(!modified) {
+					setCookie("urlscheme", 0, 365);
+				}
+			}
+		});
+
+		if(getCookie("urlscheme") != "") {
+			var cookie = getCookie("urlscheme");
+			switch(cookie) {
+				case "1":
+					$('.check > input[name="steam"]')[0].checked = true;
+					break;
+
+				case "2":
+					$('.check > input[name="linux"]')[0].checked = true;
+					break;
+			}
+		}
+	</script>
+</body>
+
+</html>

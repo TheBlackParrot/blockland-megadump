@@ -1,0 +1,107 @@
+ADDON Brick_Arch 
+ADDON Brick_Large_Cubes 
+
+ADDON Support_Player_Persistence
+ADDON Brick_Treasure_Chest 
+
+ADDON Brick_V15 
+ADDON Emote_Alarm 
+ADDON Emote_Confusion 
+ADDON Emote_Hate 
+ADDON Emote_Love 
+ADDON Light_Animated 
+ADDON Light_Basic 
+ADDON Particle_Basic 
+ADDON Particle_FX_Cans 
+ADDON Particle_Player 
+ADDON Particle_Tools 
+ADDON Particle_Grass
+ADDON Player_No_Jet 
+ADDON Print_1x2f_Default
+ADDON Print_2x2f_Default
+ADDON Print_2x2r_Default
+ADDON Print_Letters_Default 
+ADDON Sound_Beeps 
+ADDON Sound_Phone 
+ADDON Sound_Synth4 
+
+ADDON Vehicle_Pirate_Cannon 
+ADDON Vehicle_Tank
+ADDON Weapon_Rocket_Launcher
+ADDON Projectile_GravityRocket
+ADDON Vehicle_Jeep 
+ADDON Vehicle_Horse
+ADDON Vehicle_Rowboat 
+ADDON Weapon_Bow 
+ADDON Weapon_Spear 
+ADDON Weapon_Sword 
+
+ADDON Support_Doors
+ADDON Brick_Doors
+
+ADDON Brick_Halloween
+ADDON Brick_Teledoor
+ADDON Brick_Christmas_Tree
+
+ADDON GameMode_Rising_Lava
+
+ADDON Bot_Hole
+ADDON Bot_Blockhead
+ADDON Bot_Horse
+ADDON Bot_Shark
+ADDON Bot_Zombie
+ADDON Weapon_Gun
+ADDON Weapon_Guns_Akimbo
+
+$EnvGuiServer::SimpleMode 1
+$EnvGuiServer::SkyFile Add-Ons/Sky_Skylands/Skylands.dml
+$EnvGuiServer::WaterFile Add-Ons/Water_Lava/lava.water
+$EnvGuiServer::GroundFile Add-Ons/Ground_Lava/groundLava.ground
+$EnvGuiServer::DayCycleEnabled 0
+$EnvGuiServer::WaterHeight 0
+
+$MiniGame::Enabled 1
+$MiniGame::GameColor 0
+$MiniGame::InviteOnly 0
+$MiniGame::IncludeAllPlayersBricks 1
+$MiniGame::PlayersUseOwnBricks 0
+
+$MiniGame::Points_BreakBrick 0
+$MiniGame::Points_PlantBrick 0
+$MiniGame::Points_KillPlayer 1
+$MiniGame::Points_KillBot 0
+$MiniGame::Points_KillSelf	-1
+$MiniGame::Points_Die 0
+   
+$MiniGame::RespawnTime -1
+$MiniGame::VehicleRespawnTime -1
+$MiniGame::BrickRespawnTime 60
+$MiniGame::BotRespawnTime 5
+
+$MiniGame::UseSpawnBricks 1
+$MiniGame::FallingDamage 0
+$MiniGame::WeaponDamage 1
+$MiniGame::SelfDamage 1
+$MiniGame::VehicleDamage 1
+$MiniGame::BrickDamage 1
+$MiniGame::BotDamage 1
+$MiniGame::EnableWand 0
+$MiniGame::EnableBuilding 0
+$MiniGame::EnablePainting 0
+
+$MiniGame::PlayerDataBlockName No-Jet Player
+
+$MiniGame::StartEquipName0 0
+$MiniGame::StartEquipName1 0 
+$MiniGame::StartEquipName2 0
+$MiniGame::StartEquipName3 0
+$MiniGame::StartEquipName4 0
+
+$Server::Quota::Schedules 9999
+$Server::Quota::Misc 999
+$Server::Quota::Projectile 999
+$Server::Quota::Item 999
+$Server::Quota::Environment 9999
+$Server::Quota::Player 100
+$Server::Quota::Vehicle 50
+$Server::MaxPhysVehicles_Total 20

@@ -1,0 +1,24 @@
+<color:0000ff>================
+<color:00ffff>Welcome to TheBlackParrot's Take(placeholder)!
+<color:ffffff>This is under heavy development, so bugs and weird things are bound to occur. Please report them immediately if you come across any.
+<a:github.com/TheBlackParrot/blockland-brickochet>GitHub Repository</a> \c7|| <a:github.com/TheBlackParrot/blockland-brickochet/issues>Issues/To-do List</a>
+<color:ff00ff>==-- GAMEMODE INFO --==
+<color:ff00bb>-- YOUR GOAL --
+<color:ffffff>You want your lasers to hit as many bricks as possible within 10 minute rounds. The winner is decided by who "owns" the most bricks after the round is over.
+<color:ffffff>You ARE ALLOWED to steal bricks from other players.
+<color:ff00bb>-- CONTROL INFO --
+<color:ffffff>You can jump an infinite amount of times in the air, <color:ffffbb>as long as you're inside a brick.<color:ffffff> Try clicking over and over to gain some air!
+<color:ffffff>Jets are on if you need to prevent gravity, they're practically useless here otherwise.
+<color:ffffff>Lasers will last for 30 seconds (due to TGE limitations), or until it hits an edge (except the bottom) of the playing area.
+<color:ff00bb>-- SAVING/LOADING --
+<color:ffffff>Both saving and loading is automatic. Every time your laser explodes, your game saves. Crashes + data loss is a thing of the past.
+<color:ffffff>Your game loads when you enter the server, and it would be pointless to re-load your data manually due to the way it saves.
+<color:ffffff>Your data is fine, trust me.
+<color:ff00ff>==-- COMMANDS --==
+<color:ffee00>/cancel <color:ffffff>-- Cancels your current laser.
+<color:ffee00>/changeColor <color:ff00ff>[num (optional)] <color:ffffff>-- Changes the color you use in the game. <color:44bbff>USE THE PAINT CAN TO CHOOSE A COLOR. You CANNOT choose the first color.
+<color:ffee00>/changelog <color:ffffff>-- View updates to the gamemode and server.
+<color:ffee00>/leaderboard <color:ffffff>-- Shows the current leaderboard.
+<color:ffee00>/help <color:ffffff>-- This command you're reading.
+<color:ffee00>/togglefloat <color:ffffff>-- Toggles float mode. When on, while you are inside bricks, you will be pushed up at a constant rate similar to jumping. (off by default)
+<color:0000ff>================

@@ -1,0 +1,75 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700|Orbitron:700);
+
+body {
+	font-family: "Roboto";
+	font-size: 12pt;
+	line-height: 18pt;
+	color: #222;
+}
+
+strong {
+	font-weight: 700;
+}
+
+.wrapper {
+	width: 900px;
+	margin: auto;
+	margin-top: 48px;
+	margin-bottom: 48px;
+}
+
+h1 {
+	font-family: "Orbitron";
+	font-size: 36pt;
+	font-weight: 700;
+	text-align: center;
+	text-shadow: 0px 1px 4px rgba(0, 0, 0, 0.33);
+}
+
+hr {
+	margin: 0;
+	padding: 0;
+	border: none;
+	width: calc(400px - 100px);
+	padding: 16px 50px 16px 50px;
+	border-bottom: 1px solid #555;
+	margin: auto;
+	margin-bottom: 16px;
+}
+
+.wrapper .section {
+	margin-bottom: 48px;
+}
+
+.wrapper .section .left {
+	width: calc(33% - 16px);
+	margin-right: 16px;
+	display: inline-block;
+	float: left;
+}
+.wrapper .section .left img {
+	width: 100%;
+}
+
+.wrapper .section .right {
+	width: calc(66% - 16px);
+	display: inline-block;
+}
+
+.wrapper h2 {
+	font-size: 16pt;
+	font-weight: 700;
+	line-height: 32pt;
+}
+.wrapper .rule, .wrapper .term {
+	margin-bottom: 16px;
+}
+.wrapper .rule-extra {
+	margin-left: 32px;
+	width: calc(100% - 32px);
+}
+
+.term-name {
+	display: block;
+	font-weight: 700;
+}

@@ -1,0 +1,77 @@
+//add-ons to load
+ADDON Brick_Large_Cubes
+ADDON GameMode_Jumping_Simulator
+ADDON Player_No_Jet
+
+//music
+
+//environment
+$EnvGuiServer::SimpleMode 0
+$EnvGuiServer::SkyFile Add-Ons/Sky_Blue2/Blue2.dml
+$EnvGuiServer::WaterFile NONE
+$EnvGuiServer::GroundFile Add-Ons/Ground_White/white.ground
+$EnvGuiServer::SunFlareTopTexture base/lighting/corona.png
+$EnvGuiServer::SunFlareBottomTexture base/lighting/corona.png
+$EnvGuiServer::DayOffset 
+$EnvGuiServer::DayLength 10
+$EnvGuiServer::DayCycleEnabled 0
+$EnvGuiServer::DayCycle Add-Ons/DayCycle_Default/default.daycycle
+$EnvGuiServer::SunAzimuth 250
+$EnvGuiServer::SunElevation 35
+$EnvGuiServer::DirectLightColor 0.700000 0.700000 0.700000 1.000000
+$EnvGuiServer::AmbientLightColor 0.400000 0.400000 0.300000 1.000000
+$EnvGuiServer::ShadowColor 0.300000 0.300000 0.400000 1.000000
+$EnvGuiServer::SunFlareColor 0.000000 0.000000 0.000000 1.000000
+$EnvGuiServer::SunFlareSize 1
+$EnvGuiServer::VisibleDistance 900
+$EnvGuiServer::FogDistance 500
+$EnvGuiServer::FogHeight 
+$EnvGuiServer::FogColor 0.950000 0.950000 1.000000 1.000000
+$EnvGuiServer::WaterColor 255 255 255 128
+$EnvGuiServer::WaterHeight 5
+$EnvGuiServer::UnderWaterColor 0 0 128 128
+$EnvGuiServer::SkyColor 1.0 1.0 1.0 1.0
+$EnvGuiServer::WaterScrollX 0
+$EnvGuiServer::WaterScrollY 0
+$EnvGuiServer::GroundColor 1.000000 1.000000 1.000000 0.000000
+$EnvGuiServer::GroundScrollX 0
+$EnvGuiServer::GroundScrollY 0
+$EnvGuiServer::VignetteMultiply 0
+$EnvGuiServer::VignetteColor 0.000000 0.000000 0.000000 0.392157
+
+
+
+
+//minigame rules
+$MiniGame::Enabled 1
+$MiniGame::GameColor 8
+$MiniGame::IncludeAllPlayersBricks 1
+$MiniGame::PlayersUseOwnBricks 0
+$MiniGame::Points_BreakBrick 0
+$MiniGame::Points_PlantBrick 0
+$MiniGame::Points_KillPlayer 0
+$MiniGame::Points_KillSelf 0
+$MiniGame::Points_Die 0
+$MiniGame::RespawnTime 3
+$MiniGame::UseSpawnBricks 0
+$MiniGame::FallingDamage 0
+$MiniGame::WeaponDamage 0
+$MiniGame::SelfDamage 0
+$MiniGame::VehicleDamage 0
+$MiniGame::BrickDamage 0
+$MiniGame::EnableWand 0
+$MiniGame::EnableBuilding 0
+$MiniGame::EnablePainting 1
+$MiniGame::BotDamage 0
+$MiniGame::BotRespawnTime 15
+$MiniGame::Points_KillBot 0
+$MiniGame::PlayerDataBlockName No-Jet Player
+
+$MiniGame::StartEquipName0 Hammer
+$MiniGame::StartEquipName1 Printer
+$MiniGame::StartEquipName2 0
+$MiniGame::StartEquipName3 0
+$MiniGame::StartEquipName4 0
+
+//config settings
+$Server::WelcomeMessage \c2Welcome to Blockland, %1.

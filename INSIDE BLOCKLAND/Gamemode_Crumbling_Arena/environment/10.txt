@@ -1,0 +1,32 @@
+$EnvGuiServer::SimpleMode 0
+$EnvGuiServer::SkyFile Add-Ons/Sky_Blank/white.dml
+$EnvGuiServer::WaterFile Add-Ons/Water_Brick/brick.water
+$EnvGuiServer::GroundFile Add-Ons/Ground_Bedroom/TTasphalt01.ground
+$EnvGuiServer::SunFlareTopTexture base/lighting/flare.jpg
+$EnvGuiServer::SunFlareBottomTexture base/lighting/corona2.png
+$EnvGuiServer::DayOffset 
+$EnvGuiServer::DayLength 300
+$EnvGuiServer::DayCycleEnabled 0
+$EnvGuiServer::DayCycle Add-Ons/DayCycle_Default/default.daycycle
+$EnvGuiServer::SunAzimuth 40
+$EnvGuiServer::SunElevation 116
+$EnvGuiServer::DirectLightColor 0.155316 0.395573 0.392118 0.335423
+$EnvGuiServer::AmbientLightColor 0.447651 0.674340 0.634520 0.383880
+$EnvGuiServer::ShadowColor 0.871290 0.768285 0.558460 0.041881
+$EnvGuiServer::SunFlareColor 0.886817 0.727814 0.371173 0.308761
+$EnvGuiServer::SunFlareSize 3.50523
+$EnvGuiServer::VisibleDistance 321.538
+$EnvGuiServer::FogDistance 107.692
+$EnvGuiServer::FogHeight 
+$EnvGuiServer::FogColor 0.536499 0.936469 0.239176 0.822887
+$EnvGuiServer::WaterColor 0.256230 0.459928 0.003449 0.961582
+$EnvGuiServer::WaterHeight 5
+$EnvGuiServer::UnderWaterColor 0.309032 0.901830 0.064766 0.530404
+$EnvGuiServer::SkyColor 0.501599 0.369784 0.966920 0.027360
+$EnvGuiServer::WaterScrollX 0
+$EnvGuiServer::WaterScrollY 0
+$EnvGuiServer::GroundColor 0.000000 0.000000 0.000000 1.000000
+$EnvGuiServer::GroundScrollX 0
+$EnvGuiServer::GroundScrollY 0
+$EnvGuiServer::VignetteMultiply 1
+$EnvGuiServer::VignetteColor 0.803379 0.394133 0.201328 0.713766

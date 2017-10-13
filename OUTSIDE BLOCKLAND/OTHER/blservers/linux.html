@@ -1,0 +1,96 @@
+<html>
+
+<body style="font-family: sans-serif;">
+	<h1>Instructions for setting up xdg-open</h1>
+	<ol>
+		<li>Install <tt>xdg-utils</tt> if it's not installed already
+			<ul>
+				<li>Most distros already have it installed, test via <tt>xdg-open</tt></li>
+				<li>Package name may vary between distros</li>
+			</ul>
+		</li>
+		<br/>
+		<li>Create the <tt>bl-handler</tt> bash script
+			<ul>
+				<li>Directory may vary between distros</li>
+				<li><tt>sudo nano /usr/bin/bl-handler</tt></li>
+				<li><tt>sudo chmod +x /usr/bin/bl-handler</tt></li>
+				<li><em>See below for <tt>bl-handler</tt> source</em></li>
+			</ul>
+		</li>
+		<br/>
+		<li>Create a .desktop file in <tt>/usr/share/applications</tt>
+			<ul>
+				<li><tt>sudo nano /usr/share/applications/blockland.desktop</tt></li>
+				<li><em>See below for <tt>blockland.desktop</tt> source</em></li>
+			</ul>
+		</li>
+		<br/>
+		<li>Set the default desktop entry for <tt>x-scheme-handler/linuxbl</tt>
+			<ul>
+				<li><tt>xdg-mime default blockland.desktop x-scheme-handler/linuxbl</tt></li>
+			</ul>
+		</li>
+		<br/>
+		<li>Test it through the server browser by clicking on a server. Links will be formatted as <tt>linuxbl://IP:PORT</tt></li>
+	</ol>
+	<a href="index.html">Return</a>
+	<br/>
+	<br/>
+	<h2>bl-handler</h2>
+	<pre style="background-color: #ccc; padding: 8px;">
+#!/bin/bash
+
+ADDRESS=$(echo "$1" | sed -e 's/linuxbl:\/\///g')
+BL_PATH="$HOME/.wine/drive_c/Program Files (x86)/Blockland/BlocklandLauncher.exe"
+
+wine "$BL_PATH" -connect $ADDRESS
+	</pre>
+	<h2>blockland.desktop</h2>
+	<pre style="background-color: #ccc; padding: 8px;">
+[Desktop Entry]
+Name=Blockland
+Comment=That game where you build stuff
+Exec=bl-handler %u
+Type=Application
+MimeType=x-scheme-handler/linuxbl;
+	</pre>
+</body>
+
+</html>
+
+<!--
+	1. Install xdg-utils if it's not installed already
+	- Most distros already have it installed, test via <tt>xdg-open</tt>
+	- Package name may vary
+
+2. Create the bl-handler bash script
+	- Directory may vary between distros
+	- <tt>sudo nano /usr/bin/bl-handler</tt>
+	- <tt>sudo chmod +x /usr/bin/bl-handler</tt>
+
+3. Create a .desktop file in /usr/share/applications
+	- <tt>sudo nano /usr/share/applications/blockland.desktop</tt>
+
+4. Set the default desktop entry for x-scheme-handler/linuxbl
+	- <tt>xdg-mime default blockland.desktop x-scheme-handler/linuxbl</tt>
+
+5. Test it through the server browser. Links will be formatted as <tt>linuxbl://IP:PORT</tt>
+
+
+[Desktop Entry]
+Name=Blockland
+Comment=That game where you build stuff
+Exec=bl-handler %u
+Type=Application
+MimeType=x-scheme-handler/linuxbl;
+
+
+
+#!/bin/bash
+
+ADDRESS=$(echo "$1" | sed -e 's/linuxbl:\/\///g')
+BL_PATH="$HOME/.wine/drive_c/Program Files (x86)/Blockland/BlocklandLauncher.exe"
+
+wine "$BL_PATH" -connect $ADDRESS
+-->

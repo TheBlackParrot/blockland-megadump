@@ -1,0 +1,5 @@
+Don't let the lava touch you, or you die!
+The last man standing wins.
+
+Game Mode by Zapk (BL_ID 12270)
+Deprecation/General Public updates by TheBlackParrot (BL_ID 18701)

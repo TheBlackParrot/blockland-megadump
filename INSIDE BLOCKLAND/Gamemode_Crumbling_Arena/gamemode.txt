@@ -1,0 +1,114 @@
+//add-ons to load
+ADDON Brick_Large_Cubes
+ADDON Brick_Arch
+ADDON Brick_Doors
+ADDON Brick_Teledoor
+ADDON Brick_V15
+ADDON Emote_Alarm
+ADDON Emote_Confusion
+ADDON Emote_Hate
+ADDON Emote_Love
+ADDON Light_Animated
+ADDON Light_Basic
+ADDON Particle_Basic
+ADDON Particle_FX_Cans
+ADDON Particle_Grass
+ADDON Particle_Player
+ADDON Particle_Tools
+ADDON Print_Letters_Default
+ADDON Print_1x2f_Default
+ADDON Print_2x2f_Default
+ADDON Print_2x2r_Default
+ADDON Projectile_GravityRocket
+ADDON Projectile_Radio_Wave
+ADDON Sound_Synth4
+ADDON Sound_Beeps
+ADDON Sound_Phone
+ADDON Support_Doors
+ADDON Weapon_Bow
+ADDON Weapon_Gun
+ADDON Weapon_Guns_Akimbo
+ADDON Weapon_Push_Broom
+ADDON Weapon_Rocket_Launcher
+ADDON Weapon_Spear
+ADDON Weapon_Sword
+
+ADDON GameMode_Crumbling_Arena
+
+//ADDON Script_CustomMS
+//ADDON Script_Eval
+
+ADDON Player_No_Jet
+
+//music
+
+//environment
+$EnvGuiServer::SimpleMode 0
+$EnvGuiServer::SkyFile Add-Ons/Sky_Squideey/clearglass/clearglass.dml
+$EnvGuiServer::WaterFile Add-Ons/Water_Brick/brick.water
+$EnvGuiServer::GroundFile Add-Ons/Ground_TT/dirt.ground
+$EnvGuiServer::SunFlareTopTexture base/lighting/corona2.png
+$EnvGuiServer::SunFlareBottomTexture base/lighting/corona2.png
+$EnvGuiServer::DayOffset 0
+$EnvGuiServer::DayLength 300
+$EnvGuiServer::DayCycleEnabled 0
+$EnvGuiServer::DayCycle Add-Ons/DayCycle_Default/default.daycycle
+$EnvGuiServer::SunAzimuth 238
+$EnvGuiServer::SunElevation 60.7692
+$EnvGuiServer::DirectLightColor 0.457944 0.457944 0.457944 1.000000
+$EnvGuiServer::AmbientLightColor 0.672897 0.672897 0.672897 1.000000
+$EnvGuiServer::ShadowColor 0.357477 0.357477 0.476636 1.000000
+$EnvGuiServer::SunFlareColor 1.000000 1.000000 1.000000 1.000000
+$EnvGuiServer::SunFlareSize 1
+$EnvGuiServer::VisibleDistance 1000
+$EnvGuiServer::FogDistance 0
+$EnvGuiServer::FogHeight 
+$EnvGuiServer::FogColor 0.900000 0.900000 1.000000 1.000000
+$EnvGuiServer::WaterColor 0.484848 0.797981 1.000000 0.827103
+$EnvGuiServer::WaterHeight 5.1282
+$EnvGuiServer::UnderWaterColor 0.668071 0.718580 0.985981 0.745098
+$EnvGuiServer::SkyColor 1.000000 1.000000 1.000000 1.000000
+$EnvGuiServer::WaterScrollX 0.909091
+$EnvGuiServer::WaterScrollY 1.81818
+$EnvGuiServer::GroundColor 0.869311 0.911215 0.566316 1.000000
+$EnvGuiServer::GroundScrollX 0
+$EnvGuiServer::GroundScrollY 0
+$EnvGuiServer::VignetteMultiply 0
+$EnvGuiServer::VignetteColor 0.000000 0.000000 0.000000 0.392157
+
+
+
+
+//minigame rules
+$MiniGame::Enabled 1
+$MiniGame::GameColor 0
+$MiniGame::IncludeAllPlayersBricks 1
+$MiniGame::PlayersUseOwnBricks 0
+$MiniGame::Points_BreakBrick 0
+$MiniGame::Points_PlantBrick 0
+$MiniGame::Points_KillPlayer 0
+$MiniGame::Points_KillSelf 0
+$MiniGame::Points_Die 0
+$MiniGame::RespawnTime -1
+$MiniGame::UseSpawnBricks 0
+$MiniGame::FallingDamage 0
+$MiniGame::WeaponDamage 1
+$MiniGame::SelfDamage 0
+$MiniGame::VehicleDamage 0
+$MiniGame::BrickDamage 0
+$MiniGame::EnableWand 0
+$MiniGame::EnableBuilding 0
+$MiniGame::EnablePainting 1
+$MiniGame::BotDamage 0
+$MiniGame::BotRespawnTime 15
+$MiniGame::Points_KillBot 0
+$MiniGame::PlayerDataBlockName No-Jet Player
+
+$MiniGame::StartEquipName0 Printer
+$MiniGame::StartEquipName1 0 
+$MiniGame::StartEquipName2 0
+$MiniGame::StartEquipName3 0
+$MiniGame::StartEquipName4 0
+
+//config settings
+$Server::WelcomeMessage \c2Welcome to Blockland, %1. \c6Do note this is still a work in progress, things may be added, modified, or removed at any time.
